@@ -4,34 +4,6 @@ import requests
 import simplejson as json
 from pprint import pprint
 
-# {
-#     "block_address": "700 Block FY & W OCEAN BLVD",
-#     "case_number": 160066383,
-#     "city": "Long Beach",
-#     "date_occured": "2016-10-17 00:31:00 UTC",
-#     "description": null,
-#     "id": 3168415,
-#     "incident_id": 151,
-#     "latitude": 33.7666822,
-#     "longitude": -118.2115817,
-#     "state": "CA",
-#     "title": "TRAFFIC ACCIDENT WITHOUT INJURY"
-# }
-
-# {'block': 'ST. LOUIS & NO 7TH ST',
-#  'caseID': '150059352',
-#  'createdAt': '2015-09-27T06:00:09.016Z',
-#  'description': '\n      ',
-#  'incident': '169',
-#  'location': {'__type': 'GeoPoint',
-#               'latitude': 33.7753428,
-#               'longitude': -118.1666194},
-#  'objectId': '9wUXgy12Is',
-#  'occurred': {'__type': 'Date', 'iso': '2015-09-25T17:27:00.000Z'},
-#  'title': 'DUI ALCOHOL/DRUGS',
-#  'updatedAt': '2015-09-27T06:00:09.016Z',
-#  'url': '1337'}
-
 
 def cleanup_legacy_data(records):
     """
