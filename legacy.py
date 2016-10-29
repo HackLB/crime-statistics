@@ -77,8 +77,3 @@ if __name__ == "__main__":
 
     cleaned_data = cleanup_legacy_data(data)
     save_legacy_data(cleaned_data)
-
-    # data = get_crime_data()                                    # Fetch crime data as JSON
-    # cleaned_data = cleanup_crime_data(data)                    # A little bit of cleanup
-    # save_crime_data(cleaned_data)                              # Save it into _data
-
