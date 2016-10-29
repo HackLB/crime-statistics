@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-dtstamp = $(date +%Y%m%d_%H%M%S)
+dtstamp=$(date +%Y%m%d_%H%M%S)
 
 workon crime-statistics
 git pull
