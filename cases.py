@@ -57,7 +57,7 @@ def save_crime_data(records):
     """
     print('Saving crime data...')
     for record in records:
-        base_name = str(record['id']).zfill(10)
+        base_name = str(record['case_number']).zfill(12)
         file_name = '{}.json'.format(base_name)
 
         directory = get_subdirectory(base_name)
