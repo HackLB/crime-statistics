@@ -31,7 +31,6 @@ def cleanup_legacy_data(records):
         cleaned['latitude'] = record['location']['latitude']
         cleaned['longitude'] = record['location']['longitude']
 
-        pprint(cleaned)
         cleaned_data.append(cleaned)
     return cleaned_data
 
