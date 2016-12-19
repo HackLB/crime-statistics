@@ -27,7 +27,7 @@ def cleanup_crime_data(records):
     print('Cleaning crime data...')
     cleaned_data = []
     for record in records['item']:
-
+        print(record)
         # record['description'] = record['description'].strip()
         # if len(record['description']) == 0:
         #     record['description'] = None
