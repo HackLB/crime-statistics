@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+  <item>
+    <id>3316355</id>
+    <case_number>160078484</case_number>
+    <title>
+      <![CDATA[BATTERY]]>
+    </title>
+    <description>
+      <![CDATA[]]>
+    </description>
+    <date_occured>2016-12-09 17:13:00 UTC</date_occured>
+    <block_address>600 Block VIA BAROLA</block_address>
+    <city>Long Beach</city>
+    <state>CA</state>
+    <latitude>33.848869</latitude>
+    <longitude>-118.1835979</longitude>
+    <incident_id>149</incident_id>
+  </item>
+</data>
