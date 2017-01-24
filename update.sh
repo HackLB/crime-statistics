@@ -5,6 +5,7 @@ dtstamp=$(date +%Y%m%d_%H%M%S)
 
 git pull
 ./cases.py
+./crimereports.py
 git add -A
 git commit -m "$dtstamp"
 git push
