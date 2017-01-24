@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-24T12:40:09.677Z",
+    ":updated_at": "2017-01-24T12:40:09.677Z",
+    ":version": "rv-6sv7_wpcx.z4k9",
+    "address_1": "4900 Block CLAIR DEL AV",
+    "case_number": "170004500",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-24T10:34:32.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "8",
+    "incident_datetime": "2017-01-23T08:21:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "790521822",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8466364",
+    "location": {
+        "coordinates": [
+            -118.1648824,
+            33.8466364
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1648824",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-jnie-7t9w-mm4q",
+    "state": "CA",
+    "updated_at": "2017-01-24T12:40:05.000",
+    "zip": "90807"
+}

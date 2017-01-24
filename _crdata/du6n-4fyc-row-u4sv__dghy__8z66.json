@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:23.546Z",
-    ":updated_at": "2017-01-23T12:30:50.747Z",
-    ":version": "rv-pbjj~et9p_4j67",
+    ":updated_at": "2017-01-24T12:30:37.229Z",
+    ":version": "rv-bmp2-3a6j_53g6",
     "address_1": "2000 Block SANTA FE AV",
     "case_number": "170002144",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-u4sv__dghy__8z66",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:45.000",
+    "updated_at": "2017-01-24T12:30:31.000",
     "zip": "90810"
 }

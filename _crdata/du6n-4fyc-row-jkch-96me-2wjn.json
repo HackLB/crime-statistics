@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:18.409Z",
-    ":updated_at": "2017-01-23T12:30:40.784Z",
-    ":version": "rv-a7xn~zfp4_e2j3",
+    ":updated_at": "2017-01-24T12:30:42.418Z",
+    ":version": "rv-qf8b.cyhk~x279",
     "address_1": "4100 Block DONALD DOUGLAS DR",
     "case_number": "170002722",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-jkch-96me-2wjn",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:36.000",
+    "updated_at": "2017-01-24T12:30:39.000",
     "zip": "90808"
 }

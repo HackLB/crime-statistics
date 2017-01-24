@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-15T12:30:14.965Z",
-    ":updated_at": "2017-01-23T12:30:40.784Z",
-    ":version": "rv-ziwi.rkbd_kmac",
+    ":updated_at": "2017-01-24T12:30:50.523Z",
+    ":version": "rv-c346-iw4r_varx",
     "address_1": "W 20TH ST & MAINE AV",
     "case_number": "170002778",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-gs9v__grfd__6hvt",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:37.000",
+    "updated_at": "2017-01-24T12:30:44.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:26.936Z",
-    ":updated_at": "2017-01-23T12:31:04.829Z",
-    ":version": "rv-xpqy~88ae_8p75",
+    ":updated_at": "2017-01-24T12:30:59.080Z",
+    ":version": "rv-4fcy_hvy7-gtz2",
     "address_1": "2100 Block LINDEN AV",
     "case_number": "170002404",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-zjsu_vj4k-pmzx",
     "state": "CA",
-    "updated_at": "2017-01-23T12:31:01.000",
+    "updated_at": "2017-01-24T12:30:56.000",
     "zip": "90806"
 }

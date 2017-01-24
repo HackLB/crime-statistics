@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-01-23T12:30:21.377Z",
-    ":version": "rv-rjua_fqk3-jnsk",
+    ":updated_at": "2017-01-24T12:30:46.590Z",
+    ":version": "rv-4ted.zg2k.6vb2",
     "address_1": "2300 Block ATLANTIC AV",
     "case_number": "170004397",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-niye_tcv4_yc5m",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:13.000",
+    "updated_at": "2017-01-24T12:30:40.000",
     "zip": "90806"
 }

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-24T12:40:09.677Z",
+    ":updated_at": "2017-01-24T12:40:09.677Z",
+    ":version": "rv-aqbx_4vdj-6num",
+    "address_1": "3600 Block FALCON AV",
+    "case_number": "170004461",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-24T10:34:32.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "1",
+    "incident_datetime": "2017-01-23T01:40:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "790521828",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8221595",
+    "location": {
+        "coordinates": [
+            -118.173048,
+            33.8221595
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.173048",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-wzk5__9h95__z6z7",
+    "state": "CA",
+    "updated_at": "2017-01-24T12:40:05.000",
+    "zip": "90807"
+}

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-23T12:32:09.874Z",
-    ":version": "rv-8sy9_4cin~m6xa",
+    ":updated_at": "2017-01-24T12:30:59.080Z",
+    ":version": "rv-pytr.qg8s_bs4j",
     "address_1": "1300 Block WESLEY DR",
     "case_number": "170003458",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-7c2x-cr9m__3pkf",
     "state": "CA",
-    "updated_at": "2017-01-23T12:32:04.000",
+    "updated_at": "2017-01-24T12:30:52.000",
     "zip": "90806"
 }

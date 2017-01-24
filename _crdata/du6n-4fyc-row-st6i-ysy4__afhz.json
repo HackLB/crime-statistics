@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-23T12:32:09.874Z",
-    ":version": "rv-5u7w_edfh_7zgb",
+    ":updated_at": "2017-01-24T12:31:24.038Z",
+    ":version": "rv-gmjx_h7mh.4dy8",
     "address_1": "400 Block ATLANTIC AV",
     "case_number": "170003592",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Drugs",
     "primary_key": "du6n-4fyc-row-st6i-ysy4__afhz",
     "state": "CA",
-    "updated_at": "2017-01-23T12:32:05.000",
+    "updated_at": "2017-01-24T12:31:19.000",
     "zip": "90802"
 }

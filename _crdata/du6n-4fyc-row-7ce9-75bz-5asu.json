@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:07.821Z",
-    ":updated_at": "2017-01-23T12:30:40.784Z",
-    ":version": "rv-if75-gatq~qx5w",
+    ":updated_at": "2017-01-24T12:30:50.523Z",
+    ":version": "rv-j3at~wmas-edq9",
     "address_1": "BELLFLOWER BLVD & ATHERTON ST",
     "case_number": "170002788",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-7ce9-75bz-5asu",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:38.000",
+    "updated_at": "2017-01-24T12:30:45.000",
     "zip": "90815"
 }

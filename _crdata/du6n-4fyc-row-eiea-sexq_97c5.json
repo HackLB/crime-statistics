@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-14T12:30:41.376Z",
-    ":updated_at": "2017-01-23T12:30:32.676Z",
-    ":version": "rv-9szc_uz79.xjbw",
+    ":updated_at": "2017-01-24T12:31:13.794Z",
+    ":version": "rv-7iqk_hg7j_h43g",
     "address_1": "1400 Block VIA PLATA ST",
     "case_number": "170002528",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-eiea-sexq_97c5",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:29.000",
+    "updated_at": "2017-01-24T12:31:10.000",
     "zip": "90810"
 }

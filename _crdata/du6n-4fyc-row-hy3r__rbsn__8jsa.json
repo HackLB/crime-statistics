@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-24T12:40:09.677Z",
+    ":updated_at": "2017-01-24T12:40:09.677Z",
+    ":version": "rv-fiy3_ec9b~ytfr",
+    "address_1": "2000 Block OLIVE AV",
+    "case_number": "170004562",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-24T10:34:32.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-22T22:00:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "790521832",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.7935032",
+    "location": {
+        "coordinates": [
+            -118.1828351,
+            33.7935032
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1828351",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-hy3r__rbsn__8jsa",
+    "state": "CA",
+    "updated_at": "2017-01-24T12:40:05.000",
+    "zip": "90806"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-24T12:40:09.677Z",
+    ":updated_at": "2017-01-24T12:40:09.677Z",
+    ":version": "rv-hbnh_qvc4_wmgc",
+    "address_1": "3600 Block ATLANTIC AV",
+    "case_number": "170004604",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-24T10:34:32.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "18",
+    "incident_datetime": "2017-01-23T18:01:00.000",
+    "incident_description": "TAKE VEHICLE WITHOUT CONSENT",
+    "incident_id": "790521794",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.8222454",
+    "location": {
+        "coordinates": [
+            -118.1849979,
+            33.8222454
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1849979",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-7dqq_vn7u-8k37",
+    "state": "CA",
+    "updated_at": "2017-01-24T12:40:04.000",
+    "zip": "90807"
+}

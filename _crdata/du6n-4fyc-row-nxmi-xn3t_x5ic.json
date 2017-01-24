@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-24T12:40:13.438Z",
+    ":updated_at": "2017-01-24T12:40:13.438Z",
+    ":version": "rv-db5g_4d8v_2iwu",
+    "address_1": "1500 Block GRAND AV",
+    "case_number": "170004491",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-24T10:34:32.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "7",
+    "incident_datetime": "2017-01-23T07:59:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "790521823",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.7857822",
+    "location": {
+        "coordinates": [
+            -118.1480835,
+            33.7857822
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1480835",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-nxmi-xn3t_x5ic",
+    "state": "CA",
+    "updated_at": "2017-01-24T12:40:06.000",
+    "zip": "90804"
+}

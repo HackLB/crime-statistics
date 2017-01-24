@@ -1,8 +1,8 @@
 {
     ":created_at": "2017-01-16T12:30:22.353Z",
-    ":updated_at": "2017-01-23T12:32:05.990Z",
-    ":version": "rv-j6sj~bmsr~hjer",
-    "address_1": "1100 Block SALT LAKE ST",
+    ":updated_at": "2017-01-24T12:41:52.927Z",
+    ":version": "rv-5zis-e3bx.9tgs",
+    "address_1": "ORANGE AV & E 21ST ST",
     "case_number": "170003033",
     "categorization": {
         "category": "violent",
@@ -13,23 +13,23 @@
     "clearance_type": "",
     "created_at": "2017-01-16T10:34:23.000",
     "day_of_week": "Sunday",
-    "hour_of_day": "19",
-    "incident_datetime": "2017-01-15T19:00:00.000",
-    "incident_description": "ROBBERY; COMMERCIAL",
+    "hour_of_day": "18",
+    "incident_datetime": "2017-01-15T18:55:00.000",
+    "incident_description": "ROBBERY; PERSON",
     "incident_id": "789388876",
     "incident_type_primary": "Robbery",
-    "latitude": "33.795954",
+    "latitude": "33.7953122",
     "location": {
         "coordinates": [
-            -118.178333,
-            33.795954
+            -118.1763329,
+            33.7953122
         ],
         "type": "Point"
     },
-    "longitude": "-118.178333",
+    "longitude": "-118.1763329",
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-kvua-55z9__5rnh",
     "state": "CA",
-    "updated_at": "2017-01-23T12:32:00.000",
+    "updated_at": "2017-01-24T12:41:49.000",
     "zip": "90806"
 }

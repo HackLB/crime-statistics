@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:39.539Z",
-    ":updated_at": "2017-01-23T12:32:05.990Z",
-    ":version": "rv-p78s-uaj7.9x44",
+    ":updated_at": "2017-01-24T12:31:27.500Z",
+    ":version": "rv-z786.g8mr-6eew",
     "address_1": "2500 Block GOLDEN AV",
     "case_number": "170003121",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-pa33__mcxp__6h72",
     "state": "CA",
-    "updated_at": "2017-01-23T12:32:01.000",
+    "updated_at": "2017-01-24T12:31:23.000",
     "zip": "90806"
 }

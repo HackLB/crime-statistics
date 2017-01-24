@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-23T12:30:21.377Z",
-    ":version": "rv-e4uz.4nrm_qyx7",
+    ":updated_at": "2017-01-24T12:30:18.258Z",
+    ":version": "rv-pdjm_m443-ab78",
     "address_1": "3000 Block SPRINGDALE DR W",
     "case_number": "170003964",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-9an8-qq4q__idib",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:14.000",
+    "updated_at": "2017-01-24T12:30:15.000",
     "zip": "90810"
 }

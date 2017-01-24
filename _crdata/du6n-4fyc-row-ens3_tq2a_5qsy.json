@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-23T12:30:21.377Z",
-    ":version": "rv-7i74-vf4s_6cgz",
+    ":updated_at": "2017-01-24T12:30:18.258Z",
+    ":version": "rv-4ahw-bxm2-rw6e",
     "address_1": "1800 Block DAISY AV E",
     "case_number": "170003984",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-ens3_tq2a_5qsy",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:14.000",
+    "updated_at": "2017-01-24T12:30:15.000",
     "zip": "90806"
 }

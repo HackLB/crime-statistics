@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-13T12:31:01.979Z",
-    ":updated_at": "2017-01-23T12:30:28.667Z",
-    ":version": "rv-hx2x~ma53~u4b9",
+    ":updated_at": "2017-01-24T12:31:03.678Z",
+    ":version": "rv-idan_fnwx~4zuf",
     "address_1": "LONG BEACH BLVD & E PACIFIC COAST HWY",
     "case_number": "170002422",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-xa74-22e3__a79e",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:25.000",
+    "updated_at": "2017-01-24T12:30:59.000",
     "zip": "90813"
 }

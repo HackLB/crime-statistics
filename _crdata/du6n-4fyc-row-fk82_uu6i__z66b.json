@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-23T12:32:09.874Z",
-    ":version": "rv-s5mi.ywv6-xzss",
+    ":updated_at": "2017-01-24T12:31:27.500Z",
+    ":version": "rv-5rx6-fdu8~68bw",
     "address_1": "1700 Block LEMON AV",
     "case_number": "170003620",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-fk82_uu6i__z66b",
     "state": "CA",
-    "updated_at": "2017-01-23T12:32:06.000",
+    "updated_at": "2017-01-24T12:31:25.000",
     "zip": "90813"
 }

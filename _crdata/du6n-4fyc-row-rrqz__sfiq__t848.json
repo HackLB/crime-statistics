@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-13T12:31:01.979Z",
-    ":updated_at": "2017-01-23T12:30:28.667Z",
-    ":version": "rv-kkbc-fhxc-sabc",
+    ":updated_at": "2017-01-24T12:31:03.678Z",
+    ":version": "rv-w6mp-ehwn_wni7",
     "address_1": "4500 Block ORANGE AV",
     "case_number": "170002412",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-rrqz__sfiq__t848",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:24.000",
+    "updated_at": "2017-01-24T12:30:57.000",
     "zip": "90807"
 }

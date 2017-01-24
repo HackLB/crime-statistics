@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-23T12:32:09.874Z",
-    ":version": "rv-khcr~wdfv_7w6v",
+    ":updated_at": "2017-01-24T12:31:24.038Z",
+    ":version": "rv-x5yv-5mpa.qzdk",
     "address_1": "1300 Block E 17TH ST",
     "case_number": "170003595",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-2wgh__kmf6__4r5w",
     "state": "CA",
-    "updated_at": "2017-01-23T12:32:05.000",
+    "updated_at": "2017-01-24T12:31:20.000",
     "zip": "90813"
 }

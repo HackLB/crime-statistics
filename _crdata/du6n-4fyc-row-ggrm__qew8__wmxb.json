@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:23.528Z",
-    ":updated_at": "2017-01-23T12:30:46.702Z",
-    ":version": "rv-esns-mqfi_5zgi",
+    ":updated_at": "2017-01-24T12:30:34.397Z",
+    ":version": "rv-5nqu_k88j~tzcb",
     "address_1": "4900 Block CLAIR DEL AV",
     "case_number": "170002074",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-ggrm__qew8__wmxb",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:41.000",
+    "updated_at": "2017-01-24T12:30:28.000",
     "zip": "90807"
 }

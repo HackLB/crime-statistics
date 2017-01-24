@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-23T12:30:21.377Z",
-    ":version": "rv-pe38_kvv9-c8hg",
+    ":updated_at": "2017-01-24T12:30:18.258Z",
+    ":version": "rv-5m6b~zzxk.r4f7",
     "address_1": "1800 Block CHESTNUT AV",
     "case_number": "170003852",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-tcx7__j8h8__6xmc",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:13.000",
+    "updated_at": "2017-01-24T12:30:14.000",
     "zip": "90806"
 }

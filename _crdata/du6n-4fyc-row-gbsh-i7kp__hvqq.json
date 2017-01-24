@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-14T12:31:04.944Z",
-    ":updated_at": "2017-01-23T12:30:32.676Z",
-    ":version": "rv-39eh.h3mx~y3cr",
+    ":updated_at": "2017-01-24T12:31:13.794Z",
+    ":version": "rv-v498.3ftj~3h54",
     "address_1": "CASPIAN AV & W PACIFIC COAST HWY",
     "case_number": "170002500",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-gbsh-i7kp__hvqq",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:27.000",
+    "updated_at": "2017-01-24T12:31:08.000",
     "zip": "90810"
 }

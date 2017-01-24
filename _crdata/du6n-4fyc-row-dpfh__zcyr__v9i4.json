@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:26.936Z",
-    ":updated_at": "2017-01-23T12:30:56.173Z",
-    ":version": "rv-nxft.3ax2-xspw",
+    ":updated_at": "2017-01-24T12:30:42.418Z",
+    ":version": "rv-9v86~5wgb-5ywu",
     "address_1": "800 Block E WARDLOW RD",
     "case_number": "170002208",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-dpfh__zcyr__v9i4",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:50.000",
+    "updated_at": "2017-01-24T12:30:37.000",
     "zip": "90807"
 }

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-24T12:40:09.677Z",
+    ":updated_at": "2017-01-24T12:40:09.677Z",
+    ":version": "rv-4vpf.zamk.6m8t",
+    "address_1": "1700 Block CLARK AV",
+    "case_number": "170004553",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Robbery",
+        "sub_category": "robbery"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-24T10:34:32.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "13",
+    "incident_datetime": "2017-01-23T13:52:00.000",
+    "incident_description": "ROBBERY; PERSON",
+    "incident_id": "790521807",
+    "incident_type_primary": "Robbery",
+    "latitude": "33.7884046",
+    "location": {
+        "coordinates": [
+            -118.1340348,
+            33.7884046
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1340348",
+    "parent_incident_type": "Robbery",
+    "primary_key": "du6n-4fyc-row-mqzc__eqjs-sabp",
+    "state": "CA",
+    "updated_at": "2017-01-24T12:40:05.000",
+    "zip": "90815"
+}

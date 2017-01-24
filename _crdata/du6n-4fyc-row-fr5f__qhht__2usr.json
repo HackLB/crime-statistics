@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-23T12:30:16.432Z",
-    ":version": "rv-p29x_n6dm.m5fu",
+    ":updated_at": "2017-01-24T12:31:37.215Z",
+    ":version": "rv-vspt.dfv5-i7ms",
     "address_1": "1500 Block MARTIN LUTHER KING JR AV",
     "case_number": "170003657",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-fr5f__qhht__2usr",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:11.000",
+    "updated_at": "2017-01-24T12:31:31.000",
     "zip": "90813"
 }

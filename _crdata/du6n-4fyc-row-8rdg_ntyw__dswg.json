@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-13T12:30:39.946Z",
-    ":updated_at": "2017-01-23T12:30:28.667Z",
-    ":version": "rv-as3j_6us5.t56n",
+    ":updated_at": "2017-01-24T12:30:59.080Z",
+    ":version": "rv-pqxm_7tb5~csqt",
     "address_1": "4400 Block CHARLEMAGNE AV",
     "case_number": "170002391",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-8rdg_ntyw__dswg",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:23.000",
+    "updated_at": "2017-01-24T12:30:51.000",
     "zip": "90808"
 }

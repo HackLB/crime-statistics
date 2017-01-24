@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-01-23T12:30:21.377Z",
-    ":version": "rv-5knw~mabr.jd3h",
+    ":updated_at": "2017-01-24T12:30:42.418Z",
+    ":version": "rv-raex.sre5_if8h",
     "address_1": "100 Block E 49TH ST",
     "case_number": "170004332",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-y3rw-2awa-8sd2",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:13.000",
+    "updated_at": "2017-01-24T12:30:36.000",
     "zip": "90805"
 }

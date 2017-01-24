@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-16T12:30:22.353Z",
-    ":updated_at": "2017-01-23T12:30:46.702Z",
-    ":version": "rv-prjx-iivn_589i",
+    ":updated_at": "2017-01-24T12:31:06.185Z",
+    ":version": "rv-g3tz~xhnp_t8jf",
     "address_1": "REDONDO AV & E SPRING ST",
     "case_number": "170002920",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-d9gh-3h5v_5f78",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:42.000",
+    "updated_at": "2017-01-24T12:31:01.000",
     "zip": "90822"
 }

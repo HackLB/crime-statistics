@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:58.406Z",
-    ":updated_at": "2017-01-23T12:32:09.874Z",
-    ":version": "rv-gt6n.aqqb~i277",
+    ":updated_at": "2017-01-24T12:30:53.422Z",
+    ":version": "rv-6wr6_zj2x~stvb",
     "address_1": "2400 Block SAN FRANCISCO AV",
     "case_number": "170003421",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-xjfb-jmuf-x3je",
     "state": "CA",
-    "updated_at": "2017-01-23T12:32:03.000",
+    "updated_at": "2017-01-24T12:30:48.000",
     "zip": "90806"
 }

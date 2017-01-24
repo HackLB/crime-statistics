@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:19.790Z",
-    ":updated_at": "2017-01-23T12:32:05.990Z",
-    ":version": "rv-zvgs_re6e~cc9x",
+    ":updated_at": "2017-01-24T12:30:42.418Z",
+    ":version": "rv-x2h2-acjj_86qa",
     "address_1": "1700 Block MAGNOLIA AV",
     "case_number": "170003324",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-u5uw-why8__mtgr",
     "state": "CA",
-    "updated_at": "2017-01-23T12:32:03.000",
+    "updated_at": "2017-01-24T12:30:37.000",
     "zip": "90813"
 }

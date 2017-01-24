@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-12T12:31:09.739Z",
-    ":updated_at": "2017-01-23T12:30:50.747Z",
-    ":version": "rv-4xk6_hry8~g4d4",
+    ":updated_at": "2017-01-24T12:30:37.229Z",
+    ":version": "rv-wpbt-hs7x.mvfm",
     "address_1": "2200 Block MCNAB AV",
     "case_number": "170002146",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-37gk__fmrf__6n7u",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:45.000",
+    "updated_at": "2017-01-24T12:30:32.000",
     "zip": "90815"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:23.528Z",
-    ":updated_at": "2017-01-23T12:30:50.747Z",
-    ":version": "rv-p27n-snpi.stuy",
+    ":updated_at": "2017-01-24T12:30:37.229Z",
+    ":version": "rv-5zmn-wcza-b2t3",
     "address_1": "1600 Block E PACIFIC COAST HWY",
     "case_number": "170002164",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-n8wr__rwnp-arav",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:46.000",
+    "updated_at": "2017-01-24T12:30:33.000",
     "zip": "90810"
 }

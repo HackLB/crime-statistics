@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:18.409Z",
-    ":updated_at": "2017-01-23T12:30:32.676Z",
-    ":version": "rv-vqg3_abvu_9nc9",
+    ":updated_at": "2017-01-24T12:31:13.794Z",
+    ":version": "rv-i27e.aid3_zsbp",
     "address_1": "4700 Block FACULTY AV",
     "case_number": "170002530",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-t4bi__jcat__z4kh",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:29.000",
+    "updated_at": "2017-01-24T12:31:10.000",
     "zip": "90808"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-14T12:30:17.438Z",
-    ":updated_at": "2017-01-23T12:31:01.414Z",
-    ":version": "rv-it3j_qrxa-98u6",
+    ":updated_at": "2017-01-24T12:30:50.523Z",
+    ":version": "rv-rswr-s3qs-8y8p",
     "address_1": "1000 Block E SAN ANTONIO DR",
     "case_number": "170002304",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-9y3y__f4ac_dyc3",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:58.000",
+    "updated_at": "2017-01-24T12:30:45.000",
     "zip": "90807"
 }

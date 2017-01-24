@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:42.145Z",
-    ":updated_at": "2017-01-23T12:32:09.874Z",
-    ":version": "rv-qcyz_39m5_weu3",
+    ":updated_at": "2017-01-24T12:30:59.080Z",
+    ":version": "rv-vn9j.zpqm.wq66",
     "address_1": "800 Block CLAIBORNE DR",
     "case_number": "170003454",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-azgu__5u8q__y2dg",
     "state": "CA",
-    "updated_at": "2017-01-23T12:32:04.000",
+    "updated_at": "2017-01-24T12:30:51.000",
     "zip": "90807"
 }

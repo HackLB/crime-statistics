@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:07.821Z",
-    ":updated_at": "2017-01-23T12:30:35.023Z",
-    ":version": "rv-2bzx-2wqr~69fk",
+    ":updated_at": "2017-01-24T12:31:17.939Z",
+    ":version": "rv-q4nj-mw3d-6gub",
     "address_1": "ARBOR RD & SUNFIELD AV",
     "case_number": "170002575",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-sf93__dihu-rn8w",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:31.000",
+    "updated_at": "2017-01-24T12:31:13.000",
     "zip": "90808"
 }

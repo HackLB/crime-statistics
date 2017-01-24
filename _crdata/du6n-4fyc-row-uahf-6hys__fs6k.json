@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-13T12:31:01.979Z",
-    ":updated_at": "2017-01-23T12:30:56.173Z",
-    ":version": "rv-e2ev.gc8z~sny7",
+    ":updated_at": "2017-01-24T12:30:46.590Z",
+    ":version": "rv-xug9_z6hv-c5n9",
     "address_1": "1600 Block MAGNOLIA AV",
     "case_number": "170002243",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-uahf-6hys__fs6k",
     "state": "CA",
-    "updated_at": "2017-01-23T12:30:54.000",
+    "updated_at": "2017-01-24T12:30:41.000",
     "zip": "90813"
 }
