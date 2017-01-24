@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-12T12:30:55.797Z",
+    ":updated_at": "2017-01-23T12:30:44.271Z",
+    ":version": "rv-pd7n_jrfr~25cj",
+    "address_1": "W WARDLOW RD & PACIFIC AV",
+    "case_number": "170002015",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-12T10:34:17.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "7",
+    "incident_datetime": "2017-01-10T07:00:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "788683413",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8190174",
+    "location": {
+        "coordinates": [
+            -118.1937501,
+            33.8190174
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1937501",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-j8d2-uyck__k8q6",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:38.000",
+    "zip": "90807"
+}

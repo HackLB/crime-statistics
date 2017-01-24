@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:44.866Z",
+    ":updated_at": "2017-01-17T12:30:44.866Z",
+    ":version": "rv-p3i3~86js-ghan",
+    "address_1": "8100 Block TOKEN ST",
+    "case_number": "170002864",
+    "categorization": {
+        "category": "quality-of-life",
+        "incident_type": "Disorder",
+        "sub_category": "disorder"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-14T22:16:00.000",
+    "incident_description": "UNREASONABLE NOISE",
+    "incident_id": "789450280",
+    "incident_type_primary": "Disorderly",
+    "latitude": "33.8230785",
+    "location": {
+        "coordinates": [
+            -118.0710146,
+            33.8230785
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.0710146",
+    "parent_incident_type": "Disorder",
+    "primary_key": "du6n-4fyc-row-6bst__s38n-x94p",
+    "state": "CA",
+    "updated_at": "2017-01-17T12:30:41.000",
+    "zip": "90808"
+}

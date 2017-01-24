@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:42.145Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-qq8f.mgyd_kjzv",
+    "address_1": "6500 Block HARCO ST",
+    "case_number": "170003348",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:24.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "20",
+    "incident_datetime": "2017-01-16T20:30:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789528459",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.8273064",
+    "location": {
+        "coordinates": [
+            -118.1050935,
+            33.8273064
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1050935",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-ejjm-4v2k-sia5",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:03.000",
+    "zip": "90808"
+}

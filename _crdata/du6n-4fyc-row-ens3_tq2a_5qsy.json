@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-21T12:30:17.569Z",
+    ":updated_at": "2017-01-23T12:30:21.377Z",
+    ":version": "rv-7i74-vf4s_6cgz",
+    "address_1": "1800 Block DAISY AV E",
+    "case_number": "170003984",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-21T10:34:24.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "11",
+    "incident_datetime": "2017-01-20T11:12:00.000",
+    "incident_description": "TAKE VEHICLE WITHOUT CONSENT",
+    "incident_id": "790262885",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.7968994",
+    "location": {
+        "coordinates": [
+            -118.1992407,
+            33.7968994
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1992407",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-ens3_tq2a_5qsy",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:14.000",
+    "zip": "90806"
+}

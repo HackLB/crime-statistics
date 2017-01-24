@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-11T12:30:51.753Z",
+    ":updated_at": "2017-01-23T12:30:44.271Z",
+    ":version": "rv-hr6p_ycz6-g4y3",
+    "address_1": "2800 Block ATLANTIC AV",
+    "case_number": "170002010",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-11T10:34:17.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-10T22:17:00.000",
+    "incident_description": "BATTERY",
+    "incident_id": "788573146",
+    "incident_type_primary": "Assault",
+    "latitude": "33.8080548",
+    "location": {
+        "coordinates": [
+            -118.1849322,
+            33.8080548
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1849322",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-q3xe__bvtx-2vkp",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:38.000",
+    "zip": "90806"
+}

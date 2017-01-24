@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-11T12:30:51.753Z",
+    ":updated_at": "2017-01-23T12:30:40.784Z",
+    ":version": "rv-un5u-hbz4.i5gt",
+    "address_1": "6500 Block E SPRING ST",
+    "case_number": "170001993",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-11T10:34:17.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "18",
+    "incident_datetime": "2017-01-10T18:00:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "788573149",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8097542",
+    "location": {
+        "coordinates": [
+            -118.1058448,
+            33.8097542
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1058448",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-j649__c6gr_5znn",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:38.000",
+    "zip": "90808"
+}

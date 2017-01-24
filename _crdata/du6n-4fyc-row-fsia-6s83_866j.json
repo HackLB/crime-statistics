@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-13T12:30:20.737Z",
+    ":updated_at": "2017-01-23T12:30:37.801Z",
+    ":version": "rv-ytyf_td27.t35d",
+    "address_1": "1900 Block E 45TH ST",
+    "case_number": "170001947",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Property Crime",
+        "sub_category": "property"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-13T10:34:17.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "18",
+    "incident_datetime": "2017-01-09T18:00:00.000",
+    "incident_description": "VANDALISM; DEFACE PROPERTY",
+    "incident_id": "788955095",
+    "incident_type_primary": "Vandalism",
+    "latitude": "33.8385392",
+    "location": {
+        "coordinates": [
+            -118.1676384,
+            33.8385392
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1676384",
+    "parent_incident_type": "Property Crime",
+    "primary_key": "du6n-4fyc-row-fsia-6s83_866j",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:35.000",
+    "zip": "90807"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-20T12:30:24.034Z",
+    ":updated_at": "2017-01-23T12:30:16.432Z",
+    ":version": "rv-m8py~u2ei.4nna",
+    "address_1": "900 Block E SAN ANTONIO DR",
+    "case_number": "170003741",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-20T10:34:27.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-18T22:30:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "790148518",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.837962",
+    "location": {
+        "coordinates": [
+            -118.182238,
+            33.837962
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.182238",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-ge9d-9k85__b8f5",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:12.000",
+    "zip": "90807"
+}

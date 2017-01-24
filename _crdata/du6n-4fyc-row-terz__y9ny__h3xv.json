@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-11T12:31:02.819Z",
+    ":updated_at": "2017-01-12T23:58:30.769Z",
+    ":version": "rv-xcew_yqis~s7ax",
+    "address_1": "100 Block E WILLOW ST",
+    "case_number": "170001884",
+    "categorization": {
+        "category": "quality-of-life",
+        "incident_type": "Disorder",
+        "sub_category": "disorder"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-11T10:34:17.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "10",
+    "incident_datetime": "2017-01-10T10:32:00.000",
+    "incident_description": "OFFENSIVE WORDS IN PUBLIC PLACE",
+    "incident_id": "788573160",
+    "incident_type_primary": "Disorderly",
+    "latitude": "33.804019",
+    "location": {
+        "coordinates": [
+            -118.1923438,
+            33.804019
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1923438",
+    "parent_incident_type": "Disorder",
+    "primary_key": "du6n-4fyc-row-terz__y9ny__h3xv",
+    "state": "CA",
+    "updated_at": "2017-01-11T12:30:57.000",
+    "zip": "90806"
+}

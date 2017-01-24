@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:18.409Z",
+    ":updated_at": "2017-01-23T12:31:04.829Z",
+    ":version": "rv-spca-rkcu_qzt7",
+    "address_1": "6800 Block PAGEANTRY ST",
+    "case_number": "170002441",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "7",
+    "incident_datetime": "2017-01-12T07:30:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "789450314",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.8132159",
+    "location": {
+        "coordinates": [
+            -118.1014928,
+            33.8132159
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1014928",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-p2ke-djju__h9r7",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:31:02.000",
+    "zip": "90808"
+}

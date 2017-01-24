@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:39.539Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-p78s-uaj7.9x44",
+    "address_1": "2500 Block GOLDEN AV",
+    "case_number": "170003121",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "7",
+    "incident_datetime": "2017-01-16T07:13:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789450259",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.8027442",
+    "location": {
+        "coordinates": [
+            -118.2021998,
+            33.8027442
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.2021998",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-pa33__mcxp__6h72",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:01.000",
+    "zip": "90806"
+}

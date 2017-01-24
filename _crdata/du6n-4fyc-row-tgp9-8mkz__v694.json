@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-12T12:30:55.797Z",
+    ":updated_at": "2017-01-23T12:30:56.173Z",
+    ":version": "rv-ffa3-pc3e~7nhx",
+    "address_1": "2200 Block WILLIAMS ST",
+    "case_number": "170002221",
+    "categorization": {
+        "category": "quality-of-life",
+        "incident_type": "Liquor",
+        "sub_category": "liquor"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-12T10:34:17.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "20",
+    "incident_datetime": "2017-01-11T20:00:00.000",
+    "incident_description": "DIS CONDUCT-UNDER INFL-INTOX ALC/DRUGS ETC",
+    "incident_id": "788683378",
+    "incident_type_primary": "Drunkenness",
+    "latitude": "33.7929721",
+    "location": {
+        "coordinates": [
+            -118.2221137,
+            33.7929721
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.2221137",
+    "parent_incident_type": "Liquor",
+    "primary_key": "du6n-4fyc-row-tgp9-8mkz__v694",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:52.000",
+    "zip": "90810"
+}

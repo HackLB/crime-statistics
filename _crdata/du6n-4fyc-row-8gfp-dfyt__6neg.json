@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:35:16.381Z",
+    ":updated_at": "2017-01-23T12:30:16.432Z",
+    ":version": "rv-w4rr~eyf6-3eu5",
+    "address_1": "600 Block SILVA ST",
+    "case_number": "170003674",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:31.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "16",
+    "incident_datetime": "2017-01-18T16:33:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "789608740",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.8455212",
+    "location": {
+        "coordinates": [
+            -118.1840663,
+            33.8455212
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1840663",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-8gfp-dfyt__6neg",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:12.000",
+    "zip": "90807"
+}

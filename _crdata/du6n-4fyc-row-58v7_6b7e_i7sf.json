@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-20T12:30:24.034Z",
+    ":updated_at": "2017-01-23T12:30:16.432Z",
+    ":version": "rv-ag5p~uhbs-gng4",
+    "address_1": "2200 Block EASY AV",
+    "case_number": "170003767",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-20T10:34:27.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-18T22:00:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "790148520",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.797263",
+    "location": {
+        "coordinates": [
+            -118.209699,
+            33.797263
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.209699",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-58v7_6b7e_i7sf",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:12.000",
+    "zip": "90810"
+}

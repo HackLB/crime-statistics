@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-12T12:31:09.739Z",
+    ":updated_at": "2017-01-23T12:30:50.747Z",
+    ":version": "rv-g9r4.v5jp.nc24",
+    "address_1": "1400 Block W PACIFIC COAST HWY",
+    "case_number": "170002126",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Robbery",
+        "sub_category": "robbery"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-12T10:34:17.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "11",
+    "incident_datetime": "2017-01-11T11:50:00.000",
+    "incident_description": "ROBBERY; PERSON",
+    "incident_id": "788683396",
+    "incident_type_primary": "Robbery",
+    "latitude": "33.78958",
+    "location": {
+        "coordinates": [
+            -118.210818,
+            33.78958
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.210818",
+    "parent_incident_type": "Robbery",
+    "primary_key": "du6n-4fyc-row-67vg__7g7z-b4x8",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:44.000",
+    "zip": "90810"
+}

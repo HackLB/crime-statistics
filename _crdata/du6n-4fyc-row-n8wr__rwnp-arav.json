@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:23.528Z",
+    ":updated_at": "2017-01-23T12:30:50.747Z",
+    ":version": "rv-p27n-snpi.stuy",
+    "address_1": "1600 Block E PACIFIC COAST HWY",
+    "case_number": "170002164",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:25.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "9",
+    "incident_datetime": "2017-01-09T09:00:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "789450364",
+    "incident_type_primary": "Theft",
+    "latitude": "33.789464",
+    "location": {
+        "coordinates": [
+            -118.171496,
+            33.789464
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.171496",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-n8wr__rwnp-arav",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:46.000",
+    "zip": "90810"
+}

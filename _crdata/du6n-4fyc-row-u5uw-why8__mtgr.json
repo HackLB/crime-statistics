@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:19.790Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-zvgs_re6e~cc9x",
+    "address_1": "1700 Block MAGNOLIA AV",
+    "case_number": "170003324",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:24.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "11",
+    "incident_datetime": "2017-01-16T11:00:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789528468",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.7880575",
+    "location": {
+        "coordinates": [
+            -118.1980821,
+            33.7880575
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1980821",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-u5uw-why8__mtgr",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:03.000",
+    "zip": "90813"
+}

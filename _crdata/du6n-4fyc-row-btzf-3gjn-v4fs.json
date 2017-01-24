@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-10T12:30:57.464Z",
+    ":updated_at": "2017-01-22T12:31:08.844Z",
+    ":version": "rv-qneg.6wcw-es7i",
+    "address_1": "2000 Block PINE AV",
+    "case_number": "170001803",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-10T10:34:13.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-09T22:00:00.000",
+    "incident_description": "BATTERY NONCO FORM SPOUSE,COHABITANT,DATE",
+    "incident_id": "788488900",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7936516",
+    "location": {
+        "coordinates": [
+            -118.1921226,
+            33.7936516
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1921226",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-btzf-3gjn-v4fs",
+    "state": "CA",
+    "updated_at": "2017-01-22T12:31:05.000",
+    "zip": "90806"
+}

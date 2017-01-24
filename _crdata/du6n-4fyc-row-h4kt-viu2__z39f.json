@@ -1,0 +1,34 @@
+{
+    ":created_at": "2017-01-10T12:30:50.262Z",
+    ":updated_at": "2017-01-22T12:30:50.301Z",
+    ":version": "rv-9yb7~5q24-h3qu",
+    "address_1": "W 3RD ST EO MAGNOLIA AV",
+    "case_number": "170001709",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-10T10:34:13.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "13",
+    "incident_datetime": "2017-01-09T13:02:00.000",
+    "incident_description": "CRIME THREAT;VERBALLY,ELEC,WRITING,ETC",
+    "incident_id": "788488922",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7950264",
+    "location": {
+        "coordinates": [
+            -118.1980777,
+            33.7950264
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1980777",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-h4kt-viu2__z39f",
+    "state": "CA",
+    "updated_at": "2017-01-22T12:30:47.000"
+}

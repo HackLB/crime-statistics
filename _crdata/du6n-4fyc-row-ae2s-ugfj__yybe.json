@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:34:57.774Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-r3yd.eu4z~q5x9",
+    "address_1": "4800 Block BLACKTHORNE AV",
+    "case_number": "170003306",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:31.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "5",
+    "incident_datetime": "2017-01-17T05:09:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "789608805",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8449011",
+    "location": {
+        "coordinates": [
+            -118.1402695,
+            33.8449011
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1402695",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-ae2s-ugfj__yybe",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:03.000",
+    "zip": "90808"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-22T12:30:57.767Z",
+    ":updated_at": "2017-01-23T12:30:21.377Z",
+    ":version": "rv-u52e~c3ny-stcm",
+    "address_1": "PASADENA AV & E HILL ST",
+    "case_number": "170004164",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-22T10:34:28.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "8",
+    "incident_datetime": "2017-01-21T08:35:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "790331851",
+    "incident_type_primary": "Theft",
+    "latitude": "33.7971131",
+    "location": {
+        "coordinates": [
+            -118.1871935,
+            33.7971131
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1871935",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-f2wj__q24j-apep",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:15.000",
+    "zip": "90806"
+}

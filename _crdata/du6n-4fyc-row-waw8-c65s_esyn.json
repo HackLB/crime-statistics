@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-10T12:30:40.611Z",
+    ":updated_at": "2017-01-22T12:30:40.616Z",
+    ":version": "rv-pw8b~izf8.9e8f",
+    "address_1": "800 Block W PACIFIC COAST HWY",
+    "case_number": "170001656",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-10T10:34:13.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "9",
+    "incident_datetime": "2017-01-09T09:06:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "788488939",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.789511",
+    "location": {
+        "coordinates": [
+            -118.202336,
+            33.789511
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.202336",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-waw8-c65s_esyn",
+    "state": "CA",
+    "updated_at": "2017-01-22T12:30:36.000",
+    "zip": "90806"
+}

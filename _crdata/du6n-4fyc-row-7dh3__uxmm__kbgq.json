@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-15T12:30:47.763Z",
+    ":updated_at": "2017-01-23T12:30:44.271Z",
+    ":version": "rv-j6ge.iu8h-qjbv",
+    "address_1": "2600 Block CASPIAN AV",
+    "case_number": "170002818",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-15T10:34:19.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "15",
+    "incident_datetime": "2017-01-14T15:48:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789278595",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.8044441",
+    "location": {
+        "coordinates": [
+            -118.2121605,
+            33.8044441
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.2121605",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-7dh3__uxmm__kbgq",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:39.000",
+    "zip": "90810"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:27.865Z",
+    ":updated_at": "2017-01-23T12:31:04.829Z",
+    ":version": "rv-t5du~yuxd~7u5n",
+    "address_1": "2000 Block SANTA FE AV",
+    "case_number": "170002313",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:29.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "9",
+    "incident_datetime": "2017-01-12T09:00:00.000",
+    "incident_description": "ASSAULT; NOT FIREARM",
+    "incident_id": "789528627",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7936627",
+    "location": {
+        "coordinates": [
+            -118.215178,
+            33.7936627
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.215178",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-r4ug-6rp2-dgan",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:59.000",
+    "zip": "90810"
+}

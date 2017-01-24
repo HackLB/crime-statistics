@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-21T12:30:26.936Z",
+    ":updated_at": "2017-01-23T12:31:04.829Z",
+    ":version": "rv-3saa.h2aa~3af9",
+    "address_1": "2200 Block ARGONNE AV",
+    "case_number": "170002629",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-21T10:34:33.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "0",
+    "incident_datetime": "2017-01-12T00:01:00.000",
+    "incident_description": "ATTEMPT BURGLARY - AUTO",
+    "incident_id": "790263067",
+    "incident_type_primary": "Theft",
+    "latitude": "33.796216",
+    "location": {
+        "coordinates": [
+            -118.135898,
+            33.796216
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.135898",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-4f2v-xkbz__jfhx",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:31:03.000",
+    "zip": "90815"
+}

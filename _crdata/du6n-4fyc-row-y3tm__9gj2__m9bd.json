@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-14T12:30:56.296Z",
+    ":updated_at": "2017-01-23T12:30:32.676Z",
+    ":version": "rv-zyw3.q753_qbie",
+    "address_1": "3100 Block SPRINGDALE DR W",
+    "case_number": "170002457",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-14T10:34:19.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "17",
+    "incident_datetime": "2017-01-12T17:00:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "789191193",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.8125353",
+    "location": {
+        "coordinates": [
+            -118.2212011,
+            33.8125353
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.2212011",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-y3tm__9gj2__m9bd",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:26.000",
+    "zip": "90810"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-15T12:31:04.230Z",
+    ":updated_at": "2017-01-23T12:30:40.784Z",
+    ":version": "rv-jwam.9acr_u8an",
+    "address_1": "DAISY AV W & W HILL ST",
+    "case_number": "170001957",
+    "categorization": {
+        "category": "quality-of-life",
+        "incident_type": "Drugs",
+        "sub_category": "drugs"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-15T10:34:24.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "16",
+    "incident_datetime": "2017-01-10T16:05:00.000",
+    "incident_description": "POSSESS CONTROLLED SUBSTANCE FOR SALE",
+    "incident_id": "789278666",
+    "incident_type_primary": "Narcotics",
+    "latitude": "33.7971225",
+    "location": {
+        "coordinates": [
+            -118.1992352,
+            33.7971225
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1992352",
+    "parent_incident_type": "Drugs",
+    "primary_key": "du6n-4fyc-row-ugud__btw9__8gyz",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:35.000",
+    "zip": "90806"
+}

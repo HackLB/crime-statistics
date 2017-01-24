@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-20T12:30:24.034Z",
+    ":updated_at": "2017-01-23T12:30:16.432Z",
+    ":version": "rv-2zsk~w9yk~hjib",
+    "address_1": "2400 Block SAN FRANCISCO AV",
+    "case_number": "170003812",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-20T10:34:27.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "12",
+    "incident_datetime": "2017-01-19T12:36:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "790148504",
+    "incident_type_primary": "Theft",
+    "latitude": "33.800904",
+    "location": {
+        "coordinates": [
+            -118.203169,
+            33.800904
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.203169",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-w2zd__6tqh_yded",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:13.000",
+    "zip": "90806"
+}

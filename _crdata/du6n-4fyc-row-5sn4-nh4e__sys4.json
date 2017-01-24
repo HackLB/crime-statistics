@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-20T12:30:24.034Z",
+    ":updated_at": "2017-01-23T12:30:21.377Z",
+    ":version": "rv-td3z-76de~nhsx",
+    "address_1": "1800 Block PALO VERDE AV",
+    "case_number": "170003851",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Other Sexual Offense",
+        "sub_category": "sexual-offense"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-20T10:34:27.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "16",
+    "incident_datetime": "2017-01-19T16:01:00.000",
+    "incident_description": "LEWD ACT WITH CHILD UNDER 14",
+    "incident_id": "790148496",
+    "incident_type_primary": "Sex All Other",
+    "latitude": "33.7892705",
+    "location": {
+        "coordinates": [
+            -118.1075615,
+            33.7892705
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1075615",
+    "parent_incident_type": "Other Sexual Offense",
+    "primary_key": "du6n-4fyc-row-5sn4-nh4e__sys4",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:13.000",
+    "zip": "90815"
+}

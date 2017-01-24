@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-23T12:30:21.377Z",
+    ":updated_at": "2017-01-23T12:30:21.377Z",
+    ":version": "rv-rv3m_5p2k-isfa",
+    "address_1": "4700 Block GREENMEADOW RD",
+    "case_number": "170004220",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-23T10:34:28.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "14",
+    "incident_datetime": "2017-01-21T14:20:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "790446337",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.8333489",
+    "location": {
+        "coordinates": [
+            -118.137983,
+            33.8333489
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.137983",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-2iwi-6cku__3gsj",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:13.000",
+    "zip": "90808"
+}

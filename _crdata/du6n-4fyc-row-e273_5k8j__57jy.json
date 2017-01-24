@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-11T12:30:51.753Z",
+    ":updated_at": "2017-01-23T12:30:37.801Z",
+    ":version": "rv-akur_esgz-t6fb",
+    "address_1": "5000 Block GARFORD ST",
+    "case_number": "170001921",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-11T10:34:17.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "2",
+    "incident_datetime": "2017-01-09T02:00:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "788573189",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.7919473",
+    "location": {
+        "coordinates": [
+            -118.136123,
+            33.7919473
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.136123",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-e273_5k8j__57jy",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:33.000",
+    "zip": "90815"
+}

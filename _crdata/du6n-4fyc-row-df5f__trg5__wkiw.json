@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:58.406Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-99qg-ufix~yp7u",
+    "address_1": "1500 Block OBISPO AV",
+    "case_number": "170003307",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:24.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "5",
+    "incident_datetime": "2017-01-17T05:27:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "789528451",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.7857712",
+    "location": {
+        "coordinates": [
+            -118.1545573,
+            33.7857712
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1545573",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-df5f__trg5__wkiw",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:03.000",
+    "zip": "90804"
+}

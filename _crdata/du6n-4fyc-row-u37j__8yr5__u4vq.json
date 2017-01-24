@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:18.409Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-fgc2~afgv~6i5d",
+    "address_1": "SANTA FE AV & CAMERON ST",
+    "case_number": "170003124",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "18",
+    "incident_datetime": "2017-01-15T18:30:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789450272",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.8234971",
+    "location": {
+        "coordinates": [
+            -118.2155116,
+            33.8234971
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.2155116",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-u37j__8yr5__u4vq",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:01.000",
+    "zip": "90810"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-16T12:30:22.353Z",
+    ":updated_at": "2017-01-23T12:30:46.702Z",
+    ":version": "rv-dm3x.fcux-8xyv",
+    "address_1": "2300 Block LINDEN AV",
+    "case_number": "170002942",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-16T10:34:23.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "21",
+    "incident_datetime": "2017-01-14T21:00:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789388912",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.799076",
+    "location": {
+        "coordinates": [
+            -118.185799,
+            33.799076
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.185799",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-8rfc_3f46_txxr",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:42.000",
+    "zip": "90806"
+}

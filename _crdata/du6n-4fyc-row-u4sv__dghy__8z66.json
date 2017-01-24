@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:23.546Z",
+    ":updated_at": "2017-01-23T12:30:50.747Z",
+    ":version": "rv-pbjj~et9p_4j67",
+    "address_1": "2000 Block SANTA FE AV",
+    "case_number": "170002144",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:29.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "11",
+    "incident_datetime": "2017-01-11T11:10:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "789528632",
+    "incident_type_primary": "Theft",
+    "latitude": "33.7936627",
+    "location": {
+        "coordinates": [
+            -118.215178,
+            33.7936627
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.215178",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-u4sv__dghy__8z66",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:45.000",
+    "zip": "90810"
+}

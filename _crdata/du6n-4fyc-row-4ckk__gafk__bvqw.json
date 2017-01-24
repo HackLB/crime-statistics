@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:35:07.821Z",
+    ":updated_at": "2017-01-23T12:30:37.801Z",
+    ":version": "rv-nuu3~sze3_t8ns",
+    "address_1": "3300 Block MAGNOLIA AV",
+    "case_number": "170002696",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:37.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "6",
+    "incident_datetime": "2017-01-14T06:14:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "789608891",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8172826",
+    "location": {
+        "coordinates": [
+            -118.1976335,
+            33.8172826
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1976335",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-4ckk__gafk__bvqw",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:34.000",
+    "zip": "90806"
+}

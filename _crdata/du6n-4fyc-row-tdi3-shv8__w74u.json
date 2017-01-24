@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-21T12:30:26.936Z",
+    ":updated_at": "2017-01-23T12:30:35.023Z",
+    ":version": "rv-vf3e-98jy_2pma",
+    "address_1": "2500 Block VUELTA GRANDE AV",
+    "case_number": "170002576",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-21T10:34:33.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "16",
+    "incident_datetime": "2017-01-12T16:30:00.000",
+    "incident_description": "GRAND THEFT; FROM AUTO",
+    "incident_id": "790263063",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8013602",
+    "location": {
+        "coordinates": [
+            -118.1053431,
+            33.8013602
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1053431",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-tdi3-shv8__w74u",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:31.000",
+    "zip": "90815"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:58.406Z",
+    ":updated_at": "2017-01-23T12:32:09.874Z",
+    ":version": "rv-2n35-tf76-fmfg",
+    "address_1": "2300 Block PALO VERDE AV",
+    "case_number": "170003445",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:24.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-16T22:30:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "789528432",
+    "incident_type_primary": "Theft",
+    "latitude": "33.7983732",
+    "location": {
+        "coordinates": [
+            -118.1079085,
+            33.7983732
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1079085",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-jc8k__bwq6__7y8j",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:04.000",
+    "zip": "90815"
+}

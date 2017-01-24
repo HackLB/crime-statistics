@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:35.279Z",
+    ":updated_at": "2017-01-17T12:30:35.279Z",
+    ":version": "rv-r5c5_4thv_rpub",
+    "address_1": "1600 Block TEMPLE AV",
+    "case_number": "170002855",
+    "categorization": {
+        "category": "quality-of-life",
+        "incident_type": "Disorder",
+        "sub_category": "disorder"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "21",
+    "incident_datetime": "2017-01-14T21:28:00.000",
+    "incident_description": "UNREASONABLE NOISE",
+    "incident_id": "789450282",
+    "incident_type_primary": "Disorderly",
+    "latitude": "33.7871427",
+    "location": {
+        "coordinates": [
+            -118.1589113,
+            33.7871427
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1589113",
+    "parent_incident_type": "Disorder",
+    "primary_key": "du6n-4fyc-row-8fzd_m27t__2kfh",
+    "state": "CA",
+    "updated_at": "2017-01-17T12:30:31.000",
+    "zip": "90804"
+}

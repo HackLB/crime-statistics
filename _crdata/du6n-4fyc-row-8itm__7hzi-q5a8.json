@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-15T12:30:47.763Z",
+    ":updated_at": "2017-01-23T12:30:46.702Z",
+    ":version": "rv-agfx.csrd-ptmc",
+    "address_1": "300 Block E 17TH ST",
+    "case_number": "170002894",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-15T10:34:19.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "2",
+    "incident_datetime": "2017-01-15T02:07:00.000",
+    "incident_description": "INFLICT CORP INJURY; SPOUSE/COHABITANT",
+    "incident_id": "789278572",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7880241",
+    "location": {
+        "coordinates": [
+            -118.1892374,
+            33.7880241
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1892374",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-8itm__7hzi-q5a8",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:42.000",
+    "zip": "90813"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:35:16.381Z",
+    ":updated_at": "2017-01-23T12:32:09.874Z",
+    ":version": "rv-pnjs.8zwt_4v7m",
+    "address_1": "3700 Block OLIVE AV",
+    "case_number": "170003388",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:31.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "11",
+    "incident_datetime": "2017-01-17T11:51:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "789608792",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.8242349",
+    "location": {
+        "coordinates": [
+            -118.1826493,
+            33.8242349
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1826493",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-4dj3__ap2j__gxuj",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:03.000",
+    "zip": "90807"
+}

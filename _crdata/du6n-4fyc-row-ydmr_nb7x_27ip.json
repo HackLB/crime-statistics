@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-16T12:30:22.353Z",
+    ":updated_at": "2017-01-23T12:30:46.702Z",
+    ":version": "rv-9dh7~6vmd~w28j",
+    "address_1": "1900 Block LOCUST AV",
+    "case_number": "170002900",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-16T10:34:23.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "6",
+    "incident_datetime": "2017-01-14T06:00:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789388922",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.7918341",
+    "location": {
+        "coordinates": [
+            -118.1910649,
+            33.7918341
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1910649",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-ydmr_nb7x_27ip",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:42.000",
+    "zip": "90806"
+}

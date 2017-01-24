@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-13T12:31:01.979Z",
+    ":updated_at": "2017-01-23T12:30:56.173Z",
+    ":version": "rv-e2ev.gc8z~sny7",
+    "address_1": "1600 Block MAGNOLIA AV",
+    "case_number": "170002243",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-13T10:34:17.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-11T22:50:00.000",
+    "incident_description": "ASSAULT WITH FIREARM",
+    "incident_id": "788955069",
+    "incident_type_primary": "Assault",
+    "latitude": "33.787204",
+    "location": {
+        "coordinates": [
+            -118.19784,
+            33.787204
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.19784",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-uahf-6hys__fs6k",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:54.000",
+    "zip": "90813"
+}

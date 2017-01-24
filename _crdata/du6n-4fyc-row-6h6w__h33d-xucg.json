@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-14T12:30:17.438Z",
+    ":updated_at": "2017-01-23T12:30:56.173Z",
+    ":version": "rv-ey9z-6tyu_wxgi",
+    "address_1": "3700 Block STEVELY AV",
+    "case_number": "170002219",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-14T10:34:19.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "20",
+    "incident_datetime": "2017-01-11T20:18:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "789191218",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8255832",
+    "location": {
+        "coordinates": [
+            -118.0936715,
+            33.8255832
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.0936715",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-6h6w__h33d-xucg",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:52.000",
+    "zip": "90808"
+}

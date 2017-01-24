@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-11T12:30:51.753Z",
+    ":updated_at": "2017-01-23T12:30:37.801Z",
+    ":version": "rv-ja5n~2xxh.7shn",
+    "address_1": "100 Block W PACIFIC COAST HWY",
+    "case_number": "170001918",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Robbery",
+        "sub_category": "robbery"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-11T10:34:17.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "12",
+    "incident_datetime": "2017-01-10T12:52:00.000",
+    "incident_description": "ROBBERY; COMMERCIAL",
+    "incident_id": "788573158",
+    "incident_type_primary": "Robbery",
+    "latitude": "33.7896598",
+    "location": {
+        "coordinates": [
+            -118.1925981,
+            33.7896598
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1925981",
+    "parent_incident_type": "Robbery",
+    "primary_key": "du6n-4fyc-row-6ez4-vw52__hmrh",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:33.000",
+    "zip": "90806"
+}

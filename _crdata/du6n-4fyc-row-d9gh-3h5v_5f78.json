@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-16T12:30:22.353Z",
+    ":updated_at": "2017-01-23T12:30:46.702Z",
+    ":version": "rv-prjx-iivn_589i",
+    "address_1": "REDONDO AV & E SPRING ST",
+    "case_number": "170002920",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-16T10:34:23.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "7",
+    "incident_datetime": "2017-01-15T07:42:00.000",
+    "incident_description": "INFLICT CORP INJURY; SPOUSE/COHABITANT",
+    "incident_id": "789388902",
+    "incident_type_primary": "Assault",
+    "latitude": "33.810562",
+    "location": {
+        "coordinates": [
+            -118.1513261,
+            33.810562
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1513261",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-d9gh-3h5v_5f78",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:42.000",
+    "zip": "90822"
+}

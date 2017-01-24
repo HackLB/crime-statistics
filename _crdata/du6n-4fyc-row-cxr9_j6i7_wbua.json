@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-20T12:30:24.034Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-ramf~x75x_uq5r",
+    "address_1": "3300 Block LEES AV",
+    "case_number": "170003274",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-20T10:34:27.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-16T22:26:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "790148547",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8162379",
+    "location": {
+        "coordinates": [
+            -118.0980634,
+            33.8162379
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.0980634",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-cxr9_j6i7_wbua",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:02.000",
+    "zip": "90808"
+}

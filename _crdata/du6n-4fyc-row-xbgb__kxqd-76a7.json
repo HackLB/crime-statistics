@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-12T12:30:21.097Z",
+    ":updated_at": "2017-01-23T12:30:50.747Z",
+    ":version": "rv-pka8.c746-s3rf",
+    "address_1": "3200 Block CHESTNUT AV",
+    "case_number": "170002155",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-12T10:34:17.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "14",
+    "incident_datetime": "2017-01-10T14:00:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "788683425",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.815421",
+    "location": {
+        "coordinates": [
+            -118.195442,
+            33.815421
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.195442",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-xbgb__kxqd-76a7",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:46.000",
+    "zip": "90806"
+}

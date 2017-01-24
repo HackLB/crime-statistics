@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:35.279Z",
+    ":updated_at": "2017-01-20T12:30:18.434Z",
+    ":version": "rv-mc98-v5gj-pmnu",
+    "address_1": "400 Block W PACIFIC COAST HWY",
+    "case_number": "170003174",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "12",
+    "incident_datetime": "2017-01-16T12:43:00.000",
+    "incident_description": "INFLICT CORP INJURY; SPOUSE/COHABITANT",
+    "incident_id": "789450244",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7898456",
+    "location": {
+        "coordinates": [
+            -118.1963871,
+            33.7898456
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1963871",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-rwf2__4apf_46ym",
+    "state": "CA",
+    "updated_at": "2017-01-20T12:30:14.000",
+    "zip": "90806"
+}

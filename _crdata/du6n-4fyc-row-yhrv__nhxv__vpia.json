@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-10T12:30:46.469Z",
+    ":updated_at": "2017-01-22T12:31:03.301Z",
+    ":version": "rv-phxc-veqk.agr2",
+    "address_1": "3400 Block GAVIOTA AV",
+    "case_number": "170001751",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-10T10:34:13.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "15",
+    "incident_datetime": "2017-01-09T15:51:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "788488914",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8189501",
+    "location": {
+        "coordinates": [
+            -118.1708692,
+            33.8189501
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1708692",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-yhrv__nhxv__vpia",
+    "state": "CA",
+    "updated_at": "2017-01-22T12:30:57.000",
+    "zip": "90807"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:53.874Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-fuxd-b2e5~y2jq",
+    "address_1": "2900 Block GALE AV",
+    "case_number": "170003232",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "17",
+    "incident_datetime": "2017-01-16T17:27:00.000",
+    "incident_description": "BATTERY",
+    "incident_id": "789450236",
+    "incident_type_primary": "Assault",
+    "latitude": "33.809984",
+    "location": {
+        "coordinates": [
+            -118.207536,
+            33.809984
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.207536",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-dk6i-qqqf__pgtb",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:02.000",
+    "zip": "90810"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:35:16.381Z",
+    ":updated_at": "2017-01-23T12:32:09.874Z",
+    ":version": "rv-e5fi-vvk7_ia2q",
+    "address_1": "4500 Block ORANGE AV",
+    "case_number": "170003544",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:31.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "19",
+    "incident_datetime": "2017-01-17T19:00:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789608783",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.8402228",
+    "location": {
+        "coordinates": [
+            -118.1762821,
+            33.8402228
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1762821",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-5qa6_dhf7-29gx",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:05.000",
+    "zip": "90807"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:18.409Z",
+    ":updated_at": "2017-01-23T12:30:35.023Z",
+    ":version": "rv-6vph-zke6~9agq",
+    "address_1": "3000 Block BELLFLOWER BLVD",
+    "case_number": "170002540",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "7",
+    "incident_datetime": "2017-01-13T07:00:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "789450309",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8114066",
+    "location": {
+        "coordinates": [
+            -118.1246891,
+            33.8114066
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1246891",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-27pp__av39__prty",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:30.000",
+    "zip": "90808"
+}

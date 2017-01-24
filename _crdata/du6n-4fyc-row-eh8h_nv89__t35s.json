@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:35:10.173Z",
+    ":updated_at": "2017-01-23T12:30:35.023Z",
+    ":version": "rv-mvqe_7zc8.fdff",
+    "address_1": "2900 Block FASHION AV",
+    "case_number": "170001854",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:43.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "21",
+    "incident_datetime": "2017-01-09T21:30:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "789608917",
+    "incident_type_primary": "Theft",
+    "latitude": "33.809978",
+    "location": {
+        "coordinates": [
+            -118.2086816,
+            33.80997800000001
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.2086816",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-eh8h_nv89__t35s",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:31.000",
+    "zip": "90810"
+}

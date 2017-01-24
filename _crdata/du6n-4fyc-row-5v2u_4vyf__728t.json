@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-16T12:30:22.353Z",
+    ":updated_at": "2017-01-23T12:30:46.702Z",
+    ":version": "rv-qqnd~vfgj_dxkn",
+    "address_1": "1700 Block LONG BEACH BLVD",
+    "case_number": "170002906",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-16T10:34:23.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "4",
+    "incident_datetime": "2017-01-15T04:08:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "789388905",
+    "incident_type_primary": "Theft",
+    "latitude": "33.7881707",
+    "location": {
+        "coordinates": [
+            -118.1888181,
+            33.7881707
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1888181",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-5v2u_4vyf__728t",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:42.000",
+    "zip": "90813"
+}

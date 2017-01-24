@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:35.279Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-ht89~5xgv-fax8",
+    "address_1": "8200 Block CARBURTON ST",
+    "case_number": "170003158",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "11",
+    "incident_datetime": "2017-01-16T11:09:00.000",
+    "incident_description": "GRAND THEFT; PROPERTY",
+    "incident_id": "789450249",
+    "incident_type_primary": "Theft",
+    "latitude": "33.820068",
+    "location": {
+        "coordinates": [
+            -118.0658033,
+            33.820068
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.0658033",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-76mw_bwqz__rehf",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:02.000",
+    "zip": "90808"
+}

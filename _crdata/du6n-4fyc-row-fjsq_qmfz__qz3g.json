@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-15T12:30:14.965Z",
+    ":updated_at": "2017-01-23T12:30:40.784Z",
+    ":version": "rv-pyu5-d4h5.nbmy",
+    "address_1": "300 Block E WILLOW ST",
+    "case_number": "170002719",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-15T10:34:19.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "5",
+    "incident_datetime": "2017-01-14T05:27:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "789278612",
+    "incident_type_primary": "Theft",
+    "latitude": "33.803917",
+    "location": {
+        "coordinates": [
+            -118.1887035,
+            33.803917
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1887035",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-fjsq_qmfz__qz3g",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:36.000",
+    "zip": "90806"
+}

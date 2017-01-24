@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-13T12:30:13.751Z",
+    ":updated_at": "2017-01-23T12:30:40.784Z",
+    ":version": "rv-kdp2_vpvd-mgu2",
+    "address_1": "3500 Block MYRTLE AV",
+    "case_number": "170001965",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-13T10:34:17.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "17",
+    "incident_datetime": "2017-01-10T17:16:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "788955092",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8200868",
+    "location": {
+        "coordinates": [
+            -118.1815742,
+            33.8200868
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1815742",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-8gur__6hzi__n6ij",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:36.000",
+    "zip": "90807"
+}

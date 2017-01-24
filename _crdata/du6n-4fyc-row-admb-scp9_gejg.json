@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:18.409Z",
+    ":updated_at": "2017-01-17T12:30:18.409Z",
+    ":version": "rv-knyy~z226.mqdg",
+    "address_1": "1700 Block XIMENO AV",
+    "case_number": "170002667",
+    "categorization": {
+        "category": "quality-of-life",
+        "incident_type": "Disorder",
+        "sub_category": "disorder"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "0",
+    "incident_datetime": "2017-01-14T00:19:00.000",
+    "incident_description": "UNREASONABLE NOISE",
+    "incident_id": "789450294",
+    "incident_type_primary": "Disorderly",
+    "latitude": "33.7878434",
+    "location": {
+        "coordinates": [
+            -118.1394327,
+            33.7878434
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1394327",
+    "parent_incident_type": "Disorder",
+    "primary_key": "du6n-4fyc-row-admb-scp9_gejg",
+    "state": "CA",
+    "updated_at": "2017-01-17T12:30:12.000",
+    "zip": "90815"
+}

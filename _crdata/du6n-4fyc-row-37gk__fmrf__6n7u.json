@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-12T12:31:09.739Z",
+    ":updated_at": "2017-01-23T12:30:50.747Z",
+    ":version": "rv-4xk6_hry8~g4d4",
+    "address_1": "2200 Block MCNAB AV",
+    "case_number": "170002146",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Property Crime",
+        "sub_category": "property"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-12T10:34:17.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "13",
+    "incident_datetime": "2017-01-11T13:18:00.000",
+    "incident_description": "VANDALISM; DEFACE PROPERTY",
+    "incident_id": "788683392",
+    "incident_type_primary": "Vandalism",
+    "latitude": "33.7963014",
+    "location": {
+        "coordinates": [
+            -118.1125834,
+            33.7963014
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1125834",
+    "parent_incident_type": "Property Crime",
+    "primary_key": "du6n-4fyc-row-37gk__fmrf__6n7u",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:45.000",
+    "zip": "90815"
+}

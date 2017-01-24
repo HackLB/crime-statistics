@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-23T12:30:21.377Z",
+    ":updated_at": "2017-01-23T12:30:21.377Z",
+    ":version": "rv-z7nq.xsrd.4izt",
+    "address_1": "2900 Block E 15TH ST",
+    "case_number": "170004416",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-23T10:34:28.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "10",
+    "incident_datetime": "2017-01-22T10:00:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "790446317",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.7862109",
+    "location": {
+        "coordinates": [
+            -118.1577476,
+            33.7862109
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1577476",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-c6s3__f4th-av5s",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:13.000",
+    "zip": "90804"
+}

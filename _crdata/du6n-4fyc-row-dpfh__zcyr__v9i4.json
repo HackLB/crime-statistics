@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-21T12:30:26.936Z",
+    ":updated_at": "2017-01-23T12:30:56.173Z",
+    ":version": "rv-nxft.3ax2-xspw",
+    "address_1": "800 Block E WARDLOW RD",
+    "case_number": "170002208",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-21T10:34:33.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "14",
+    "incident_datetime": "2017-01-11T14:30:00.000",
+    "incident_description": "PETTY THEFT: FROM AUTO",
+    "incident_id": "790263072",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8187343",
+    "location": {
+        "coordinates": [
+            -118.1825402,
+            33.8187343
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1825402",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-dpfh__zcyr__v9i4",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:50.000",
+    "zip": "90807"
+}

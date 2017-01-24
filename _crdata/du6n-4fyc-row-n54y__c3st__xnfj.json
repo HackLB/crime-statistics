@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-15T12:30:39.696Z",
+    ":updated_at": "2017-01-23T12:30:40.784Z",
+    ":version": "rv-f2jm_2aih_65m4",
+    "address_1": "2900 Block E 16TH ST",
+    "case_number": "170002793",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-15T10:34:19.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "10",
+    "incident_datetime": "2017-01-14T10:00:00.000",
+    "incident_description": "BATTERY",
+    "incident_id": "789278598",
+    "incident_type_primary": "Assault",
+    "latitude": "33.786871",
+    "location": {
+        "coordinates": [
+            -118.157754,
+            33.786871
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.157754",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-n54y__c3st__xnfj",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:38.000",
+    "zip": "90804"
+}

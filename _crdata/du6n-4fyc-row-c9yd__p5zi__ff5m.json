@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:35:16.381Z",
+    ":updated_at": "2017-01-23T12:32:09.874Z",
+    ":version": "rv-bkvv.jvrb.be8t",
+    "address_1": "2000 Block E PACIFIC COAST HWY",
+    "case_number": "170003560",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:31.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "8",
+    "incident_datetime": "2017-01-18T08:05:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "789608766",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.7897944",
+    "location": {
+        "coordinates": [
+            -118.218748,
+            33.7897944
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.218748",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-c9yd__p5zi__ff5m",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:05.000",
+    "zip": "90804"
+}

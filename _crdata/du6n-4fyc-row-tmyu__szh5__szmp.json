@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:18.409Z",
+    ":updated_at": "2017-01-23T12:30:32.676Z",
+    ":version": "rv-urd5-ggza_u36s",
+    "address_1": "1900 Block PINE AV",
+    "case_number": "170002485",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "6",
+    "incident_datetime": "2017-01-13T06:20:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "789450312",
+    "incident_type_primary": "Theft",
+    "latitude": "33.7918295",
+    "location": {
+        "coordinates": [
+            -118.1923611,
+            33.7918295
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1923611",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-tmyu__szh5__szmp",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:26.000",
+    "zip": "90806"
+}

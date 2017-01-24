@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:35:16.381Z",
+    ":updated_at": "2017-01-23T12:30:16.432Z",
+    ":version": "rv-6rvu-f9s8~gb2u",
+    "address_1": "1200 Block LEIGH CT",
+    "case_number": "170003714",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:31.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-18T22:37:00.000",
+    "incident_description": "ASSAULT; NOT FIREARM",
+    "incident_id": "789608723",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7954923",
+    "location": {
+        "coordinates": [
+            -118.1763166,
+            33.7954923
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1763166",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-nvpi_23r9_nttc",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:12.000",
+    "zip": "90806"
+}

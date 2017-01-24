@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-16T12:30:37.562Z",
+    ":updated_at": "2017-01-22T12:31:06.727Z",
+    ":version": "rv-ypy9-xcyv.uje5",
+    "address_1": "100 Block W PACIFIC COAST HWY",
+    "case_number": "170001778",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-16T10:34:30.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "7",
+    "incident_datetime": "2017-01-09T07:30:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789388993",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.7896598",
+    "location": {
+        "coordinates": [
+            -118.1925981,
+            33.7896598
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1925981",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-m3sf__r66y__tqpg",
+    "state": "CA",
+    "updated_at": "2017-01-22T12:31:01.000",
+    "zip": "90813"
+}

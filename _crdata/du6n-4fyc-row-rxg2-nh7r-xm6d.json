@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-16T12:30:22.353Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-i9bp-449d_r4yk",
+    "address_1": "2200 Block XIMENO AV",
+    "case_number": "170003035",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-16T10:34:23.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "18",
+    "incident_datetime": "2017-01-15T18:02:00.000",
+    "incident_description": "BATTERY",
+    "incident_id": "789388879",
+    "incident_type_primary": "Assault",
+    "latitude": "33.79621",
+    "location": {
+        "coordinates": [
+            -118.140734,
+            33.79620999999999
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.140734",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-rxg2-nh7r-xm6d",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:00.000",
+    "zip": "90815"
+}

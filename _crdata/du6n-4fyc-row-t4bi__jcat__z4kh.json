@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:18.409Z",
+    ":updated_at": "2017-01-23T12:30:32.676Z",
+    ":version": "rv-vqg3_abvu_9nc9",
+    "address_1": "4700 Block FACULTY AV",
+    "case_number": "170002530",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-12T22:15:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "789450307",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8433061",
+    "location": {
+        "coordinates": [
+            -118.1369071,
+            33.8433061
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1369071",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-t4bi__jcat__z4kh",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:29.000",
+    "zip": "90808"
+}

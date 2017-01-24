@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:19.790Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-bjmv-yxfv_mvev",
+    "address_1": "100 Block CAMERON PL",
+    "case_number": "170003184",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:24.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "10",
+    "incident_datetime": "2017-01-16T10:56:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "789528469",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8229699",
+    "location": {
+        "coordinates": [
+            -118.1925085,
+            33.8229699
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1925085",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-xugm-xg95-6hrf",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:02.000",
+    "zip": "90807"
+}

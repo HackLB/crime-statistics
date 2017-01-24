@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-17T12:30:35.279Z",
+    ":updated_at": "2017-01-23T12:30:46.702Z",
+    ":version": "rv-4tzj.ndjh.ic97",
+    "address_1": "1000 Block E 19TH ST",
+    "case_number": "170002935",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "9",
+    "incident_datetime": "2017-01-15T09:03:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "789450277",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.7912328",
+    "location": {
+        "coordinates": [
+            -118.1805568,
+            33.7912328
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1805568",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-s2t3__8jip_aman",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:42.000",
+    "zip": "90806"
+}

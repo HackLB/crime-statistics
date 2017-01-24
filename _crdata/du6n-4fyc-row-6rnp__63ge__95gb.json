@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-20T12:30:24.034Z",
+    ":updated_at": "2017-01-23T12:30:21.377Z",
+    ":version": "rv-75e2_zwij_3zpd",
+    "address_1": "1700 Block LONG BEACH BLVD",
+    "case_number": "170003886",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-20T10:34:27.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-19T22:09:00.000",
+    "incident_description": "CRIME THREAT;VERBALLY,ELEC,WRITING,ETC",
+    "incident_id": "790148482",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7881707",
+    "location": {
+        "coordinates": [
+            -118.1888181,
+            33.7881707
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1888181",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-6rnp__63ge__95gb",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:13.000",
+    "zip": "90813"
+}

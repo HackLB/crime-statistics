@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-12T12:30:21.097Z",
+    ":updated_at": "2017-01-23T12:30:35.023Z",
+    ":version": "rv-r2gz~zvea-swc6",
+    "address_1": "TEMPLE AV & E PACIFIC COAST HWY",
+    "case_number": "170001824",
+    "categorization": {
+        "category": "quality-of-life",
+        "incident_type": "Drugs",
+        "sub_category": "drugs"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-12T10:34:17.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "0",
+    "incident_datetime": "2017-01-10T00:35:00.000",
+    "incident_description": "SIMPLE POSSESSION OF METH/ECSTACY/GHB ETC.",
+    "incident_id": "788683433",
+    "incident_type_primary": "Narcotics",
+    "latitude": "33.7898465",
+    "location": {
+        "coordinates": [
+            -118.1589311,
+            33.7898465
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1589311",
+    "parent_incident_type": "Drugs",
+    "primary_key": "du6n-4fyc-row-vztc__vjch-m9hg",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:30.000",
+    "zip": "90804"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-21T12:30:17.569Z",
+    ":updated_at": "2017-01-23T12:30:21.377Z",
+    ":version": "rv-m4n3.9h4f~8j2z",
+    "address_1": "4400 Block GOLDFIELD AV",
+    "case_number": "170004069",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-21T10:34:24.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "0",
+    "incident_datetime": "2017-01-20T00:01:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "790262902",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.8390131",
+    "location": {
+        "coordinates": [
+            -118.1762888,
+            33.8390131
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1762888",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-w7dm__i7nh__bs3k",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:15.000",
+    "zip": "90807"
+}

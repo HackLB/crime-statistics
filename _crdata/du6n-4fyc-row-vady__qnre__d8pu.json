@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-23T12:30:16.432Z",
+    ":updated_at": "2017-01-23T12:30:16.432Z",
+    ":version": "rv-whtn~6krg~dmap",
+    "address_1": "4700 Block ATHERTON ST",
+    "case_number": "170004395",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-23T10:34:28.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "16",
+    "incident_datetime": "2017-01-22T16:08:00.000",
+    "incident_description": "BATTERY",
+    "incident_id": "790446312",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7898311",
+    "location": {
+        "coordinates": [
+            -118.1388941,
+            33.7898311
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1388941",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-vady__qnre__d8pu",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:12.000",
+    "zip": "90815"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:58.406Z",
+    ":updated_at": "2017-01-23T12:30:46.702Z",
+    ":version": "rv-cy9r~jexr~hcue",
+    "address_1": "1600 Block E WARDLOW RD",
+    "case_number": "170003466",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:24.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "0",
+    "incident_datetime": "2017-01-15T00:18:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "789528429",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8189044",
+    "location": {
+        "coordinates": [
+            -118.1719602,
+            33.8189044
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1719602",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-kija__gu8m_rcx4",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:43.000",
+    "zip": "90807"
+}

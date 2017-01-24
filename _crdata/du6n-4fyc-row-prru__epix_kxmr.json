@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-15T12:30:14.965Z",
+    ":updated_at": "2017-01-23T12:30:40.784Z",
+    ":version": "rv-7u58_yrvd.u492",
+    "address_1": "2600 Block PASADENA AV",
+    "case_number": "170002714",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-15T10:34:19.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "0",
+    "incident_datetime": "2017-01-14T00:01:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789278620",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.8043396",
+    "location": {
+        "coordinates": [
+            -118.1876906,
+            33.8043396
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1876906",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-prru__epix_kxmr",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:35.000",
+    "zip": "90806"
+}

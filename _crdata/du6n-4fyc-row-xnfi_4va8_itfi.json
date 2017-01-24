@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:35:16.381Z",
+    ":updated_at": "2017-01-23T12:30:16.432Z",
+    ":version": "rv-qxx8_6d68_r9sf",
+    "address_1": "1900 Block LOCUST AV",
+    "case_number": "170003687",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:31.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "17",
+    "incident_datetime": "2017-01-18T17:50:00.000",
+    "incident_description": "CRIME THREAT;VERBALLY,ELEC,WRITING,ETC",
+    "incident_id": "789608734",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7918341",
+    "location": {
+        "coordinates": [
+            -118.1910649,
+            33.7918341
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1910649",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-xnfi_4va8_itfi",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:12.000",
+    "zip": "90806"
+}

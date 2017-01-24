@@ -1,0 +1,34 @@
+{
+    ":created_at": "2017-01-17T12:30:53.874Z",
+    ":updated_at": "2017-01-23T12:32:05.990Z",
+    ":version": "rv-qxcw-4g2h~6chb",
+    "address_1": "2900 Block BELLFLOWER BLVD",
+    "case_number": "170003213",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-17T10:34:21.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "14",
+    "incident_datetime": "2017-01-16T14:05:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "789450242",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8095094602533",
+    "location": {
+        "coordinates": [
+            -118.12438502238365,
+            33.80950946025328
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.124385022384",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-qk3w__hej7_4pvz",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:02.000"
+}

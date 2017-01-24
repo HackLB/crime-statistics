@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:35:07.821Z",
+    ":updated_at": "2017-01-23T12:30:35.023Z",
+    ":version": "rv-2bzx-2wqr~69fk",
+    "address_1": "ARBOR RD & SUNFIELD AV",
+    "case_number": "170002575",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:37.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-12T22:00:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "789608905",
+    "incident_type_primary": "Theft",
+    "latitude": "33.843049",
+    "location": {
+        "coordinates": [
+            -118.134964,
+            33.843049
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.134964",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-sf93__dihu-rn8w",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:31.000",
+    "zip": "90808"
+}

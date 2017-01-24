@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-13T12:30:42.788Z",
+    ":updated_at": "2017-01-23T12:30:28.667Z",
+    ":version": "rv-9tgs~m76w_fjux",
+    "address_1": "1700 Block GRAND AV",
+    "case_number": "170002392",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-13T10:34:17.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "16",
+    "incident_datetime": "2017-01-12T16:42:00.000",
+    "incident_description": "BATTERY",
+    "incident_id": "788955046",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7880289",
+    "location": {
+        "coordinates": [
+            -118.1480508,
+            33.7880289
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1480508",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-pyxf__use4__8tau",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:23.000",
+    "zip": "90804"
+}

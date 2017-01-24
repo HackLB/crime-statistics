@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-15T12:30:40.043Z",
+    ":updated_at": "2017-01-23T12:30:40.784Z",
+    ":version": "rv-v6nk-c5a4~wqzc",
+    "address_1": "MAINE AV & W 20TH ST",
+    "case_number": "170002781",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Robbery",
+        "sub_category": "robbery"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-15T10:34:19.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-13T22:00:00.000",
+    "incident_description": "ROBBERY; PERSON",
+    "incident_id": "789278602",
+    "incident_type_primary": "Robbery",
+    "latitude": "33.7934896",
+    "location": {
+        "coordinates": [
+            -118.20059,
+            33.7934896
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.20059",
+    "parent_incident_type": "Robbery",
+    "primary_key": "du6n-4fyc-row-2698-btis_nean",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:37.000",
+    "zip": "90806"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:27.865Z",
+    ":updated_at": "2017-01-23T12:30:37.801Z",
+    ":version": "rv-9tzm-8ed4.qyvj",
+    "address_1": "W 17TH ST & PACIFIC AV",
+    "case_number": "170002631",
+    "categorization": {
+        "category": "quality-of-life",
+        "incident_type": "Drugs",
+        "sub_category": "drugs"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:29.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "20",
+    "incident_datetime": "2017-01-13T20:10:00.000",
+    "incident_description": "SIMPLE POSS:HEROIN/COCAINE/LISTED CNTL SUB",
+    "incident_id": "789528622",
+    "incident_type_primary": "Narcotics",
+    "latitude": "33.7880376",
+    "location": {
+        "coordinates": [
+            -118.1937268,
+            33.7880376
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1937268",
+    "parent_incident_type": "Drugs",
+    "primary_key": "du6n-4fyc-row-wrak-s92f__bt26",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:33.000",
+    "zip": "90813"
+}

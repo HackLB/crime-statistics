@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-19T15:35:07.821Z",
+    ":updated_at": "2017-01-23T12:30:32.676Z",
+    ":version": "rv-68w2~ppwp-6nqe",
+    "address_1": "4800 Block WHITEWOOD AV",
+    "case_number": "170002492",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-19T10:34:37.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "21",
+    "incident_datetime": "2017-01-12T21:30:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "789608906",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8448856",
+    "location": {
+        "coordinates": [
+            -118.1358928,
+            33.8448856
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1358928",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-fvcn__t3bf__ztq2",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:27.000",
+    "zip": "90808"
+}

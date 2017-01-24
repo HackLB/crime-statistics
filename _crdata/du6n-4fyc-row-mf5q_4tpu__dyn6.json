@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-22T12:31:12.562Z",
+    ":updated_at": "2017-01-23T12:30:25.237Z",
+    ":version": "rv-yufp.zv48~8bcg",
+    "address_1": "1 Block & MLK",
+    "case_number": "170004287",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Robbery",
+        "sub_category": "robbery"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-22T10:34:28.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-21T22:43:00.000",
+    "incident_description": "ROBBERY; COMMERCIAL",
+    "incident_id": "790331812",
+    "incident_type_primary": "Robbery",
+    "latitude": "33.7898563",
+    "location": {
+        "coordinates": [
+            -118.1806528,
+            33.7898563
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1806528",
+    "parent_incident_type": "Robbery",
+    "primary_key": "du6n-4fyc-row-mf5q_4tpu__dyn6",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:17.000",
+    "zip": "90813"
+}

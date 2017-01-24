@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-13T12:30:49.275Z",
+    ":updated_at": "2017-01-23T12:30:28.667Z",
+    ":version": "rv-qmhn.xgwg_gpz5",
+    "address_1": "7500 Block CARSON BLVD",
+    "case_number": "170002386",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-13T10:34:17.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "16",
+    "incident_datetime": "2017-01-12T16:52:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "788955043",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8270413",
+    "location": {
+        "coordinates": [
+            -118.0855814,
+            33.8270413
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.0855814",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-cz5k-xa9r__7fu3",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:23.000",
+    "zip": "90808"
+}

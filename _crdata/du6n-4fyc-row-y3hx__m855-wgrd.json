@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:58.406Z",
+    ":updated_at": "2017-01-23T12:32:09.874Z",
+    ":version": "rv-qwfb_ud5z_52c5",
+    "address_1": "2300 Block PINE AV",
+    "case_number": "170003384",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft of Vehicle",
+        "sub_category": "vehicle"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:24.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "19",
+    "incident_datetime": "2017-01-16T19:00:00.000",
+    "incident_description": "GRAND THEFT; MOTOR VEHICLE",
+    "incident_id": "789528461",
+    "incident_type_primary": "Grand Theft Auto",
+    "latitude": "33.799101",
+    "location": {
+        "coordinates": [
+            -118.19235,
+            33.799101
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.19235",
+    "parent_incident_type": "Theft of Vehicle",
+    "primary_key": "du6n-4fyc-row-y3hx__m855-wgrd",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:32:03.000",
+    "zip": "90806"
+}

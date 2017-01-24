@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-14T12:30:41.376Z",
+    ":updated_at": "2017-01-23T12:30:37.801Z",
+    ":version": "rv-qzci-aamf-cas9",
+    "address_1": "3000 Block SPRINGDALE DR E",
+    "case_number": "170002648",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-14T10:34:19.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "21",
+    "incident_datetime": "2017-01-13T21:14:00.000",
+    "incident_description": "INFLICT CORP INJURY; SPOUSE/COHABITANT",
+    "incident_id": "789191162",
+    "incident_type_primary": "Assault",
+    "latitude": "33.8120656",
+    "location": {
+        "coordinates": [
+            -118.2199629,
+            33.8120656
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.2199629",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-ea4n__spfc__f38x",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:33.000",
+    "zip": "90810"
+}

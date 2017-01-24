@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-11T12:30:51.753Z",
+    ":updated_at": "2017-01-23T12:30:35.023Z",
+    ":version": "rv-gmne.3d3c-iurc",
+    "address_1": "2000 Block E CARSON ST",
+    "case_number": "170001841",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-11T10:34:17.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "4",
+    "incident_datetime": "2017-01-10T04:14:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "788573170",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8324143",
+    "location": {
+        "coordinates": [
+            -118.1674663,
+            33.8324143
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1674663",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-xeva__p6fg_2d45",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:31.000",
+    "zip": "90807"
+}

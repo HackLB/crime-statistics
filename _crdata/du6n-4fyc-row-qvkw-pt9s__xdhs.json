@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-12T12:30:39.629Z",
+    ":updated_at": "2017-01-23T12:30:46.702Z",
+    ":version": "rv-kaqp~f3b9.rgay",
+    "address_1": "1500 Block MARTIN LUTHER KING JR AV",
+    "case_number": "170002096",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-12T10:34:17.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "9",
+    "incident_datetime": "2017-01-11T09:26:00.000",
+    "incident_description": "INFLICT CORP INJURY; SPOUSE/COHABITANT",
+    "incident_id": "788683400",
+    "incident_type_primary": "Assault",
+    "latitude": "33.785779",
+    "location": {
+        "coordinates": [
+            -118.1806564,
+            33.785779
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1806564",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-qvkw-pt9s__xdhs",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:42.000",
+    "zip": "90813"
+}

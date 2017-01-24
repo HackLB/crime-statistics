@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-23T12:31:01.414Z",
+    ":updated_at": "2017-01-23T12:31:01.414Z",
+    ":version": "rv-spki.5j95.f2x5",
+    "address_1": "700 Block E CARSON ST",
+    "case_number": "170003568",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-23T10:34:33.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "9",
+    "incident_datetime": "2017-01-18T09:56:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "790446404",
+    "incident_type_primary": "Theft",
+    "latitude": "33.831492",
+    "location": {
+        "coordinates": [
+            -118.183761,
+            33.831492
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.183761",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-nt6m-ivit__si9r",
+    "state": "CA",
+    "updated_at": "2017-01-23T12:30:56.000",
+    "zip": "90807"
+}
