@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-24T12:31:17.939Z",
-    ":version": "rv-ref9.zy74-ufgm",
+    ":updated_at": "2017-01-25T12:30:36.854Z",
+    ":version": "rv-5jtk.993j_zc72",
     "address_1": "4700 Block CLAIR DEL AV",
     "case_number": "170003549",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-j8uf__ps48__8cbn",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:14.000",
+    "updated_at": "2017-01-25T12:30:28.000",
     "zip": "90807"
 }

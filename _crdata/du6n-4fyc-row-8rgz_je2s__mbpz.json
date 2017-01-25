@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-24T12:31:03.678Z",
-    ":version": "rv-9mxm.rgya-y8da",
+    ":updated_at": "2017-01-25T12:30:24.233Z",
+    ":version": "rv-icg7_6u4b_z928",
     "address_1": "2000 Block CEDAR AV",
     "case_number": "170003475",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Disorder",
     "primary_key": "du6n-4fyc-row-8rgz_je2s__mbpz",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:57.000",
+    "updated_at": "2017-01-25T12:30:18.000",
     "zip": "90806"
 }

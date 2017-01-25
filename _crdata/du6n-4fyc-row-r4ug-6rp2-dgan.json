@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:27.865Z",
-    ":updated_at": "2017-01-24T12:30:50.523Z",
-    ":version": "rv-pgc9.bd7v-bbxf",
+    ":updated_at": "2017-01-25T12:31:49.050Z",
+    ":version": "rv-h9q8_nxi5~hd4w",
     "address_1": "2000 Block SANTA FE AV",
     "case_number": "170002313",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-r4ug-6rp2-dgan",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:46.000",
+    "updated_at": "2017-01-25T12:31:45.000",
     "zip": "90810"
 }

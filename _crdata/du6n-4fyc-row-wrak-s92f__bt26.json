@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:27.865Z",
-    ":updated_at": "2017-01-24T12:30:34.397Z",
-    ":version": "rv-mjq9.axk7.iksa",
+    ":updated_at": "2017-01-25T12:32:33.265Z",
+    ":version": "rv-2hsm.87uu-i3dt",
     "address_1": "W 17TH ST & PACIFIC AV",
     "case_number": "170002631",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Drugs",
     "primary_key": "du6n-4fyc-row-wrak-s92f__bt26",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:30.000",
+    "updated_at": "2017-01-25T12:32:25.000",
     "zip": "90813"
 }

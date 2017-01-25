@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:07.821Z",
-    ":updated_at": "2017-01-24T12:30:42.418Z",
-    ":version": "rv-5gd2.qaxr~8a9j",
+    ":updated_at": "2017-01-25T12:32:45.565Z",
+    ":version": "rv-j7um~52e8_8ryx",
     "address_1": "LOCUST AV & PLENTY ST",
     "case_number": "170002718",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-z59j-n4pk-hwa5",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:38.000",
+    "updated_at": "2017-01-25T12:32:40.000",
     "zip": "90805"
 }

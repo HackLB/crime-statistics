@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-16T12:30:22.353Z",
-    ":updated_at": "2017-01-24T12:31:06.185Z",
-    ":version": "rv-rvx6~xqcy_my4b",
+    ":updated_at": "2017-01-25T12:33:02.709Z",
+    ":version": "rv-2qjj-sss2~z7rc",
     "address_1": "1900 Block LOCUST AV",
     "case_number": "170002900",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-ydmr_nb7x_27ip",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:00.000",
+    "updated_at": "2017-01-25T12:32:57.000",
     "zip": "90806"
 }

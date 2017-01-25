@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-13T12:30:52.610Z",
-    ":updated_at": "2017-01-24T12:30:50.523Z",
-    ":version": "rv-vba5~ht4y_c6an",
+    ":updated_at": "2017-01-25T12:31:45.018Z",
+    ":version": "rv-wd7t~hccm-gdpe",
     "address_1": "1700 Block FREEMAN AV",
     "case_number": "170002302",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-59j6_ynwg__hdfx",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:44.000",
+    "updated_at": "2017-01-25T12:31:42.000",
     "zip": "90804"
 }

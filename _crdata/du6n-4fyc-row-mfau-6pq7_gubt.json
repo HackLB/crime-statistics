@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:07.821Z",
-    ":updated_at": "2017-01-24T12:30:26.696Z",
-    ":version": "rv-g3y7-daa2-caay",
+    ":updated_at": "2017-01-25T12:32:16.921Z",
+    ":version": "rv-24eq.hr9s.fg5y",
     "address_1": "500 Block E PLEASANT ST",
     "case_number": "170002537",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-mfau-6pq7_gubt",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:22.000",
+    "updated_at": "2017-01-25T12:32:12.000",
     "zip": "90805"
 }

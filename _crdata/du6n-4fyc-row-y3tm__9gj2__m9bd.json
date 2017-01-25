@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-14T12:30:56.296Z",
-    ":updated_at": "2017-01-24T12:31:06.185Z",
-    ":version": "rv-zqvs-22sd-jwby",
+    ":updated_at": "2017-01-25T12:32:10.086Z",
+    ":version": "rv-8udg_afim-g6nv",
     "address_1": "3100 Block SPRINGDALE DR W",
     "case_number": "170002457",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-y3tm__9gj2__m9bd",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:03.000",
+    "updated_at": "2017-01-25T12:32:03.000",
     "zip": "90810"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-24T12:31:48.144Z",
-    ":version": "rv-t85y_g4e8~heq9",
+    ":updated_at": "2017-01-25T12:30:29.066Z",
+    ":version": "rv-z6gi-3bdg-eii3",
     "address_1": "1800 Block PACIFIC AV",
     "case_number": "170003710",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Disorder",
     "primary_key": "du6n-4fyc-row-8z2q__siwz__mssg",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:44.000",
+    "updated_at": "2017-01-25T12:30:22.000",
     "zip": "90806"
 }

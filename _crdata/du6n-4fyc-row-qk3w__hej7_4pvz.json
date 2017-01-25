@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:53.874Z",
-    ":updated_at": "2017-01-24T12:30:26.696Z",
-    ":version": "rv-a7xy.7bd4~9yej",
+    ":updated_at": "2017-01-25T12:30:31.550Z",
+    ":version": "rv-p4s5-t6nk~p6fu",
     "address_1": "2900 Block BELLFLOWER BLVD",
     "case_number": "170003213",
     "categorization": {
@@ -30,5 +30,5 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-qk3w__hej7_4pvz",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:23.000"
+    "updated_at": "2017-01-25T12:30:26.000"
 }

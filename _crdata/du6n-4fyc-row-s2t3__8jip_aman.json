@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:35.279Z",
-    ":updated_at": "2017-01-24T12:31:06.185Z",
-    ":version": "rv-t3a4~aizc.m69b",
+    ":updated_at": "2017-01-25T12:30:29.066Z",
+    ":version": "rv-2j7t-cug5~4v3s",
     "address_1": "1000 Block E 19TH ST",
     "case_number": "170002935",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-s2t3__8jip_aman",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:03.000",
+    "updated_at": "2017-01-25T12:30:23.000",
     "zip": "90806"
 }

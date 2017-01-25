@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-15T12:30:40.043Z",
-    ":updated_at": "2017-01-24T12:31:03.678Z",
-    ":version": "rv-ei5d~ftze.3xxc",
+    ":updated_at": "2017-01-25T12:30:29.066Z",
+    ":version": "rv-fya8-7xzp.hybb",
     "address_1": "2200 Block ATLANTIC AV",
     "case_number": "170002883",
     "categorization": {
@@ -14,8 +14,8 @@
     "created_at": "2017-01-15T10:34:19.000",
     "day_of_week": "Sunday",
     "hour_of_day": "0",
-    "incident_datetime": "2017-01-15T00:19:00.000",
-    "incident_description": "BATTERY",
+    "incident_datetime": "2017-01-15T00:18:00.000",
+    "incident_description": "BATTERY ON PERSON WITH SERIOUS INJURY",
     "incident_id": "789278574",
     "incident_type_primary": "Assault",
     "latitude": "33.79726",
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-h47v_x9gk__6n3r",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:59.000",
+    "updated_at": "2017-01-25T12:30:23.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:10.173Z",
-    ":updated_at": "2017-01-24T12:30:46.590Z",
-    ":version": "rv-hgbf-q94m~d3y8",
+    ":updated_at": "2017-01-25T12:31:38.645Z",
+    ":version": "rv-sbcj.qm7a-qguw",
     "address_1": "5900 Block E SPRING ST",
     "case_number": "170002256",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-fwg3__adqh__bcai",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:41.000",
+    "updated_at": "2017-01-25T12:31:36.000",
     "zip": "90808"
 }

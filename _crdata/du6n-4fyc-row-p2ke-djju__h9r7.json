@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:18.409Z",
-    ":updated_at": "2017-01-24T12:31:06.185Z",
-    ":version": "rv-nyuh~97au~bzt7",
+    ":updated_at": "2017-01-25T12:32:05.472Z",
+    ":version": "rv-zuvb.yzny_srqh",
     "address_1": "6800 Block PAGEANTRY ST",
     "case_number": "170002441",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-p2ke-djju__h9r7",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:01.000",
+    "updated_at": "2017-01-25T12:32:02.000",
     "zip": "90808"
 }

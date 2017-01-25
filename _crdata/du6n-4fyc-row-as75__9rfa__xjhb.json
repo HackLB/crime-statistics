@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-24T12:32:02.327Z",
-    ":version": "rv-n2vq-kdyh-p8ie",
+    ":updated_at": "2017-01-25T12:30:31.550Z",
+    ":version": "rv-iqhr.x896.vax7",
     "address_1": "2100 Block BELLFLOWER BLVD",
     "case_number": "170003829",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-as75__9rfa__xjhb",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:58.000",
+    "updated_at": "2017-01-25T12:30:24.000",
     "zip": "90815"
 }

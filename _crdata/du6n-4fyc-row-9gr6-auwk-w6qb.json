@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-14T12:30:56.296Z",
-    ":updated_at": "2017-01-24T12:31:09.758Z",
-    ":version": "rv-8hhq~5j7b_m5jy",
+    ":updated_at": "2017-01-25T12:32:10.086Z",
+    ":version": "rv-8hkj~b7dv.bcan",
     "address_1": "2800 Block ATLANTIC AV",
     "case_number": "170002465",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Sexual Assault",
     "primary_key": "du6n-4fyc-row-9gr6-auwk-w6qb",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:04.000",
+    "updated_at": "2017-01-25T12:32:04.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-24T12:31:44.344Z",
-    ":version": "rv-fwyc.rtds-zpmc",
+    ":updated_at": "2017-01-25T12:30:29.066Z",
+    ":version": "rv-4dkq-yy33_tuy7",
     "address_1": "1900 Block LOCUST AV",
     "case_number": "170003687",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-xnfi_4va8_itfi",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:39.000",
+    "updated_at": "2017-01-25T12:30:22.000",
     "zip": "90806"
 }

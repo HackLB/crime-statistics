@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-24T12:31:55.999Z",
-    ":version": "rv-ijxt_rcna~9r8e",
+    ":updated_at": "2017-01-25T12:30:29.066Z",
+    ":version": "rv-bmhq.tqy6_ahji",
     "address_1": "2200 Block EASY AV",
     "case_number": "170003767",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-58v7_6b7e_i7sf",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:50.000",
+    "updated_at": "2017-01-25T12:30:23.000",
     "zip": "90810"
 }

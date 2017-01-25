@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-16T12:30:22.353Z",
-    ":updated_at": "2017-01-24T12:31:06.185Z",
-    ":version": "rv-9r8s-zv82~q4zs",
+    ":updated_at": "2017-01-25T12:30:29.066Z",
+    ":version": "rv-63kg-j9x6.sreg",
     "address_1": "1700 Block LONG BEACH BLVD",
     "case_number": "170002906",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-5v2u_4vyf__728t",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:01.000",
+    "updated_at": "2017-01-25T12:30:23.000",
     "zip": "90813"
 }

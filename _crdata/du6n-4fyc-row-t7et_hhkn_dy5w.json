@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-13T12:30:42.788Z",
-    ":updated_at": "2017-01-24T12:30:50.523Z",
-    ":version": "rv-a89p.uwzu~ys3g",
+    ":updated_at": "2017-01-25T12:31:49.050Z",
+    ":version": "rv-34pq_3j8k_3a4m",
     "address_1": "1600 Block LINDEN AV",
     "case_number": "170002318",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-t7et_hhkn_dy5w",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:46.000",
+    "updated_at": "2017-01-25T12:31:46.000",
     "zip": "90813"
 }

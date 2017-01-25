@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-13T12:31:09.873Z",
-    ":updated_at": "2017-01-24T12:30:50.523Z",
-    ":version": "rv-iipi.amd5.wpew",
+    ":updated_at": "2017-01-25T12:31:45.018Z",
+    ":version": "rv-qr9c_4fkp-v32i",
     "address_1": "3700 Block WESTON PL",
     "case_number": "170002281",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-wqb3__jy7s-7sa8",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:43.000",
+    "updated_at": "2017-01-25T12:31:41.000",
     "zip": "90807"
 }

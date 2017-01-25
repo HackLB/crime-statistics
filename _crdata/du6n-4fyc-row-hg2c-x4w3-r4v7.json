@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-24T12:41:52.927Z",
-    ":version": "rv-5fj4_tqqk_qjmq",
+    ":updated_at": "2017-01-25T12:30:36.854Z",
+    ":version": "rv-fa2v_ez9w-mzds",
     "address_1": "SANTA FE AV & W WARDLOW RD",
     "case_number": "170003980",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-hg2c-x4w3-r4v7",
     "state": "CA",
-    "updated_at": "2017-01-24T12:41:49.000",
+    "updated_at": "2017-01-25T12:30:29.000",
     "zip": "90810"
 }

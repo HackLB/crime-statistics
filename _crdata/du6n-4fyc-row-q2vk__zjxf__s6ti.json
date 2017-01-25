@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-16T12:30:22.353Z",
-    ":updated_at": "2017-01-24T12:30:46.590Z",
-    ":version": "rv-3t3v-jaji-gexd",
+    ":updated_at": "2017-01-25T12:32:54.022Z",
+    ":version": "rv-zy96-7sut~ggtc",
     "address_1": "3700 Block CALIFORNIA AV",
     "case_number": "170002764",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-q2vk__zjxf__s6ti",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:42.000",
+    "updated_at": "2017-01-25T12:32:48.000",
     "zip": "90807"
 }

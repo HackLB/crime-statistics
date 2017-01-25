@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-24T12:31:27.500Z",
-    ":version": "rv-xu3r~pafr~uee4",
+    ":updated_at": "2017-01-25T12:30:29.066Z",
+    ":version": "rv-tmwh_b7rh-36kt",
     "address_1": "2500 Block ATLANTIC AV",
     "case_number": "170003619",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-uahv__88jr-ivbw",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:24.000",
+    "updated_at": "2017-01-25T12:30:20.000",
     "zip": "90806"
 }

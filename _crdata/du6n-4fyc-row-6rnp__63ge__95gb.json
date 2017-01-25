@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-24T12:30:18.258Z",
-    ":version": "rv-zknb-39xm_p7yh",
+    ":updated_at": "2017-01-25T12:30:31.550Z",
+    ":version": "rv-v5jq.tpa8~bb3m",
     "address_1": "1700 Block LONG BEACH BLVD",
     "case_number": "170003886",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-6rnp__63ge__95gb",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:15.000",
+    "updated_at": "2017-01-25T12:30:25.000",
     "zip": "90813"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-15T12:30:14.965Z",
-    ":updated_at": "2017-01-24T12:30:50.523Z",
-    ":version": "rv-29p6-27ms~txwk",
+    ":updated_at": "2017-01-25T12:32:58.051Z",
+    ":version": "rv-3wn4-6g9z-k2fh",
     "address_1": "3500 Block SANTA FE AV",
     "case_number": "170002808",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-udef-uege-xiay",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:47.000",
+    "updated_at": "2017-01-25T12:32:56.000",
     "zip": "90810"
 }

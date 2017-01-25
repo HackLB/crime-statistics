@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-24T12:31:48.144Z",
-    ":version": "rv-28y2.b9fq-t8yf",
+    ":updated_at": "2017-01-25T12:30:29.066Z",
+    ":version": "rv-iyce.q2gb_xchd",
     "address_1": "1200 Block LEIGH CT",
     "case_number": "170003714",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-nvpi_23r9_nttc",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:45.000",
+    "updated_at": "2017-01-25T12:30:22.000",
     "zip": "90806"
 }

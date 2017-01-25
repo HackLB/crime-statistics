@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-24T12:31:52.509Z",
-    ":version": "rv-qemp-d9u3~76gm",
+    ":updated_at": "2017-01-25T12:30:29.066Z",
+    ":version": "rv-cnb6.g7ec~5mxw",
     "address_1": "LONG BEACH BLVD & E COLUMBIA ST",
     "case_number": "170003722",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-nb82__47rz__nq94",
     "state": "CA",
-    "updated_at": "2017-01-24T12:31:47.000",
+    "updated_at": "2017-01-25T12:30:22.000",
     "zip": "90806"
 }

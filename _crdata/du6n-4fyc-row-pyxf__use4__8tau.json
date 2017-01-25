@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-13T12:30:42.788Z",
-    ":updated_at": "2017-01-24T12:30:59.080Z",
-    ":version": "rv-6kum-cbrq-itkn",
+    ":updated_at": "2017-01-25T12:32:01.095Z",
+    ":version": "rv-dzgj.4gz5.whvb",
     "address_1": "1700 Block GRAND AV",
     "case_number": "170002392",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-pyxf__use4__8tau",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:52.000",
+    "updated_at": "2017-01-25T12:31:56.000",
     "zip": "90804"
 }

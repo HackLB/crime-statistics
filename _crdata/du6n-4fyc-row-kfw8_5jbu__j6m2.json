@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-01-24T12:40:09.677Z",
-    ":version": "rv-bt32~6j2e-xf7w",
+    ":updated_at": "2017-01-25T12:30:58.168Z",
+    ":version": "rv-bx4i~pyhz.ea3s",
     "address_1": "3100 Block MAGNOLIA AV",
     "case_number": "170004191",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Liquor",
     "primary_key": "du6n-4fyc-row-kfw8_5jbu__j6m2",
     "state": "CA",
-    "updated_at": "2017-01-24T12:40:06.000",
+    "updated_at": "2017-01-25T12:30:54.000",
     "zip": "90806"
 }

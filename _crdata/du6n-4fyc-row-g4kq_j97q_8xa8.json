@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-15T12:30:14.965Z",
-    ":updated_at": "2017-01-24T12:30:37.229Z",
-    ":version": "rv-wxs8_uh77~csyv",
+    ":updated_at": "2017-01-25T12:32:41.720Z",
+    ":version": "rv-3ahe~a8bk.bie6",
     "address_1": "2100 Block LONG BEACH BLVD",
     "case_number": "170002689",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Drugs",
     "primary_key": "du6n-4fyc-row-g4kq_j97q_8xa8",
     "state": "CA",
-    "updated_at": "2017-01-24T12:30:35.000",
+    "updated_at": "2017-01-25T12:32:35.000",
     "zip": "90806"
 }
