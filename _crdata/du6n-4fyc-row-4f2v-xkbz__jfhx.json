@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:26.936Z",
-    ":updated_at": "2017-01-25T12:32:33.265Z",
-    ":version": "rv-jqb8-jy6j.evp8",
+    ":updated_at": "2017-01-26T12:30:36.882Z",
+    ":version": "rv-ribi~zj5q~8u7q",
     "address_1": "2200 Block ARGONNE AV",
     "case_number": "170002629",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-4f2v-xkbz__jfhx",
     "state": "CA",
-    "updated_at": "2017-01-25T12:32:25.000",
+    "updated_at": "2017-01-26T12:30:32.000",
     "zip": "90815"
 }

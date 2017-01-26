@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-25T12:30:29.066Z",
-    ":version": "rv-8yj8_t5m3-mre3",
+    ":updated_at": "2017-01-26T12:30:25.526Z",
+    ":version": "rv-ad6e-4sde.6fpg",
     "address_1": "2700 Block CLARK AV",
     "case_number": "170003698",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-m75b_qivv_sdqd",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:22.000",
+    "updated_at": "2017-01-26T12:30:21.000",
     "zip": "90815"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-16T12:30:22.353Z",
-    ":updated_at": "2017-01-25T12:30:29.066Z",
-    ":version": "rv-q7kc~h83a_2sk2",
+    ":updated_at": "2017-01-26T12:30:30.285Z",
+    ":version": "rv-cr24~rbyq_3u96",
     "address_1": "2100 Block PASADENA AV",
     "case_number": "170002909",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-x3q5__3rqq__hz5d",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:23.000",
+    "updated_at": "2017-01-26T12:30:25.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-25T12:30:40.634Z",
-    ":updated_at": "2017-01-25T12:30:40.634Z",
-    ":version": "rv-fus7-steg-im3i",
+    ":updated_at": "2017-01-26T12:30:36.882Z",
+    ":version": "rv-ad8u_jpaz_ix2i",
     "address_1": "1900 Block CHESTNUT AV",
     "case_number": "170002623",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-dyhj__b7tq-akja",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:35.000",
+    "updated_at": "2017-01-26T12:30:32.000",
     "zip": "90806"
 }

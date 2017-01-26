@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-15T12:30:14.965Z",
-    ":updated_at": "2017-01-25T12:32:45.565Z",
-    ":version": "rv-3qz8.8yki_ze3v",
+    ":updated_at": "2017-01-26T12:30:39.732Z",
+    ":version": "rv-5cac-qq4n~i34k",
     "address_1": "300 Block E WILLOW ST",
     "case_number": "170002719",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-fjsq_qmfz__qz3g",
     "state": "CA",
-    "updated_at": "2017-01-25T12:32:41.000",
+    "updated_at": "2017-01-26T12:30:34.000",
     "zip": "90806"
 }

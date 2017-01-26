@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-26T12:30:35.418Z",
+    ":updated_at": "2017-01-26T12:30:35.418Z",
+    ":version": "rv-rrsj.jeb8~7gea",
+    "address_1": "2200 Block EARL AV",
+    "case_number": "170003983",
+    "categorization": {
+        "category": "quality-of-life",
+        "incident_type": "Drugs",
+        "sub_category": "drugs"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-26T10:34:40.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "11",
+    "incident_datetime": "2017-01-20T11:09:00.000",
+    "incident_description": "SIMPLE POSS:HEROIN/COCAINE/LISTED CNTL SUB",
+    "incident_id": "790753024",
+    "incident_type_primary": "Narcotics",
+    "latitude": "33.7971376",
+    "location": {
+        "coordinates": [
+            -118.191577,
+            33.7971376
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.191577",
+    "parent_incident_type": "Drugs",
+    "primary_key": "du6n-4fyc-row-tzv2__2mf8__42au",
+    "state": "CA",
+    "updated_at": "2017-01-26T12:30:26.000",
+    "zip": "90806"
+}

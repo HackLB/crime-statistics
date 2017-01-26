@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-14T12:31:04.944Z",
-    ":updated_at": "2017-01-25T12:32:05.472Z",
-    ":version": "rv-y8nr.nvh5.3g7f",
+    ":updated_at": "2017-01-26T12:30:35.418Z",
+    ":version": "rv-wdna-dqh2_eddx",
     "address_1": "2400 Block CASPIAN AV",
     "case_number": "170002454",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-hcxh_hh4n_uixt",
     "state": "CA",
-    "updated_at": "2017-01-25T12:32:03.000",
+    "updated_at": "2017-01-26T12:30:29.000",
     "zip": "90810"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:58.406Z",
-    ":updated_at": "2017-01-25T12:30:36.854Z",
-    ":version": "rv-wqvz-dmmv~tax4",
+    ":updated_at": "2017-01-26T12:31:33.397Z",
+    ":version": "rv-mngk-6tfw.4m6x",
     "address_1": "2300 Block PALO VERDE AV",
     "case_number": "170003445",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-jc8k__bwq6__7y8j",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:28.000",
+    "updated_at": "2017-01-26T12:31:28.000",
     "zip": "90815"
 }

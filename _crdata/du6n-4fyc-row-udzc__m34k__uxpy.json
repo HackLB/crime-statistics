@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-14T12:30:46.432Z",
-    ":updated_at": "2017-01-25T12:32:25.603Z",
-    ":version": "rv-g6ct.v498_9sen",
+    ":updated_at": "2017-01-26T12:30:36.882Z",
+    ":version": "rv-aaau.stj3.jqts",
     "address_1": "2800 Block HACKETT AV",
     "case_number": "170002617",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-udzc__m34k__uxpy",
     "state": "CA",
-    "updated_at": "2017-01-25T12:32:22.000",
+    "updated_at": "2017-01-26T12:30:32.000",
     "zip": "90815"
 }

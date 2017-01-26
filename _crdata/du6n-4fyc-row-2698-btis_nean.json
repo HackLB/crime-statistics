@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-15T12:30:40.043Z",
-    ":updated_at": "2017-01-25T12:32:58.051Z",
-    ":version": "rv-xxrp-bdkz~iu85",
+    ":updated_at": "2017-01-26T12:30:39.732Z",
+    ":version": "rv-5end~9jaj_k5vq",
     "address_1": "MAINE AV & W 20TH ST",
     "case_number": "170002781",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-2698-btis_nean",
     "state": "CA",
-    "updated_at": "2017-01-25T12:32:53.000",
+    "updated_at": "2017-01-26T12:30:36.000",
     "zip": "90806"
 }

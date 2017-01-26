@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-25T12:30:31.550Z",
-    ":version": "rv-wte3_g2us~je5k",
+    ":updated_at": "2017-01-26T12:30:30.285Z",
+    ":version": "rv-c7u2-5jyz-y6y3",
     "address_1": "1800 Block PALO VERDE AV",
     "case_number": "170003851",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Other Sexual Offense",
     "primary_key": "du6n-4fyc-row-5sn4-nh4e__sys4",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:24.000",
+    "updated_at": "2017-01-26T12:30:24.000",
     "zip": "90815"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:39.539Z",
-    ":updated_at": "2017-01-25T12:30:31.550Z",
-    ":version": "rv-qr56-qkdz.2riz",
+    ":updated_at": "2017-01-26T12:31:06.106Z",
+    ":version": "rv-sbnu_i6qd-jksk",
     "address_1": "3300 Block PASADENA AV",
     "case_number": "170003218",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-c574-2esj__y4h3",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:26.000",
+    "updated_at": "2017-01-26T12:31:00.000",
     "zip": "90807"
 }

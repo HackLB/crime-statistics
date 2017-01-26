@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-25T12:30:31.550Z",
-    ":version": "rv-bkpv_ga7y-cky8",
+    ":updated_at": "2017-01-26T12:31:10.497Z",
+    ":version": "rv-ezh7.n87b~9ed6",
     "address_1": "3300 Block LEES AV",
     "case_number": "170003274",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-cxr9_j6i7_wbua",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:27.000",
+    "updated_at": "2017-01-26T12:31:07.000",
     "zip": "90808"
 }

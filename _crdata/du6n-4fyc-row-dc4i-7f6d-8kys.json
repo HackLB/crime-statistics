@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-01-25T12:30:29.066Z",
-    ":version": "rv-uj46.ugj7~brpq",
+    ":updated_at": "2017-01-26T12:30:25.526Z",
+    ":version": "rv-qgn7-adcp_5pzr",
     "address_1": "3600 Block LINDEN AV",
     "case_number": "170003647",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-dc4i-7f6d-8kys",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:21.000",
+    "updated_at": "2017-01-26T12:30:20.000",
     "zip": "90807"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:34:57.774Z",
-    ":updated_at": "2017-01-25T12:30:31.550Z",
-    ":version": "rv-m5sg-6ckv_gydk",
+    ":updated_at": "2017-01-26T12:31:12.878Z",
+    ":version": "rv-wauq_hpja.jxq2",
     "address_1": "4800 Block BLACKTHORNE AV",
     "case_number": "170003306",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-ae2s-ugfj__yybe",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:27.000",
+    "updated_at": "2017-01-26T12:31:10.000",
     "zip": "90808"
 }

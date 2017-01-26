@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-25T12:30:40.634Z",
-    ":updated_at": "2017-01-25T12:30:40.634Z",
-    ":version": "rv-7twj-3g8k~p2ra",
+    ":updated_at": "2017-01-26T12:30:36.882Z",
+    ":version": "rv-jss7-sz3i~xyhu",
     "address_1": "5500 Block ATHERTON ST",
     "case_number": "170002582",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-fd8w_y3gj_4vzk",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:35.000",
+    "updated_at": "2017-01-26T12:30:31.000",
     "zip": "90815"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:30:40.616Z",
-    ":updated_at": "2017-01-25T12:31:05.051Z",
-    ":version": "rv-q9we.r2x9-tscp",
+    ":updated_at": "2017-01-26T12:30:20.817Z",
+    ":version": "rv-gaie-3x6x-k6qk",
     "address_1": "1800 Block STEARNLEE AV",
     "case_number": "170004251",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-zsrb-t5rq_uhbu",
     "state": "CA",
-    "updated_at": "2017-01-25T12:31:00.000",
+    "updated_at": "2017-01-26T12:30:15.000",
     "zip": "90815"
 }

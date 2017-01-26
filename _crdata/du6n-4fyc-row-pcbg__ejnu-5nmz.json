@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:58.406Z",
-    ":updated_at": "2017-01-25T12:30:31.550Z",
-    ":version": "rv-k865-q53v~i5b9",
+    ":updated_at": "2017-01-26T12:31:02.795Z",
+    ":version": "rv-mx8s_7rxn-nyzw",
     "address_1": "4800 Block FIDLER AV",
     "case_number": "170003204",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-pcbg__ejnu-5nmz",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:26.000",
+    "updated_at": "2017-01-26T12:30:59.000",
     "zip": "90808"
 }

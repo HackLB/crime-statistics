@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-15T12:30:14.965Z",
-    ":updated_at": "2017-01-25T12:32:45.565Z",
-    ":version": "rv-vek8_wpei_c623",
+    ":updated_at": "2017-01-26T12:30:36.882Z",
+    ":version": "rv-vvf9_qs5a~8xug",
     "address_1": "2600 Block PASADENA AV",
     "case_number": "170002714",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-prru__epix_kxmr",
     "state": "CA",
-    "updated_at": "2017-01-25T12:32:40.000",
+    "updated_at": "2017-01-26T12:30:34.000",
     "zip": "90806"
 }

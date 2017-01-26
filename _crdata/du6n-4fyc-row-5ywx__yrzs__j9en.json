@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:07.821Z",
-    ":updated_at": "2017-01-25T12:32:41.720Z",
-    ":version": "rv-qf2z.kwxn.i3pm",
+    ":updated_at": "2017-01-26T12:30:36.882Z",
+    ":version": "rv-gpzz_rbpx_4bnb",
     "address_1": "3300 Block MAGNOLIA AV",
     "case_number": "170002700",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-5ywx__yrzs__j9en",
     "state": "CA",
-    "updated_at": "2017-01-25T12:32:37.000",
+    "updated_at": "2017-01-26T12:30:33.000",
     "zip": "90806"
 }

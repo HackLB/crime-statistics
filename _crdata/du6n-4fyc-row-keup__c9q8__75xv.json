@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-14T12:30:43.980Z",
-    ":updated_at": "2017-01-25T12:32:21.291Z",
-    ":version": "rv-6na8_27zt~g2vr",
+    ":updated_at": "2017-01-26T12:30:36.882Z",
+    ":version": "rv-rke6_j9v9~yygz",
     "address_1": "2600 Block PACIFIC AV",
     "case_number": "170002583",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-keup__c9q8__75xv",
     "state": "CA",
-    "updated_at": "2017-01-25T12:32:18.000",
+    "updated_at": "2017-01-26T12:30:31.000",
     "zip": "90806"
 }

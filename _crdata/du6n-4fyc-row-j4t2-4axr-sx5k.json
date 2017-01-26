@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:58.406Z",
-    ":updated_at": "2017-01-25T12:30:24.233Z",
-    ":version": "rv-cuue~ymja_sbeq",
+    ":updated_at": "2017-01-26T12:31:40.696Z",
+    ":version": "rv-8qqd-6suz~uc7d",
     "address_1": "600 Block E BURNETT ST",
     "case_number": "170003481",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-j4t2-4axr-sx5k",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:18.000",
+    "updated_at": "2017-01-26T12:31:36.000",
     "zip": "90806"
 }

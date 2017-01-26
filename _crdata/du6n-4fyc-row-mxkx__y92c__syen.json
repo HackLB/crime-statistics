@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-01-25T12:31:18.048Z",
-    ":version": "rv-d5un.kv5m_s26g",
+    ":updated_at": "2017-01-26T12:30:25.526Z",
+    ":version": "rv-2fkg.uu8v_3tsb",
     "address_1": "1100 Block E CARSON ST",
     "case_number": "170004542",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-mxkx__y92c__syen",
     "state": "CA",
-    "updated_at": "2017-01-25T12:31:13.000",
+    "updated_at": "2017-01-26T12:30:18.000",
     "zip": "90807"
 }

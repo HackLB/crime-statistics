@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-25T12:30:29.066Z",
-    ":version": "rv-va4b.7gnk_hw5a",
+    ":updated_at": "2017-01-26T12:30:25.526Z",
+    ":version": "rv-3xn4~92v7_9yyz",
     "address_1": "1700 Block WALNUT AV",
     "case_number": "170003665",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-tqkq-h2cm__9fd8",
     "state": "CA",
-    "updated_at": "2017-01-25T12:30:21.000",
+    "updated_at": "2017-01-26T12:30:21.000",
     "zip": "90813"
 }

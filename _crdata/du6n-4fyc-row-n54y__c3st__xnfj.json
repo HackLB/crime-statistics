@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-15T12:30:39.696Z",
-    ":updated_at": "2017-01-25T12:32:58.051Z",
-    ":version": "rv-adrw.xawy-3kfn",
+    ":updated_at": "2017-01-26T12:30:39.732Z",
+    ":version": "rv-pe6y.qiq4_wex9",
     "address_1": "2900 Block E 16TH ST",
     "case_number": "170002793",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-n54y__c3st__xnfj",
     "state": "CA",
-    "updated_at": "2017-01-25T12:32:55.000",
+    "updated_at": "2017-01-26T12:30:37.000",
     "zip": "90804"
 }
