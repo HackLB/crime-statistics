@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-26T12:30:30.285Z",
-    ":version": "rv-59k7.9hdw.iedv",
+    ":updated_at": "2017-01-27T12:30:36.829Z",
+    ":version": "rv-cwhu.ggbj_578k",
     "address_1": "2100 Block CEDAR AV",
     "case_number": "170003889",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-vbmj__mj3t-s5e2",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:25.000",
+    "updated_at": "2017-01-27T12:30:30.000",
     "zip": "90806"
 }

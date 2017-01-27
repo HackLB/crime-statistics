@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-25T12:30:48.498Z",
-    ":updated_at": "2017-01-26T12:30:30.285Z",
-    ":version": "rv-a9kq~itsn_rvgx",
+    ":updated_at": "2017-01-27T12:30:48.020Z",
+    ":version": "rv-y8mk~ujt2~k7rw",
     "address_1": "2100 Block W HILL ST",
     "case_number": "170003988",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Drugs",
     "primary_key": "du6n-4fyc-row-7tsh__i2v3_phex",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:25.000",
+    "updated_at": "2017-01-27T12:30:42.000",
     "zip": "90810"
 }

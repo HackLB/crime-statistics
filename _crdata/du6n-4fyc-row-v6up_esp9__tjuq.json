@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-16T12:30:22.353Z",
-    ":updated_at": "2017-01-26T12:30:43.664Z",
-    ":version": "rv-zw9y~3mcr~wieq",
+    ":updated_at": "2017-01-27T12:30:42.106Z",
+    ":version": "rv-a9gz.9pks.b6qn",
     "address_1": "4700 Block SUNFIELD AV",
     "case_number": "170003055",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-v6up_esp9__tjuq",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:41.000",
+    "updated_at": "2017-01-27T12:30:38.000",
     "zip": "90808"
 }

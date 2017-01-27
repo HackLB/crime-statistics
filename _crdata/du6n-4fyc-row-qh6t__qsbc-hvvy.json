@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:19.790Z",
-    ":updated_at": "2017-01-26T12:30:39.732Z",
-    ":version": "rv-c8d4_xpa4~b3r9",
+    ":updated_at": "2017-01-27T12:30:36.829Z",
+    ":version": "rv-sfvw_uskw_f487",
     "address_1": "WALNUT AV & E 20TH ST",
     "case_number": "170002728",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Drugs",
     "primary_key": "du6n-4fyc-row-qh6t__qsbc-hvvy",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:34.000",
+    "updated_at": "2017-01-27T12:30:34.000",
     "zip": "90806"
 }

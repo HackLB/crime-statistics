@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:18.409Z",
-    ":updated_at": "2017-01-26T12:30:47.442Z",
-    ":version": "rv-zkqt-bw4x-9pjs",
+    ":updated_at": "2017-01-27T12:30:45.634Z",
+    ":version": "rv-9d3t-h82h_j78j",
     "address_1": "4400 Block GOLDFIELD AV",
     "case_number": "170003216",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-f8jw-mw5g__472m",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:42.000",
+    "updated_at": "2017-01-27T12:30:40.000",
     "zip": "90807"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:31:01.534Z",
-    ":updated_at": "2017-01-26T12:30:54.935Z",
-    ":version": "rv-5r9z.xibb_rbey",
+    ":updated_at": "2017-01-27T12:30:45.634Z",
+    ":version": "rv-6u2q_57dt.tbxd",
     "address_1": "400 Block E SAN ANTONIO DR",
     "case_number": "170003116",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-3tp9__a9k7__hjhf",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:50.000",
+    "updated_at": "2017-01-27T12:30:39.000",
     "zip": "90807"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:58.406Z",
-    ":updated_at": "2017-01-26T12:31:12.878Z",
-    ":version": "rv-bndm~dzvi-czbh",
+    ":updated_at": "2017-01-27T12:34:06.872Z",
+    ":version": "rv-nmzv-szn6_haac",
     "address_1": "1500 Block OBISPO AV",
     "case_number": "170003307",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-df5f__trg5__wkiw",
     "state": "CA",
-    "updated_at": "2017-01-26T12:31:10.000",
+    "updated_at": "2017-01-27T12:34:01.000",
     "zip": "90804"
 }

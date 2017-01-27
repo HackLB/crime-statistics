@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-27T12:30:48.020Z",
+    ":updated_at": "2017-01-27T12:30:48.020Z",
+    ":version": "rv-bmux-6p8g_tm7k",
+    "address_1": "400 Block E COLUMBIA ST",
+    "case_number": "170003655",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-27T10:34:49.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "15",
+    "incident_datetime": "2017-01-18T15:20:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "790828287",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8088927",
+    "location": {
+        "coordinates": [
+            -118.1880413,
+            33.8088927
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1880413",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-xeb9__5nbz__6myz",
+    "state": "CA",
+    "updated_at": "2017-01-27T12:30:42.000",
+    "zip": "90806"
+}

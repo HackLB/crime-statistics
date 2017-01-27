@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-15T12:30:14.965Z",
-    ":updated_at": "2017-01-26T12:30:39.732Z",
-    ":version": "rv-9tc4_37yj-gx63",
+    ":updated_at": "2017-01-27T12:30:36.829Z",
+    ":version": "rv-isi3.ucnq-pu7f",
     "address_1": "1800 Block TERMINO AV",
     "case_number": "170002743",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-kmsf_8wp3__4wyn",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:35.000",
+    "updated_at": "2017-01-27T12:30:34.000",
     "zip": "90815"
 }

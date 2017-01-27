@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-26T12:30:30.285Z",
-    ":version": "rv-3jhn.vwt8-4wnw",
+    ":updated_at": "2017-01-27T12:30:42.106Z",
+    ":version": "rv-bcaf_xi4t_mhnz",
     "address_1": "1000 Block W CARSON ST",
     "case_number": "170003931",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-m2yr__8vqr__6guh",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:25.000",
+    "updated_at": "2017-01-27T12:30:35.000",
     "zip": "90810"
 }

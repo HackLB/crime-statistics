@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-01-26T12:30:25.526Z",
-    ":version": "rv-3vtq.pdjp-9hmf",
+    ":updated_at": "2017-01-27T12:32:04.336Z",
+    ":version": "rv-fqyk~dn2w_s4h2",
     "address_1": "2000 Block OLIVE AV",
     "case_number": "170004562",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-hy3r__rbsn__8jsa",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:19.000",
+    "updated_at": "2017-01-27T12:31:59.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-26T12:30:30.285Z",
-    ":version": "rv-zez4.hf2u_x6nj",
+    ":updated_at": "2017-01-27T12:34:15.630Z",
+    ":version": "rv-yadc.3yf9~driu",
     "address_1": "2300 Block CASPIAN AV",
     "case_number": "170003790",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-pb5n-8dqk__3egx",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:23.000",
+    "updated_at": "2017-01-27T12:34:09.000",
     "zip": "90810"
 }

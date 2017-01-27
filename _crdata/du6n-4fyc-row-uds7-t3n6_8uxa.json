@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-01-26T12:30:25.526Z",
-    ":version": "rv-3bux~tnrs_bfub",
+    ":updated_at": "2017-01-27T12:30:24.617Z",
+    ":version": "rv-tq4d-644u.yjqk",
     "address_1": "1800 Block CHERRY AV",
     "case_number": "170004502",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-uds7-t3n6_8uxa",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:18.000",
+    "updated_at": "2017-01-27T12:30:18.000",
     "zip": "90806"
 }

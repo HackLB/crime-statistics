@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:31:02.335Z",
-    ":updated_at": "2017-01-26T12:31:36.788Z",
-    ":version": "rv-tt8s-z2va~5ysz",
+    ":updated_at": "2017-01-27T12:34:12.076Z",
+    ":version": "rv-ucbe.nakj~pfur",
     "address_1": "300 Block 46TH ST",
     "case_number": "170003460",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-fbkw__7hhv__xced",
     "state": "CA",
-    "updated_at": "2017-01-26T12:31:32.000",
+    "updated_at": "2017-01-27T12:34:05.000",
     "zip": "90807"
 }

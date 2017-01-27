@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:42.145Z",
-    ":updated_at": "2017-01-26T12:31:19.060Z",
-    ":version": "rv-tpvt~z42y.v9u8",
+    ":updated_at": "2017-01-27T12:34:06.872Z",
+    ":version": "rv-jdpu_jqzv.qehg",
     "address_1": "6500 Block HARCO ST",
     "case_number": "170003348",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-ejjm-4v2k-sia5",
     "state": "CA",
-    "updated_at": "2017-01-26T12:31:16.000",
+    "updated_at": "2017-01-27T12:34:02.000",
     "zip": "90808"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:19.790Z",
-    ":updated_at": "2017-01-26T12:31:02.795Z",
-    ":version": "rv-4hmr-ccck_7naw",
+    ":updated_at": "2017-01-27T12:34:04.540Z",
+    ":version": "rv-rt9b_qexs~jrjv",
     "address_1": "100 Block CAMERON PL",
     "case_number": "170003184",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-xugm-xg95-6hrf",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:58.000",
+    "updated_at": "2017-01-27T12:33:58.000",
     "zip": "90807"
 }

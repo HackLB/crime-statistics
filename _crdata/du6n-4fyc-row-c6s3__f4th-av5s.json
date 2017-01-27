@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-01-26T12:30:20.817Z",
-    ":version": "rv-snvf.c984_qtxj",
+    ":updated_at": "2017-01-27T12:31:57.526Z",
+    ":version": "rv-uibz_7rjx_dz8s",
     "address_1": "2900 Block E 15TH ST",
     "case_number": "170004416",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-c6s3__f4th-av5s",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:17.000",
+    "updated_at": "2017-01-27T12:31:52.000",
     "zip": "90804"
 }

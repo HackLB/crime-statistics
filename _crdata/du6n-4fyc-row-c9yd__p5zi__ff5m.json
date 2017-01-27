@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-26T12:31:54.444Z",
-    ":version": "rv-qyru.f2v2~2yw5",
+    ":updated_at": "2017-01-27T12:34:12.076Z",
+    ":version": "rv-xp3x-2vw3_9abj",
     "address_1": "2000 Block E PACIFIC COAST HWY",
     "case_number": "170003560",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-c9yd__p5zi__ff5m",
     "state": "CA",
-    "updated_at": "2017-01-26T12:31:48.000",
+    "updated_at": "2017-01-27T12:34:07.000",
     "zip": "90804"
 }

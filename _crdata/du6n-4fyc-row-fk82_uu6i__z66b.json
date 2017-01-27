@@ -1,23 +1,23 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-26T12:30:25.526Z",
-    ":version": "rv-befs~d3pm.ntwc",
+    ":updated_at": "2017-01-27T12:34:12.076Z",
+    ":version": "rv-y6xy~vkf4_2ex3",
     "address_1": "1700 Block LEMON AV",
     "case_number": "170003620",
     "categorization": {
         "category": "property",
-        "incident_type": "Breaking & Entering",
-        "sub_category": "breaking-and-entering"
+        "incident_type": "Theft",
+        "sub_category": "theft"
     },
     "city": "LONG BEACH",
     "clearance_type": "",
     "created_at": "2017-01-19T10:34:31.000",
-    "day_of_week": "Wednesday",
-    "hour_of_day": "13",
-    "incident_datetime": "2017-01-18T13:17:00.000",
-    "incident_description": "BURGLARY - RESIDENTIAL",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "3",
+    "incident_datetime": "2017-01-17T03:00:00.000",
+    "incident_description": "PETTY THEFT",
     "incident_id": "789608750",
-    "incident_type_primary": "Burglary",
+    "incident_type_primary": "Theft",
     "latitude": "33.7882138",
     "location": {
         "coordinates": [
@@ -27,9 +27,9 @@
         "type": "Point"
     },
     "longitude": "-118.178268",
-    "parent_incident_type": "Breaking & Entering",
+    "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-fk82_uu6i__z66b",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:20.000",
+    "updated_at": "2017-01-27T12:34:08.000",
     "zip": "90813"
 }

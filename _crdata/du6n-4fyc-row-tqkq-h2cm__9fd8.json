@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-26T12:30:25.526Z",
-    ":version": "rv-3xn4~92v7_9yyz",
+    ":updated_at": "2017-01-27T12:34:12.076Z",
+    ":version": "rv-u73u.36jg~qide",
     "address_1": "1700 Block WALNUT AV",
     "case_number": "170003665",
     "categorization": {
@@ -12,9 +12,9 @@
     "city": "LONG BEACH",
     "clearance_type": "",
     "created_at": "2017-01-20T10:34:27.000",
-    "day_of_week": "Wednesday",
-    "hour_of_day": "17",
-    "incident_datetime": "2017-01-18T17:23:00.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "10",
+    "incident_datetime": "2017-01-17T10:30:00.000",
     "incident_description": "PETTY THEFT",
     "incident_id": "790148529",
     "incident_type_primary": "Theft",
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-tqkq-h2cm__9fd8",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:21.000",
+    "updated_at": "2017-01-27T12:34:08.000",
     "zip": "90813"
 }

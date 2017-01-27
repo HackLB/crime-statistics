@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:58.406Z",
-    ":updated_at": "2017-01-26T12:30:47.442Z",
-    ":version": "rv-a9gc_qj2a~fedk",
+    ":updated_at": "2017-01-27T12:30:45.634Z",
+    ":version": "rv-qyxv-2zbe~xbrd",
     "address_1": "1600 Block E WARDLOW RD",
     "case_number": "170003466",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-kija__gu8m_rcx4",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:42.000",
+    "updated_at": "2017-01-27T12:30:40.000",
     "zip": "90807"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-26T12:30:25.526Z",
-    ":version": "rv-xegn_cgvi-ewxd",
+    ":updated_at": "2017-01-27T12:34:12.076Z",
+    ":version": "rv-agze-ck9i_9cyq",
     "address_1": "1700 Block W WARDLOW RD",
     "case_number": "170003694",
     "categorization": {
@@ -14,7 +14,7 @@
     "created_at": "2017-01-20T10:34:27.000",
     "day_of_week": "Wednesday",
     "hour_of_day": "19",
-    "incident_datetime": "2017-01-18T19:30:00.000",
+    "incident_datetime": "2017-01-18T19:15:00.000",
     "incident_description": "PETTY THEFT",
     "incident_id": "790148521",
     "incident_type_primary": "Theft",
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-vajn__6n4b_8cp7",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:21.000",
+    "updated_at": "2017-01-27T12:34:09.000",
     "zip": "90810"
 }

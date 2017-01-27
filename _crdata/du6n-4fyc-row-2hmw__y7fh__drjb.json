@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:30:57.767Z",
-    ":updated_at": "2017-01-26T12:30:35.418Z",
-    ":version": "rv-v2va-uqks~w24k",
+    ":updated_at": "2017-01-27T12:31:14.325Z",
+    ":version": "rv-ijbm-55zg.3vx4",
     "address_1": "2900 Block GOLDEN AV",
     "case_number": "170004166",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-2hmw__y7fh__drjb",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:28.000",
+    "updated_at": "2017-01-27T12:31:08.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-25T12:30:20.986Z",
-    ":updated_at": "2017-01-26T12:30:25.526Z",
-    ":version": "rv-hx59-atwj_6meg",
+    ":updated_at": "2017-01-27T12:30:29.801Z",
+    ":version": "rv-z6ez-guk6.nibg",
     "address_1": "3600 Block ATLANTIC AV",
     "case_number": "170004631",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-6urr__v2c2-ttet",
     "state": "CA",
-    "updated_at": "2017-01-26T12:30:20.000",
+    "updated_at": "2017-01-27T12:30:22.000",
     "zip": "90807"
 }
