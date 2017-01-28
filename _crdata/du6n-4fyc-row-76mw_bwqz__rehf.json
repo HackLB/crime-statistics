@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:35.279Z",
-    ":updated_at": "2017-01-27T12:33:58.155Z",
-    ":version": "rv-ba7q-5gey.4mrh",
+    ":updated_at": "2017-01-28T12:31:15.512Z",
+    ":version": "rv-83ra.dtcs-mh7z",
     "address_1": "8200 Block CARBURTON ST",
     "case_number": "170003158",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-76mw_bwqz__rehf",
     "state": "CA",
-    "updated_at": "2017-01-27T12:33:56.000",
+    "updated_at": "2017-01-28T12:31:12.000",
     "zip": "90808"
 }

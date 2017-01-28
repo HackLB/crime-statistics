@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-01-27T12:30:24.617Z",
-    ":version": "rv-bztn_fbap_4sjv",
+    ":updated_at": "2017-01-28T12:30:35.059Z",
+    ":version": "rv-s7ke.tzck_exe8",
     "address_1": "1700 Block W WARDLOW RD",
     "case_number": "170004557",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-mjge-n29b__avxa",
     "state": "CA",
-    "updated_at": "2017-01-27T12:30:19.000",
+    "updated_at": "2017-01-28T12:30:31.000",
     "zip": "90810"
 }

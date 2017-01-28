@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-01-27T12:31:46.038Z",
-    ":version": "rv-ueiy.in39-acpj",
+    ":updated_at": "2017-01-28T12:30:31.912Z",
+    ":version": "rv-teum.k32k~3r66",
     "address_1": "1600 Block PARK AV",
     "case_number": "170004321",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-z8v7__jcau_78ya",
     "state": "CA",
-    "updated_at": "2017-01-27T12:31:42.000",
+    "updated_at": "2017-01-28T12:30:24.000",
     "zip": "90815"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-27T12:31:02.188Z",
-    ":version": "rv-vx6b-d5b3.cmb7",
+    ":updated_at": "2017-01-28T12:30:26.445Z",
+    ":version": "rv-if87.8rhn_7tpa",
     "address_1": "E CARSON ST & CLARK AV",
     "case_number": "170004096",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-ncwm__eu8q__dxv7",
     "state": "CA",
-    "updated_at": "2017-01-27T12:30:59.000",
+    "updated_at": "2017-01-28T12:30:21.000",
     "zip": "90808"
 }

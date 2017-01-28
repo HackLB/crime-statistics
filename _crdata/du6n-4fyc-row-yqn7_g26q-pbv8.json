@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-26T12:30:20.817Z",
-    ":updated_at": "2017-01-27T12:31:49.209Z",
-    ":version": "rv-4ftc-vtsy_6tiz",
+    ":updated_at": "2017-01-28T12:30:31.912Z",
+    ":version": "rv-h5m4~v375-ug3z",
     "address_1": "4100 Block DONALD DOUGLAS DR",
     "case_number": "170004341",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Drugs",
     "primary_key": "du6n-4fyc-row-yqn7_g26q-pbv8",
     "state": "CA",
-    "updated_at": "2017-01-27T12:31:45.000",
+    "updated_at": "2017-01-28T12:30:25.000",
     "zip": "90808"
 }

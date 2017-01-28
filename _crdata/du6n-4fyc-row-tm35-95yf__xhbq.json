@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-01-27T12:31:46.038Z",
-    ":version": "rv-g7f3~53vj-vk9y",
+    ":updated_at": "2017-01-28T12:30:31.912Z",
+    ":version": "rv-fv67_t4ip-uik7",
     "address_1": "3000 Block EUCALYPTUS AV",
     "case_number": "170004324",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-tm35-95yf__xhbq",
     "state": "CA",
-    "updated_at": "2017-01-27T12:31:43.000",
+    "updated_at": "2017-01-28T12:30:25.000",
     "zip": "90806"
 }

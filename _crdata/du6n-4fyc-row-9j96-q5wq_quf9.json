@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:30:21.442Z",
-    ":updated_at": "2017-01-27T12:34:15.630Z",
-    ":version": "rv-vebd-366p.kat3",
+    ":updated_at": "2017-01-28T12:37:10.481Z",
+    ":version": "rv-hck2.vb9t-7k94",
     "address_1": "W WARDLOW RD & PACIFIC AV",
     "case_number": "170003928",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-9j96-q5wq_quf9",
     "state": "CA",
-    "updated_at": "2017-01-27T12:34:09.000",
+    "updated_at": "2017-01-28T12:37:00.000",
     "zip": "90807"
 }

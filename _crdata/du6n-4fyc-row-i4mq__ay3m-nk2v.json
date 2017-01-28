@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-16T12:30:22.353Z",
-    ":updated_at": "2017-01-27T12:30:42.106Z",
-    ":version": "rv-4rza~xwuv-j7uw",
+    ":updated_at": "2017-01-28T12:30:58.943Z",
+    ":version": "rv-45tt-7jpy-gepm",
     "address_1": "5200 Block E CARSON ST",
     "case_number": "170003037",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Liquor",
     "primary_key": "du6n-4fyc-row-i4mq__ay3m-nk2v",
     "state": "CA",
-    "updated_at": "2017-01-27T12:30:38.000",
+    "updated_at": "2017-01-28T12:30:54.000",
     "zip": "90808"
 }

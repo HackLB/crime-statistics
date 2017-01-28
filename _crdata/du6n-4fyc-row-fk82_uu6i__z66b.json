@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-27T12:34:12.076Z",
-    ":version": "rv-y6xy~vkf4_2ex3",
+    ":updated_at": "2017-01-28T12:31:45.295Z",
+    ":version": "rv-r26i.jxgt~zxua",
     "address_1": "1700 Block LEMON AV",
     "case_number": "170003620",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-fk82_uu6i__z66b",
     "state": "CA",
-    "updated_at": "2017-01-27T12:34:08.000",
+    "updated_at": "2017-01-28T12:31:40.000",
     "zip": "90813"
 }

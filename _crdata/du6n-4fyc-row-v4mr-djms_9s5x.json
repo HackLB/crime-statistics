@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-25T12:30:20.986Z",
-    ":updated_at": "2017-01-27T12:30:29.801Z",
-    ":version": "rv-hsgv_aupn~2kz5",
+    ":updated_at": "2017-01-28T12:30:40.711Z",
+    ":version": "rv-m3pr_6bjt_ihxc",
     "address_1": "1400 Block SUMMIT ST",
     "case_number": "170004607",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Liquor",
     "primary_key": "du6n-4fyc-row-v4mr-djms_9s5x",
     "state": "CA",
-    "updated_at": "2017-01-27T12:30:21.000",
+    "updated_at": "2017-01-28T12:30:33.000",
     "zip": "90810"
 }

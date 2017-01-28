@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-01-27T12:30:24.617Z",
-    ":version": "rv-ngbs_hpi6-pkuh",
+    ":updated_at": "2017-01-28T12:30:35.059Z",
+    ":version": "rv-4bs2-knr7~qu3x",
     "address_1": "7500 Block CARSON BLVD",
     "case_number": "170004519",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-m2fg-9g8s__4k6x",
     "state": "CA",
-    "updated_at": "2017-01-27T12:30:18.000",
+    "updated_at": "2017-01-28T12:30:30.000",
     "zip": "90808"
 }

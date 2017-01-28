@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-27T12:30:48.020Z",
-    ":updated_at": "2017-01-27T12:30:48.020Z",
-    ":version": "rv-bmux-6p8g_tm7k",
+    ":updated_at": "2017-01-28T12:37:06.072Z",
+    ":version": "rv-5i4p_894i.xtbb",
     "address_1": "400 Block E COLUMBIA ST",
     "case_number": "170003655",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-xeb9__5nbz__6myz",
     "state": "CA",
-    "updated_at": "2017-01-27T12:30:42.000",
+    "updated_at": "2017-01-28T12:36:57.000",
     "zip": "90806"
 }

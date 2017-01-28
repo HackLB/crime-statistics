@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-27T12:34:15.630Z",
-    ":version": "rv-w8m5_z39f-qxz3",
+    ":updated_at": "2017-01-28T12:37:06.072Z",
+    ":version": "rv-2iv6-edtv-zukv",
     "address_1": "900 Block E SAN ANTONIO DR",
     "case_number": "170003741",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-ge9d-9k85__b8f5",
     "state": "CA",
-    "updated_at": "2017-01-27T12:34:09.000",
+    "updated_at": "2017-01-28T12:36:58.000",
     "zip": "90807"
 }

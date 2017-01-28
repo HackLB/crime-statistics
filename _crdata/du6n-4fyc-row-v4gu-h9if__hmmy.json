@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-27T12:30:36.829Z",
-    ":version": "rv-b5ab.6t2v-5h3n",
+    ":updated_at": "2017-01-28T12:37:10.481Z",
+    ":version": "rv-j37u_6aqv-dvhz",
     "address_1": "1000 Block E PACIFIC COAST HWY",
     "case_number": "170003922",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-v4gu-h9if__hmmy",
     "state": "CA",
-    "updated_at": "2017-01-27T12:30:34.000",
+    "updated_at": "2017-01-28T12:37:00.000",
     "zip": "90806"
 }
