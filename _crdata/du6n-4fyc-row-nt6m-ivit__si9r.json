@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:31:01.414Z",
-    ":updated_at": "2017-01-28T12:37:06.072Z",
-    ":version": "rv-ycxs-ext9.f4xk",
+    ":updated_at": "2017-01-29T12:30:25.393Z",
+    ":version": "rv-65sw-q53d-kq2r",
     "address_1": "700 Block E CARSON ST",
     "case_number": "170003568",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-nt6m-ivit__si9r",
     "state": "CA",
-    "updated_at": "2017-01-28T12:36:56.000",
+    "updated_at": "2017-01-29T12:30:20.000",
     "zip": "90807"
 }

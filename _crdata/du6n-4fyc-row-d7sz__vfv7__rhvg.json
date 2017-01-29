@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:48.625Z",
-    ":updated_at": "2017-01-28T12:36:58.501Z",
-    ":version": "rv-b7g3-ruj2~disu",
+    ":updated_at": "2017-01-29T12:31:04.981Z",
+    ":version": "rv-r3pm.vwv5.t9kz",
     "address_1": "200 Block E DEL AMO BLVD",
     "case_number": "170003485",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-d7sz__vfv7__rhvg",
     "state": "CA",
-    "updated_at": "2017-01-28T12:36:55.000",
+    "updated_at": "2017-01-29T12:31:00.000",
     "zip": "90805"
 }

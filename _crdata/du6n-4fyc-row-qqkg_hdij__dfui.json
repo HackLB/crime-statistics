@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:13.438Z",
-    ":updated_at": "2017-01-28T12:37:10.481Z",
-    ":version": "rv-zxpd~nk3d-iuvw",
+    ":updated_at": "2017-01-29T12:30:49.785Z",
+    ":version": "rv-6ue9~me8i_nb6c",
     "address_1": "1800 Block ARLINGTON ST",
     "case_number": "170004041",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-qqkg_hdij__dfui",
     "state": "CA",
-    "updated_at": "2017-01-28T12:37:01.000",
+    "updated_at": "2017-01-29T12:30:45.000",
     "zip": "90810"
 }

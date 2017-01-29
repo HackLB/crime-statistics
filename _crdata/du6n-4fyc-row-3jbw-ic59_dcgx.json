@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-01-28T12:30:31.912Z",
-    ":version": "rv-gggf_iqc8.pnvr",
+    ":updated_at": "2017-01-29T12:31:04.981Z",
+    ":version": "rv-f6f6.vaws_22xa",
     "address_1": "4400 Block ATLANTIC AV",
     "case_number": "170004417",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-3jbw-ic59_dcgx",
     "state": "CA",
-    "updated_at": "2017-01-28T12:30:27.000",
+    "updated_at": "2017-01-29T12:31:02.000",
     "zip": "90807"
 }

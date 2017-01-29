@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-18T12:30:58.406Z",
-    ":updated_at": "2017-01-28T12:31:40.115Z",
-    ":version": "rv-pzj8_ejbx-sht6",
+    ":updated_at": "2017-01-29T12:30:53.897Z",
+    ":version": "rv-4qst_3wyc_36s2",
     "address_1": "2300 Block PINE AV",
     "case_number": "170003384",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-y3hx__m855-wgrd",
     "state": "CA",
-    "updated_at": "2017-01-28T12:31:36.000",
+    "updated_at": "2017-01-29T12:30:50.000",
     "zip": "90806"
 }

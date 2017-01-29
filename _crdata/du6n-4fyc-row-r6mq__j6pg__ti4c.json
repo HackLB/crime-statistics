@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:51.225Z",
-    ":updated_at": "2017-01-28T12:37:06.072Z",
-    ":version": "rv-388c_g5gw_6g65",
+    ":updated_at": "2017-01-29T12:30:25.393Z",
+    ":version": "rv-ijr8-7z6g-ngpb",
     "address_1": "2400 Block MARWICK AV",
     "case_number": "170003581",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-r6mq__j6pg__ti4c",
     "state": "CA",
-    "updated_at": "2017-01-28T12:36:57.000",
+    "updated_at": "2017-01-29T12:30:20.000",
     "zip": "90815"
 }

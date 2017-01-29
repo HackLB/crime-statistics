@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:31:05.188Z",
-    ":updated_at": "2017-01-28T12:31:15.512Z",
-    ":version": "rv-sha4~qxyi~zbde",
+    ":updated_at": "2017-01-29T12:30:37.993Z",
+    ":version": "rv-zxsp.qrsc-sxdt",
     "address_1": "2800 Block ATLANTIC AV",
     "case_number": "170003135",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-au7v__rixa_zwd4",
     "state": "CA",
-    "updated_at": "2017-01-28T12:31:10.000",
+    "updated_at": "2017-01-29T12:30:31.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-25T12:30:20.986Z",
-    ":updated_at": "2017-01-28T12:30:31.912Z",
-    ":version": "rv-fgcv.nmz9~5zyx",
+    ":updated_at": "2017-01-29T12:31:39.036Z",
+    ":version": "rv-vpyf_hgsf_jh5x",
     "address_1": "5000 Block LONG BEACH BLVD",
     "case_number": "170004323",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-7db7__g5qf_cn26",
     "state": "CA",
-    "updated_at": "2017-01-28T12:30:25.000",
+    "updated_at": "2017-01-29T12:31:34.000",
     "zip": "90805"
 }

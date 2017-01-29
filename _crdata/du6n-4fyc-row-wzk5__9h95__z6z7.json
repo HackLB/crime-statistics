@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-01-28T12:30:35.059Z",
-    ":version": "rv-yip8~j8wq-m2ym",
+    ":updated_at": "2017-01-29T12:31:43.367Z",
+    ":version": "rv-nqhp.a7mx-39gr",
     "address_1": "3600 Block FALCON AV",
     "case_number": "170004461",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-wzk5__9h95__z6z7",
     "state": "CA",
-    "updated_at": "2017-01-28T12:30:28.000",
+    "updated_at": "2017-01-29T12:31:41.000",
     "zip": "90807"
 }

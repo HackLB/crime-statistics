@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-28T12:37:06.072Z",
-    ":version": "rv-qkvd.7tgr~y2jf",
+    ":updated_at": "2017-01-29T12:30:30.367Z",
+    ":version": "rv-kcdw-hnam-j4c5",
     "address_1": "2100 Block CHESTNUT AV",
     "case_number": "170003673",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-cnqb-h6th_ac7d",
     "state": "CA",
-    "updated_at": "2017-01-28T12:36:57.000",
+    "updated_at": "2017-01-29T12:30:23.000",
     "zip": "90806"
 }

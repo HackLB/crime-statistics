@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-27T12:30:24.617Z",
-    ":updated_at": "2017-01-28T12:30:35.059Z",
-    ":version": "rv-6yip-4ksb-jdqi",
+    ":updated_at": "2017-01-29T12:31:48.182Z",
+    ":version": "rv-p2ts-vkv3_hr5c",
     "address_1": "3200 Block CHESTNUT AV",
     "case_number": "170004476",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-am63__sgdb-kg2m",
     "state": "CA",
-    "updated_at": "2017-01-28T12:30:28.000",
+    "updated_at": "2017-01-29T12:31:41.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-28T12:37:06.072Z",
-    ":version": "rv-zawy-ihqm~w72t",
+    ":updated_at": "2017-01-29T12:30:30.367Z",
+    ":version": "rv-dnsb_u549-ygk2",
     "address_1": "300 Block W 19TH ST",
     "case_number": "170003705",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-yz65__ebn2_rndy",
     "state": "CA",
-    "updated_at": "2017-01-28T12:36:58.000",
+    "updated_at": "2017-01-29T12:30:25.000",
     "zip": "90806"
 }

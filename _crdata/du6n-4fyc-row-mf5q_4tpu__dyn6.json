@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:31:12.562Z",
-    ":updated_at": "2017-01-28T12:30:31.912Z",
-    ":version": "rv-vd48-b74k-zqf9",
+    ":updated_at": "2017-01-29T12:31:39.036Z",
+    ":version": "rv-e6s4~aacq_dvfn",
     "address_1": "1 Block & MLK",
     "case_number": "170004287",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-mf5q_4tpu__dyn6",
     "state": "CA",
-    "updated_at": "2017-01-28T12:30:24.000",
+    "updated_at": "2017-01-29T12:31:33.000",
     "zip": "90813"
 }

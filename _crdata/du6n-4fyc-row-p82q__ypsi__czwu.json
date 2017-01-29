@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:30:57.767Z",
-    ":updated_at": "2017-01-28T12:37:10.481Z",
-    ":version": "rv-2gmx-gqyz-ffja",
+    ":updated_at": "2017-01-29T12:30:49.785Z",
+    ":version": "rv-v49d~r6iw-dfbc",
     "address_1": "3600 Block COUNTRY CLUB CR",
     "case_number": "170004048",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-p82q__ypsi__czwu",
     "state": "CA",
-    "updated_at": "2017-01-28T12:37:01.000",
+    "updated_at": "2017-01-29T12:30:46.000",
     "zip": "90807"
 }

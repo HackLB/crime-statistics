@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-28T12:37:06.072Z",
-    ":version": "rv-ajrd-xnwb.r46y",
+    ":updated_at": "2017-01-29T12:30:25.393Z",
+    ":version": "rv-m9wy-de9f.8mr2",
     "address_1": "2800 Block GALE AV",
     "case_number": "170003653",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-9ip8_ujb8__bzwc",
     "state": "CA",
-    "updated_at": "2017-01-28T12:36:57.000",
+    "updated_at": "2017-01-29T12:30:22.000",
     "zip": "90810"
 }

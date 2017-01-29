@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-28T12:37:06.072Z",
-    ":version": "rv-6zrd-22xz-3xim",
+    ":updated_at": "2017-01-29T12:30:37.993Z",
+    ":version": "rv-q29e-ab54-33iu",
     "address_1": "2400 Block SAN FRANCISCO AV",
     "case_number": "170003812",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-w2zd__6tqh_yded",
     "state": "CA",
-    "updated_at": "2017-01-28T12:36:59.000",
+    "updated_at": "2017-01-29T12:30:31.000",
     "zip": "90806"
 }

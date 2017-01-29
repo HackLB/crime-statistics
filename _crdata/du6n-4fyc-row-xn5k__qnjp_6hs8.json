@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-28T12:30:26.445Z",
-    ":version": "rv-siak~d4xw-x578",
+    ":updated_at": "2017-01-29T12:30:53.897Z",
+    ":version": "rv-s7bd~xm3p_k4dd",
     "address_1": "4500 Block MONTAIR AV",
     "case_number": "170004103",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-xn5k__qnjp_6hs8",
     "state": "CA",
-    "updated_at": "2017-01-28T12:30:21.000",
+    "updated_at": "2017-01-29T12:30:51.000",
     "zip": "90808"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:30:53.642Z",
-    ":updated_at": "2017-01-28T12:30:26.445Z",
-    ":version": "rv-rytf.e64y_mqbn",
+    ":updated_at": "2017-01-29T12:31:04.981Z",
+    ":version": "rv-5jrn_uf6n.zrhj",
     "address_1": "100 Block E WILLOW ST",
     "case_number": "170004200",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-vmke__ch5a_jram",
     "state": "CA",
-    "updated_at": "2017-01-28T12:30:22.000",
+    "updated_at": "2017-01-29T12:30:59.000",
     "zip": "90806"
 }

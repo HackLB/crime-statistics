@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-17T12:30:35.279Z",
-    ":updated_at": "2017-01-28T12:31:13.184Z",
-    ":version": "rv-6s79.5upa~ff9s",
+    ":updated_at": "2017-01-29T12:30:33.479Z",
+    ":version": "rv-wewz_z2uf.zqqa",
     "address_1": "E 20TH ST & LONG BEACH BLVD",
     "case_number": "170003125",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-e73m-yven__h3kb",
     "state": "CA",
-    "updated_at": "2017-01-28T12:31:08.000",
+    "updated_at": "2017-01-29T12:30:30.000",
     "zip": "90806"
 }
