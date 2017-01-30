@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-29T12:30:33.479Z",
-    ":version": "rv-hq2g-3u4w.m3uk",
+    ":updated_at": "2017-01-30T12:30:28.326Z",
+    ":version": "rv-vwqj~in6x_km77",
     "address_1": "300 Block E WILLOW ST",
     "case_number": "170003737",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-jxtk__zxmh__tvrp",
     "state": "CA",
-    "updated_at": "2017-01-29T12:30:27.000",
+    "updated_at": "2017-01-30T12:30:22.000",
     "zip": "90806"
 }

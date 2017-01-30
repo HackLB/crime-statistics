@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-29T12:31:11.176Z",
-    ":version": "rv-788c~kpxa-cgx8",
+    ":updated_at": "2017-01-30T12:31:21.112Z",
+    ":version": "rv-cnxm~iawp~hbmw",
     "address_1": "1700 Block LEMON AV",
     "case_number": "170003620",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-fk82_uu6i__z66b",
     "state": "CA",
-    "updated_at": "2017-01-29T12:31:08.000",
+    "updated_at": "2017-01-30T12:31:16.000",
     "zip": "90813"
 }

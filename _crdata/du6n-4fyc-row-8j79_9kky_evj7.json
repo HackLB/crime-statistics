@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-30T12:30:28.326Z",
+    ":updated_at": "2017-01-30T12:30:28.326Z",
+    ":version": "rv-j8rr~iq9a_9vva",
+    "address_1": "5000 Block GARFORD ST",
+    "case_number": "170004300",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-30T10:34:47.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "22",
+    "incident_datetime": "2017-01-21T22:25:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "791139946",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.7919473",
+    "location": {
+        "coordinates": [
+            -118.136123,
+            33.7919473
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.136123",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-8j79_9kky_evj7",
+    "state": "CA",
+    "updated_at": "2017-01-30T12:30:23.000",
+    "zip": "90815"
+}

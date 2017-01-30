@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-29T12:30:37.993Z",
-    ":version": "rv-ysbq_v4py~2npz",
+    ":updated_at": "2017-01-30T12:31:56.611Z",
+    ":version": "rv-rmdd_wxpp~ug9v",
     "address_1": "2100 Block BELLFLOWER BLVD",
     "case_number": "170003829",
     "categorization": {
@@ -12,9 +12,9 @@
     "city": "LONG BEACH",
     "clearance_type": "",
     "created_at": "2017-01-20T10:34:27.000",
-    "day_of_week": "Thursday",
-    "hour_of_day": "15",
-    "incident_datetime": "2017-01-19T15:44:00.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "13",
+    "incident_datetime": "2017-01-17T13:00:00.000",
     "incident_description": "BATTERY",
     "incident_id": "790148497",
     "incident_type_primary": "Assault",
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-as75__9rfa__xjhb",
     "state": "CA",
-    "updated_at": "2017-01-29T12:30:32.000",
+    "updated_at": "2017-01-30T12:31:52.000",
     "zip": "90815"
 }

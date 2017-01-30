@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-29T12:30:33.479Z",
-    ":version": "rv-n4y9~fet3.jzxg",
+    ":updated_at": "2017-01-30T12:30:31.997Z",
+    ":version": "rv-8ry6.g66g_f8ct",
     "address_1": "200 Block E WILLOW ST",
     "case_number": "170003804",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-9a7z_yet3_xmr4",
     "state": "CA",
-    "updated_at": "2017-01-29T12:30:30.000",
+    "updated_at": "2017-01-30T12:30:25.000",
     "zip": "90806"
 }

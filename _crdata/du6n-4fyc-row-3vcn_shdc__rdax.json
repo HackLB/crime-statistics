@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-30T12:30:28.326Z",
+    ":updated_at": "2017-01-30T12:30:28.326Z",
+    ":version": "rv-bmdy-p2z6~japx",
+    "address_1": "4500 Block ATLANTIC AV",
+    "case_number": "170003959",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-30T10:34:47.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "17",
+    "incident_datetime": "2017-01-19T17:30:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "791139950",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8400872",
+    "location": {
+        "coordinates": [
+            -118.1842852,
+            33.8400872
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1842852",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-3vcn_shdc__rdax",
+    "state": "CA",
+    "updated_at": "2017-01-30T12:30:23.000",
+    "zip": "90807"
+}

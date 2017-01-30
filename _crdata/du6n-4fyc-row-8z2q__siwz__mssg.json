@@ -1,23 +1,23 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-29T12:30:30.367Z",
-    ":version": "rv-zyn7.qyth.nwfy",
+    ":updated_at": "2017-01-30T12:31:56.611Z",
+    ":version": "rv-w9tn-ejvd.ez5w",
     "address_1": "1800 Block PACIFIC AV",
     "case_number": "170003710",
     "categorization": {
-        "category": "quality-of-life",
-        "incident_type": "Disorder",
-        "sub_category": "disorder"
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
     },
     "city": "LONG BEACH",
     "clearance_type": "",
     "created_at": "2017-01-19T10:34:31.000",
-    "day_of_week": "Wednesday",
-    "hour_of_day": "21",
-    "incident_datetime": "2017-01-18T21:33:00.000",
-    "incident_description": "OFFENSIVE WORDS IN PUBLIC PLACE",
+    "day_of_week": "Monday",
+    "hour_of_day": "17",
+    "incident_datetime": "2017-01-16T17:00:00.000",
+    "incident_description": "PETTY THEFT",
     "incident_id": "789608724",
-    "incident_type_primary": "Disorderly",
+    "incident_type_primary": "Theft",
     "latitude": "33.7898471",
     "location": {
         "coordinates": [
@@ -27,9 +27,9 @@
         "type": "Point"
     },
     "longitude": "-118.1937055",
-    "parent_incident_type": "Disorder",
+    "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-8z2q__siwz__mssg",
     "state": "CA",
-    "updated_at": "2017-01-29T12:30:25.000",
+    "updated_at": "2017-01-30T12:31:52.000",
     "zip": "90806"
 }

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-18T12:30:42.145Z",
+    ":updated_at": "2017-01-30T12:31:56.611Z",
+    ":version": "rv-5pxf-bbyt.2bwi",
+    "address_1": "500 Block RHEA ST",
+    "case_number": "170003370",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-18T10:34:24.000",
+    "day_of_week": "Tuesday",
+    "hour_of_day": "3",
+    "incident_datetime": "2017-01-17T03:00:00.000",
+    "incident_description": "BATTERY",
+    "incident_id": "789528448",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7925628",
+    "location": {
+        "coordinates": [
+            -118.1871996,
+            33.79256280000001
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1871996",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-hzdc-6nir-f6yn",
+    "state": "CA",
+    "updated_at": "2017-01-30T12:31:52.000",
+    "zip": "90806"
+}

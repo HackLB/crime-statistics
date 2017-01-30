@@ -1,13 +1,13 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-01-29T12:31:48.182Z",
-    ":version": "rv-5mrn-7uex_hm5i",
+    ":updated_at": "2017-01-30T12:30:44.203Z",
+    ":version": "rv-57dx~kyym~hejy",
     "address_1": "1100 Block E CARSON ST",
     "case_number": "170004542",
     "categorization": {
-        "category": "violent",
-        "incident_type": "Robbery",
-        "sub_category": "robbery"
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
     },
     "city": "LONG BEACH",
     "clearance_type": "",
@@ -15,9 +15,9 @@
     "day_of_week": "Monday",
     "hour_of_day": "12",
     "incident_datetime": "2017-01-23T12:53:00.000",
-    "incident_description": "ROBBERY; PERSON",
+    "incident_description": "PETTY THEFT",
     "incident_id": "790521810",
-    "incident_type_primary": "Robbery",
+    "incident_type_primary": "Theft",
     "latitude": "33.832083",
     "location": {
         "coordinates": [
@@ -27,9 +27,9 @@
         "type": "Point"
     },
     "longitude": "-118.178706",
-    "parent_incident_type": "Robbery",
+    "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-mxkx__y92c__syen",
     "state": "CA",
-    "updated_at": "2017-01-29T12:31:45.000",
+    "updated_at": "2017-01-30T12:30:39.000",
     "zip": "90807"
 }

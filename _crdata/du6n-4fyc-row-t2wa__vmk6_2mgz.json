@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-29T12:30:25.393Z",
-    ":version": "rv-cjs4-8hur-avz7",
+    ":updated_at": "2017-01-30T12:31:24.639Z",
+    ":version": "rv-5s3h_5zv7.872u",
     "address_1": "2000 Block SAN GABRIEL AV",
     "case_number": "170003659",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-t2wa__vmk6_2mgz",
     "state": "CA",
-    "updated_at": "2017-01-29T12:30:22.000",
+    "updated_at": "2017-01-30T12:31:20.000",
     "zip": "90810"
 }

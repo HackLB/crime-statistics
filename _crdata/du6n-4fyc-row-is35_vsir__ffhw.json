@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-30T12:30:28.326Z",
+    ":updated_at": "2017-01-30T12:30:28.326Z",
+    ":version": "rv-cjks~u4vf-iqyf",
+    "address_1": "3800 Block OSTROM AV",
+    "case_number": "170004242",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-30T10:34:47.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "12",
+    "incident_datetime": "2017-01-21T12:00:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "791139947",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8263927",
+    "location": {
+        "coordinates": [
+            -118.1009651,
+            33.8263927
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1009651",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-is35_vsir__ffhw",
+    "state": "CA",
+    "updated_at": "2017-01-30T12:30:24.000",
+    "zip": "90808"
+}

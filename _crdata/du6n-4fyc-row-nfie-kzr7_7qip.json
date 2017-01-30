@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:32.484Z",
-    ":updated_at": "2017-01-29T12:31:15.484Z",
-    ":version": "rv-imhw.z7b2-jhda",
+    ":updated_at": "2017-01-30T12:31:39.412Z",
+    ":version": "rv-ccwi.ry6t.tcjb",
     "address_1": "2000 Block W 16TH ST",
     "case_number": "170003848",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-nfie-kzr7_7qip",
     "state": "CA",
-    "updated_at": "2017-01-29T12:31:09.000",
+    "updated_at": "2017-01-30T12:31:36.000",
     "zip": "90813"
 }
