@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-30T12:30:28.326Z",
-    ":updated_at": "2017-01-30T12:30:28.326Z",
-    ":version": "rv-bmdy-p2z6~japx",
+    ":updated_at": "2017-01-31T12:30:53.091Z",
+    ":version": "rv-9ppj_2u9v~95x5",
     "address_1": "4500 Block ATLANTIC AV",
     "case_number": "170003959",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-3vcn_shdc__rdax",
     "state": "CA",
-    "updated_at": "2017-01-30T12:30:23.000",
+    "updated_at": "2017-01-31T12:30:47.000",
     "zip": "90807"
 }

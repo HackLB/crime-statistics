@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-30T12:31:07.012Z",
-    ":version": "rv-m8gw_97vj-p25s",
+    ":updated_at": "2017-01-31T12:31:12.687Z",
+    ":version": "rv-a65v.mqpg~ch7r",
     "address_1": "4500 Block MONTAIR AV",
     "case_number": "170004103",
     "categorization": {
@@ -14,8 +14,8 @@
     "created_at": "2017-01-21T10:34:24.000",
     "day_of_week": "Friday",
     "hour_of_day": "21",
-    "incident_datetime": "2017-01-20T21:33:00.000",
-    "incident_description": "INFLICT CORP INJURY; SPOUSE/COHABITANT",
+    "incident_datetime": "2017-01-20T21:30:00.000",
+    "incident_description": "BATTERY NONCO FORM SPOUSE,COHABITANT,DATE",
     "incident_id": "790262856",
     "incident_type_primary": "Assault",
     "latitude": "33.8405356",
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-xn5k__qnjp_6hs8",
     "state": "CA",
-    "updated_at": "2017-01-30T12:31:03.000",
+    "updated_at": "2017-01-31T12:31:09.000",
     "zip": "90808"
 }

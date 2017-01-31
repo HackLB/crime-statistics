@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-30T12:31:56.611Z",
-    ":version": "rv-2k7y-t2ye~umwe",
+    ":updated_at": "2017-01-31T12:30:43.232Z",
+    ":version": "rv-msvv.27n9_kjdh",
     "address_1": "LEIGH CT & ORANGE AV",
     "case_number": "170003714",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-nvpi_23r9_nttc",
     "state": "CA",
-    "updated_at": "2017-01-30T12:31:52.000",
+    "updated_at": "2017-01-31T12:30:40.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:34:57.774Z",
-    ":updated_at": "2017-01-30T12:31:10.444Z",
-    ":version": "rv-34dz~vfic.7y4x",
+    ":updated_at": "2017-01-31T12:30:38.348Z",
+    ":version": "rv-ruy6~y9nq_v5vr",
     "address_1": "3200 Block MAGNOLIA AV",
     "case_number": "170003565",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-nmfz_y97x_xgvr",
     "state": "CA",
-    "updated_at": "2017-01-30T12:31:07.000",
+    "updated_at": "2017-01-31T12:30:31.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-01-30T12:30:44.203Z",
-    ":version": "rv-57dx~kyym~hejy",
+    ":updated_at": "2017-01-31T12:30:50.085Z",
+    ":version": "rv-ujua-zgv8-jrfa",
     "address_1": "1100 Block E CARSON ST",
     "case_number": "170004542",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-mxkx__y92c__syen",
     "state": "CA",
-    "updated_at": "2017-01-30T12:30:39.000",
+    "updated_at": "2017-01-31T12:30:46.000",
     "zip": "90807"
 }

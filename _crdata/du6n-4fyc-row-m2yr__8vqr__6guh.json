@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-30T12:31:56.611Z",
-    ":version": "rv-c7cp~jiip~yqkz",
+    ":updated_at": "2017-01-31T12:30:50.085Z",
+    ":version": "rv-a79a~bdjx~8cz3",
     "address_1": "1000 Block W CARSON ST",
     "case_number": "170003931",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-m2yr__8vqr__6guh",
     "state": "CA",
-    "updated_at": "2017-01-30T12:31:52.000",
+    "updated_at": "2017-01-31T12:30:47.000",
     "zip": "90810"
 }

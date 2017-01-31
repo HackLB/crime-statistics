@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-30T12:31:56.611Z",
-    ":version": "rv-4xp2-svwx.9tkk",
+    ":updated_at": "2017-01-31T12:30:50.085Z",
+    ":version": "rv-cpi9.9bex-3sbv",
     "address_1": "1800 Block LONG BEACH BLVD",
     "case_number": "170003868",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-vqeh__mrz5__c5uj",
     "state": "CA",
-    "updated_at": "2017-01-30T12:31:52.000",
+    "updated_at": "2017-01-31T12:30:45.000",
     "zip": "90806"
 }

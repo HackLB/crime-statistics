@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-30T12:30:38.395Z",
-    ":updated_at": "2017-01-30T12:30:38.395Z",
-    ":version": "rv-iyau_6gyq-8xtq",
+    ":updated_at": "2017-01-31T12:30:41.286Z",
+    ":version": "rv-zjr2~224t.qptp",
     "address_1": "2200 Block BELLFLOWER BLVD",
     "case_number": "170003627",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-etv6_6pf5__wqkd",
     "state": "CA",
-    "updated_at": "2017-01-30T12:30:33.000",
+    "updated_at": "2017-01-31T12:30:34.000",
     "zip": "90815"
 }

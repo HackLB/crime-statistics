@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-31T12:30:43.232Z",
+    ":updated_at": "2017-01-31T12:30:43.232Z",
+    ":version": "rv-4v9y.27w5_2ivg",
+    "address_1": "5300 Block CENTRALIA ST",
+    "case_number": "170004776",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-31T10:34:55.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "11",
+    "incident_datetime": "2017-01-12T11:18:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "791213114",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8395555",
+    "location": {
+        "coordinates": [
+            -118.1294444,
+            33.8395555
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1294444",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-ys7k_6hc7__pmca",
+    "state": "CA",
+    "updated_at": "2017-01-31T12:30:37.000",
+    "zip": "90808"
+}

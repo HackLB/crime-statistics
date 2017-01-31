@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-25T12:30:20.986Z",
-    ":updated_at": "2017-01-30T12:30:34.962Z",
-    ":version": "rv-8u3s_mmd7_9iu7",
+    ":updated_at": "2017-01-31T12:30:25.647Z",
+    ":version": "rv-fq8p-7vy6.3s5e",
     "address_1": "2200 Block SANTA FE AV",
     "case_number": "170004704",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-xwhb__2p5p__evcz",
     "state": "CA",
-    "updated_at": "2017-01-30T12:30:29.000",
+    "updated_at": "2017-01-31T12:30:22.000",
     "zip": "90810"
 }

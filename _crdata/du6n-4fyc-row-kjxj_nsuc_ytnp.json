@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-30T12:30:28.326Z",
-    ":version": "rv-udyt_ubsr.bysx",
+    ":updated_at": "2017-01-31T12:30:46.842Z",
+    ":version": "rv-wkr3.8bfm~jc6p",
     "address_1": "2000 Block CEDAR AV",
     "case_number": "170003779",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-kjxj_nsuc_ytnp",
     "state": "CA",
-    "updated_at": "2017-01-30T12:30:24.000",
+    "updated_at": "2017-01-31T12:30:42.000",
     "zip": "90806"
 }

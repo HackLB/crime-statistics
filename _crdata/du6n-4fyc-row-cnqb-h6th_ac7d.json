@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:16.381Z",
-    ":updated_at": "2017-01-30T12:31:56.611Z",
-    ":version": "rv-8ykr-gugn.6wta",
+    ":updated_at": "2017-01-31T12:30:41.286Z",
+    ":version": "rv-j9gw~qhzj~udib",
     "address_1": "W PACIFIC COAST HWY & CEDAR AV",
     "case_number": "170003673",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-cnqb-h6th_ac7d",
     "state": "CA",
-    "updated_at": "2017-01-30T12:31:52.000",
+    "updated_at": "2017-01-31T12:30:37.000",
     "zip": "90806"
 }
