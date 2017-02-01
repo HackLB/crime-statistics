@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:30:57.767Z",
-    ":updated_at": "2017-01-31T12:30:37.170Z",
-    ":version": "rv-dba6_6b6f.jkep",
+    ":updated_at": "2017-02-01T12:34:23.369Z",
+    ":version": "rv-9hnn.h2ee-xxkf",
     "address_1": "4100 Block ATLANTIC AV",
     "case_number": "170004203",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-5zux__hkhg-ezve",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:29.000",
+    "updated_at": "2017-02-01T12:33:39.000",
     "zip": "90807"
 }

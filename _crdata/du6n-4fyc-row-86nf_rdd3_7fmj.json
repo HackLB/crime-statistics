@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-31T12:30:53.091Z",
-    ":version": "rv-a4c3-dfu5-6i5c",
+    ":updated_at": "2017-02-01T12:32:22.526Z",
+    ":version": "rv-4ktj.azb7_p9sc",
     "address_1": "3300 Block MAINE AV",
     "case_number": "170003961",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-86nf_rdd3_7fmj",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:47.000",
+    "updated_at": "2017-02-01T12:30:34.000",
     "zip": "90806"
 }

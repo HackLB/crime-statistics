@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-26T12:30:20.817Z",
-    ":updated_at": "2017-01-31T12:30:50.085Z",
-    ":version": "rv-dkcn~r2rg_tev6",
+    ":updated_at": "2017-02-01T12:34:30.315Z",
+    ":version": "rv-5pjr~ngi4-64qa",
     "address_1": "1900 Block SANTA FE AV",
     "case_number": "170004551",
     "categorization": {
@@ -12,10 +12,10 @@
     "city": "LONG BEACH",
     "clearance_type": "",
     "created_at": "2017-01-26T10:34:35.000",
-    "day_of_week": "Monday",
-    "hour_of_day": "13",
-    "incident_datetime": "2017-01-23T13:33:00.000",
-    "incident_description": "AUTO BURGLARY",
+    "day_of_week": "Saturday",
+    "hour_of_day": "18",
+    "incident_datetime": "2017-01-21T18:00:00.000",
+    "incident_description": "GRAND THEFT; FROM AUTO",
     "incident_id": "790752943",
     "incident_type_primary": "Theft",
     "latitude": "33.7916701",
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-asyj_sfws__e7xc",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:46.000",
+    "updated_at": "2017-02-01T12:34:03.000",
     "zip": "90810"
 }

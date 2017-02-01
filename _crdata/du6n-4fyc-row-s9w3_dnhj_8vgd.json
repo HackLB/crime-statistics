@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-31T12:30:31.273Z",
-    ":version": "rv-eg47.jyby~5dbz",
+    ":updated_at": "2017-02-01T12:34:23.369Z",
+    ":version": "rv-t6rj.c79j-77ic",
     "address_1": "1500 Block W WILLOW ST",
     "case_number": "170004108",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-s9w3_dnhj_8vgd",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:25.000",
+    "updated_at": "2017-02-01T12:33:37.000",
     "zip": "90810"
 }

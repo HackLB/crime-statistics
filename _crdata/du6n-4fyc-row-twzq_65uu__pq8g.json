@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-02-01T12:32:24.724Z",
+    ":updated_at": "2017-02-01T12:32:24.724Z",
+    ":version": "rv-zdvb~8rsp~5rmp",
+    "address_1": "MONTAIR AV & HARVEY WAY",
+    "case_number": "170003770",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-02-01T10:34:58.000",
+    "day_of_week": "Thursday",
+    "hour_of_day": "9",
+    "incident_datetime": "2017-01-19T09:45:00.000",
+    "incident_description": "GRAND THEFT; FROM AUTO",
+    "incident_id": "791293635",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8360944",
+    "location": {
+        "coordinates": [
+            -118.1262764,
+            33.8360944
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1262764",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-twzq_65uu__pq8g",
+    "state": "CA",
+    "updated_at": "2017-02-01T12:30:39.000",
+    "zip": "90808"
+}

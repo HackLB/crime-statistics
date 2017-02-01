@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-31T12:30:46.842Z",
-    ":version": "rv-2k32-fmyn~vz7k",
+    ":updated_at": "2017-02-01T12:34:25.979Z",
+    ":version": "rv-qmkj_cwjy-k44g",
     "address_1": "1 Block ST & ORANGE AV",
     "case_number": "170003783",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-yavh__xamy_zi8e",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:42.000",
+    "updated_at": "2017-02-01T12:33:33.000",
     "zip": "90805"
 }

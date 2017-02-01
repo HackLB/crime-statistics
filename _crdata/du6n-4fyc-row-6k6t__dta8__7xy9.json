@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-26T12:30:30.285Z",
-    ":updated_at": "2017-01-31T12:30:53.091Z",
-    ":version": "rv-xpwt~p6bg_82nr",
+    ":updated_at": "2017-02-01T12:34:27.466Z",
+    ":version": "rv-hna4.4wf4_tda6",
     "address_1": "4500 Block ORANGE AV",
     "case_number": "170005006",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-6k6t__dta8__7xy9",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:51.000",
+    "updated_at": "2017-02-01T12:33:43.000",
     "zip": "90807"
 }

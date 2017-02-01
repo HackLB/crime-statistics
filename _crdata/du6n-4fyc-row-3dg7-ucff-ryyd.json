@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-01-31T12:30:25.023Z",
-    ":version": "rv-c9fd_ymbv_z8a4",
+    ":updated_at": "2017-02-01T12:33:01.478Z",
+    ":version": "rv-g797_n3ig~hs5h",
     "address_1": "1000 Block E PACIFIC COAST HWY",
     "case_number": "170004622",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-3dg7-ucff-ryyd",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:18.000",
+    "updated_at": "2017-02-01T12:31:25.000",
     "zip": "90806"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-30T12:30:28.326Z",
-    ":updated_at": "2017-01-31T12:30:41.286Z",
-    ":version": "rv-pize_q6rf.hxq2",
+    ":updated_at": "2017-02-01T12:34:27.466Z",
+    ":version": "rv-tgji-4xst_ypgx",
     "address_1": "5000 Block GARFORD ST",
     "case_number": "170004300",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-8j79_9kky_evj7",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:34.000",
+    "updated_at": "2017-02-01T12:33:42.000",
     "zip": "90815"
 }

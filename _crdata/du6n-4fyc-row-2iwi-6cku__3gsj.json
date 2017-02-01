@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-01-31T12:30:37.170Z",
-    ":version": "rv-qq3d.7gct_53ef",
+    ":updated_at": "2017-02-01T12:34:23.369Z",
+    ":version": "rv-pc9g-r5p3.2ei4",
     "address_1": "4700 Block GREENMEADOW RD",
     "case_number": "170004220",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-2iwi-6cku__3gsj",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:30.000",
+    "updated_at": "2017-02-01T12:33:40.000",
     "zip": "90808"
 }

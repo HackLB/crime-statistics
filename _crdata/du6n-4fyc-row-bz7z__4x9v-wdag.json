@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-25T12:30:20.986Z",
+    ":updated_at": "2017-02-01T12:33:03.550Z",
+    ":version": "rv-i7xv-t3d7_9x4w",
+    "address_1": "2000 Block CEDAR AV",
+    "case_number": "170004812",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-25T10:34:33.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "15",
+    "incident_datetime": "2017-01-23T15:00:00.000",
+    "incident_description": "BATTERY",
+    "incident_id": "790670196",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7934941",
+    "location": {
+        "coordinates": [
+            -118.1947948,
+            33.7934941
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1947948",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-bz7z__4x9v-wdag",
+    "state": "CA",
+    "updated_at": "2017-02-01T12:31:30.000",
+    "zip": "90806"
+}

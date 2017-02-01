@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-22T12:30:57.767Z",
+    ":updated_at": "2017-02-01T12:34:30.315Z",
+    ":version": "rv-inra~3eux_3jp6",
+    "address_1": "1400 Block E 17TH ST",
+    "case_number": "170004178",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Property Crime",
+        "sub_category": "property"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-22T10:34:28.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "10",
+    "incident_datetime": "2017-01-21T10:23:00.000",
+    "incident_description": "VANDALISM ($400 OR MORE)",
+    "incident_id": "790331845",
+    "incident_type_primary": "Vandalism",
+    "latitude": "33.7880313",
+    "location": {
+        "coordinates": [
+            -118.1741316,
+            33.7880313
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1741316",
+    "parent_incident_type": "Property Crime",
+    "primary_key": "du6n-4fyc-row-ijhu__npid_i7q3",
+    "state": "CA",
+    "updated_at": "2017-02-01T12:34:03.000",
+    "zip": "90813"
+}

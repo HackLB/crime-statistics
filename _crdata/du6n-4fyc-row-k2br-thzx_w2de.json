@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-20T12:30:24.034Z",
-    ":updated_at": "2017-01-31T12:30:46.842Z",
-    ":version": "rv-i8wt-3zyb.s22z",
+    ":updated_at": "2017-02-01T12:34:25.979Z",
+    ":version": "rv-miu2_wxrz.jerg",
     "address_1": "2600 Block SANTA FE AV",
     "case_number": "170003801",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-k2br-thzx_w2de",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:42.000",
+    "updated_at": "2017-02-01T12:33:33.000",
     "zip": "90810"
 }

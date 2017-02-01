@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-31T12:30:31.273Z",
-    ":version": "rv-sb7b~6kqp.e5zf",
+    ":updated_at": "2017-02-01T12:34:23.369Z",
+    ":version": "rv-jabb~66fp~gvab",
     "address_1": "1600 Block PINE AV",
     "case_number": "170004074",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Disorder",
     "primary_key": "du6n-4fyc-row-fu9e_rqn7-p7aw",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:24.000",
+    "updated_at": "2017-02-01T12:33:36.000",
     "zip": "90813"
 }

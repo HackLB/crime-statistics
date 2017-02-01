@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-21T12:30:17.569Z",
-    ":updated_at": "2017-01-31T12:30:31.273Z",
-    ":version": "rv-g2q8-ga6x.f7ez",
+    ":updated_at": "2017-02-01T12:34:23.369Z",
+    ":version": "rv-sper_pudy_aide",
     "address_1": "3400 Block OLIVE AV",
     "case_number": "170004072",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Breaking & Entering",
     "primary_key": "du6n-4fyc-row-qp3n__urt7__hzsm",
     "state": "CA",
-    "updated_at": "2017-01-31T12:30:24.000",
+    "updated_at": "2017-02-01T12:33:36.000",
     "zip": "90807"
 }
