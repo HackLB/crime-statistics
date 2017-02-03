@@ -1,8 +1,8 @@
 {
     ":created_at": "2017-01-27T12:30:24.617Z",
-    ":updated_at": "2017-02-01T12:32:56.422Z",
-    ":version": "rv-9tf8~9hpp~j4j8",
-    "address_1": "3200 Block CHESTNUT AV",
+    ":updated_at": "2017-02-03T12:47:16.378Z",
+    ":version": "rv-hci8_i3d2~8acu",
+    "address_1": "W 32ND ST & CHESTNUT AV",
     "case_number": "170004476",
     "categorization": {
         "category": "property",
@@ -12,24 +12,24 @@
     "city": "LONG BEACH",
     "clearance_type": "",
     "created_at": "2017-01-27T10:34:39.000",
-    "day_of_week": "Monday",
-    "hour_of_day": "5",
-    "incident_datetime": "2017-01-23T05:20:00.000",
-    "incident_description": "TAKE VEHICLE WITHOUT CONSENT",
+    "day_of_week": "Sunday",
+    "hour_of_day": "17",
+    "incident_datetime": "2017-01-22T17:45:00.000",
+    "incident_description": "ATTEMPT TAKE VEHICLE WITHOUT CONSENT",
     "incident_id": "790828143",
     "incident_type_primary": "Grand Theft Auto",
-    "latitude": "33.815421",
+    "latitude": "33.8152752",
     "location": {
         "coordinates": [
-            -118.195442,
-            33.815421
+            -118.1958868,
+            33.81527519999999
         ],
         "type": "Point"
     },
-    "longitude": "-118.195442",
+    "longitude": "-118.1958868",
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-am63__sgdb-kg2m",
     "state": "CA",
-    "updated_at": "2017-02-01T12:31:18.000",
+    "updated_at": "2017-02-03T12:47:11.000",
     "zip": "90806"
 }

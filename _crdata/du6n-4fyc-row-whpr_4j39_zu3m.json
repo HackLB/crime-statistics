@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:30:57.767Z",
-    ":updated_at": "2017-02-01T12:34:27.466Z",
-    ":version": "rv-ecag~626y_4ewh",
+    ":updated_at": "2017-02-03T12:55:54.644Z",
+    ":version": "rv-ds2c.k7qx.uejq",
     "address_1": "200 Block E 21ST ST",
     "case_number": "170004265",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-whpr_4j39_zu3m",
     "state": "CA",
-    "updated_at": "2017-02-01T12:33:41.000",
+    "updated_at": "2017-02-03T12:55:48.000",
     "zip": "90806"
 }

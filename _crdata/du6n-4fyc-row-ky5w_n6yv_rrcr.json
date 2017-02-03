@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-02-03T12:39:18.262Z",
+    ":updated_at": "2017-02-03T12:39:18.262Z",
+    ":version": "rv-jf22.um3r_fcwf",
+    "address_1": "E 20TH ST & LONG BEACH BLVD",
+    "case_number": "170004771",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Property Crime",
+        "sub_category": "property"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-02-03T12:30:26.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "18",
+    "incident_datetime": "2017-01-23T18:30:00.000",
+    "incident_description": "VANDALISM; DAMAGE PROPERTY",
+    "incident_id": "791428567",
+    "incident_type_primary": "Vandalism",
+    "latitude": "33.7934796",
+    "location": {
+        "coordinates": [
+            -118.1892628,
+            33.7934796
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1892628",
+    "parent_incident_type": "Property Crime",
+    "primary_key": "du6n-4fyc-row-ky5w_n6yv_rrcr",
+    "state": "CA",
+    "updated_at": "2017-02-03T12:39:10.000",
+    "zip": "90806"
+}

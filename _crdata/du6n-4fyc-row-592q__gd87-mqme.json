@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-02-01T12:32:56.422Z",
-    ":version": "rv-jbsf_rmfb-r9jk",
+    ":updated_at": "2017-02-03T12:47:16.378Z",
+    ":version": "rv-6w25-8xvk-pjtv",
     "address_1": "3000 Block SPRINGDALE DR W",
     "case_number": "170004444",
     "categorization": {
@@ -13,9 +13,9 @@
     "clearance_type": "",
     "created_at": "2017-01-24T10:34:32.000",
     "day_of_week": "Sunday",
-    "hour_of_day": "20",
-    "incident_datetime": "2017-01-22T20:54:00.000",
-    "incident_description": "VANDALISM; DEFACE PROPERTY",
+    "hour_of_day": "13",
+    "incident_datetime": "2017-01-22T13:30:00.000",
+    "incident_description": "VANDALISM; DAMAGE PROPERTY",
     "incident_id": "790521833",
     "incident_type_primary": "Vandalism",
     "latitude": "33.8120656",
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-592q__gd87-mqme",
     "state": "CA",
-    "updated_at": "2017-02-01T12:31:18.000",
+    "updated_at": "2017-02-03T12:47:11.000",
     "zip": "90810"
 }

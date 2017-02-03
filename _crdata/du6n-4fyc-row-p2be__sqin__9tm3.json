@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:30:40.616Z",
-    ":updated_at": "2017-02-01T12:34:23.369Z",
-    ":version": "rv-94dh~8eda-fe7p",
+    ":updated_at": "2017-02-03T12:55:38.776Z",
+    ":version": "rv-43k8_mbz5~e58e",
     "address_1": "2700 Block PACIFIC AV",
     "case_number": "170004207",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-p2be__sqin__9tm3",
     "state": "CA",
-    "updated_at": "2017-02-01T12:33:39.000",
+    "updated_at": "2017-02-03T12:55:32.000",
     "zip": "90806"
 }

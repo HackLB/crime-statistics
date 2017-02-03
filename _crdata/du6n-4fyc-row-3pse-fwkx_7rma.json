@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-02-03T12:36:34.213Z",
+    ":updated_at": "2017-02-03T12:36:34.213Z",
+    ":version": "rv-2xc4~zewt-uvuu",
+    "address_1": "2800 Block BELLFLOWER BLVD",
+    "case_number": "170004364",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-02-03T12:30:31.000",
+    "day_of_week": "Sunday",
+    "hour_of_day": "1",
+    "incident_datetime": "2017-01-22T01:00:00.000",
+    "incident_description": "AUTO BURGLARY",
+    "incident_id": "791428635",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8067597",
+    "location": {
+        "coordinates": [
+            -118.1241436,
+            33.8067597
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1241436",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-3pse-fwkx_7rma",
+    "state": "CA",
+    "updated_at": "2017-02-03T12:36:26.000",
+    "zip": "90815"
+}

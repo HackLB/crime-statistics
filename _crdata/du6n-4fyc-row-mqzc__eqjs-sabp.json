@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-24T12:40:09.677Z",
-    ":updated_at": "2017-02-01T12:32:57.734Z",
-    ":version": "rv-u8gw.p4c9~jgd9",
+    ":updated_at": "2017-02-03T12:43:04.638Z",
+    ":version": "rv-3up9-fnxu_y8bb",
     "address_1": "1700 Block CLARK AV",
     "case_number": "170004553",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-mqzc__eqjs-sabp",
     "state": "CA",
-    "updated_at": "2017-02-01T12:31:22.000",
+    "updated_at": "2017-02-03T12:42:51.000",
     "zip": "90815"
 }

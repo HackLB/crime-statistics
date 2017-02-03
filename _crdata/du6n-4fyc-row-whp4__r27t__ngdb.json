@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:31:12.562Z",
-    ":updated_at": "2017-02-01T12:34:30.315Z",
-    ":version": "rv-pb4f~2bss~hf7p",
+    ":updated_at": "2017-02-03T12:55:54.644Z",
+    ":version": "rv-uw9n_i34h-6jri",
     "address_1": "E 27TH ST & WEST AMERICAN AV",
     "case_number": "170004271",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-whp4__r27t__ngdb",
     "state": "CA",
-    "updated_at": "2017-02-01T12:34:03.000",
+    "updated_at": "2017-02-03T12:55:49.000",
     "zip": "90806"
 }
