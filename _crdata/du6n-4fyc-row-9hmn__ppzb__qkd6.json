@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-02-01T12:34:27.466Z",
-    ":version": "rv-rxr9.ypp2.mpi3",
+    ":updated_at": "2017-02-03T13:02:26.664Z",
+    ":version": "rv-ies2_eyv3-m6qr",
     "address_1": "MARWICK AV & E 23RD ST",
     "case_number": "170004405",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-9hmn__ppzb__qkd6",
     "state": "CA",
-    "updated_at": "2017-02-01T12:33:43.000",
+    "updated_at": "2017-02-03T13:02:20.000",
     "zip": "90815"
 }

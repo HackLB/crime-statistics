@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-31T12:30:25.023Z",
+    ":updated_at": "2017-02-03T13:03:41.614Z",
+    ":version": "rv-v2mt_v2mj.g26f",
+    "address_1": "E PACIFIC COAST HWY & MARTIN LUTHER KING JR. AV",
+    "case_number": "170006134",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Robbery",
+        "sub_category": "robbery"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-31T10:34:41.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "18",
+    "incident_datetime": "2017-01-20T18:35:00.000",
+    "incident_description": "ROBBERY; PERSON",
+    "incident_id": "791212863",
+    "incident_type_primary": "Robbery",
+    "latitude": "33.7898563",
+    "location": {
+        "coordinates": [
+            -118.1806528,
+            33.7898563
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1806528",
+    "parent_incident_type": "Robbery",
+    "primary_key": "du6n-4fyc-row-9uhj__xu3h-kz56",
+    "state": "CA",
+    "updated_at": "2017-02-03T13:03:36.000",
+    "zip": "90806"
+}

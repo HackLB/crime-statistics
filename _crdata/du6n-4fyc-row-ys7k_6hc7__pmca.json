@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-31T12:30:43.232Z",
-    ":updated_at": "2017-02-01T12:33:40.006Z",
-    ":version": "rv-si2s-p9bk-7r46",
+    ":updated_at": "2017-02-03T13:02:32.828Z",
+    ":version": "rv-nr3y.w7he-h9ya",
     "address_1": "5300 Block CENTRALIA ST",
     "case_number": "170004776",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-ys7k_6hc7__pmca",
     "state": "CA",
-    "updated_at": "2017-02-01T12:30:34.000",
+    "updated_at": "2017-02-03T13:02:28.000",
     "zip": "90808"
 }

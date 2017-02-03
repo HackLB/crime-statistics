@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-02-01T12:34:27.466Z",
-    ":version": "rv-vymb~3527~vkv7",
+    ":updated_at": "2017-02-03T13:02:20.543Z",
+    ":version": "rv-5n5w~wx3e-pygk",
     "address_1": "2100 Block EARL AV",
     "case_number": "170004359",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-58kd__6z9s_jv33",
     "state": "CA",
-    "updated_at": "2017-02-01T12:33:43.000",
+    "updated_at": "2017-02-03T13:02:17.000",
     "zip": "90806"
 }
