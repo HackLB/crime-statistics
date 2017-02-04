@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-02-04T12:30:38.957Z",
+    ":updated_at": "2017-02-04T12:30:38.957Z",
+    ":version": "rv-45f5.qyh9_qpkv",
+    "address_1": "W 23RD ST & SANTA FE AV",
+    "case_number": "170004754",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-02-04T12:30:24.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "17",
+    "incident_datetime": "2017-01-11T17:15:00.000",
+    "incident_description": "THEFT/POSSESS OF MAIL-NON-POSTAL PERSON",
+    "incident_id": "791588661",
+    "incident_type_primary": "Theft",
+    "latitude": "33.7989275",
+    "location": {
+        "coordinates": [
+            -118.2155097,
+            33.7989275
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.2155097",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-ztac__yrz6-vbik",
+    "state": "CA",
+    "updated_at": "2017-02-04T12:30:33.000",
+    "zip": "90810"
+}

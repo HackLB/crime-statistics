@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:16.432Z",
-    ":updated_at": "2017-02-03T12:42:44.232Z",
-    ":version": "rv-5dvf.gjk4.tqig",
+    ":updated_at": "2017-02-04T12:30:38.957Z",
+    ":version": "rv-622q_9xdc~qne5",
     "address_1": "4700 Block ATHERTON ST",
     "case_number": "170004395",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-vady__qnre__d8pu",
     "state": "CA",
-    "updated_at": "2017-02-03T12:42:40.000",
+    "updated_at": "2017-02-04T12:30:36.000",
     "zip": "90815"
 }

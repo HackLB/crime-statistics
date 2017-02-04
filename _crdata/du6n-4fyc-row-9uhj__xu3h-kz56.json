@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-31T12:30:25.023Z",
-    ":updated_at": "2017-02-03T13:03:41.614Z",
-    ":version": "rv-v2mt_v2mj.g26f",
+    ":updated_at": "2017-02-04T12:31:22.768Z",
+    ":version": "rv-gj23.xufb_mstd",
     "address_1": "E PACIFIC COAST HWY & MARTIN LUTHER KING JR. AV",
     "case_number": "170006134",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Robbery",
     "primary_key": "du6n-4fyc-row-9uhj__xu3h-kz56",
     "state": "CA",
-    "updated_at": "2017-02-03T13:03:36.000",
+    "updated_at": "2017-02-04T12:31:13.000",
     "zip": "90806"
 }

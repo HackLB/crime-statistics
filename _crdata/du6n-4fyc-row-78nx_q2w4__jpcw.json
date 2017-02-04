@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-23T12:30:21.377Z",
-    ":updated_at": "2017-02-03T13:02:26.664Z",
-    ":version": "rv-8c2m~47mv~5dn3",
+    ":updated_at": "2017-02-04T12:30:38.957Z",
+    ":version": "rv-rr44_n48m~vrdr",
     "address_1": "4100 Block GARDENIA AV",
     "case_number": "170004389",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-78nx_q2w4__jpcw",
     "state": "CA",
-    "updated_at": "2017-02-03T13:02:20.000",
+    "updated_at": "2017-02-04T12:30:35.000",
     "zip": "90807"
 }

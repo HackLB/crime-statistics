@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-02-04T12:30:38.957Z",
+    ":updated_at": "2017-02-04T12:30:38.957Z",
+    ":version": "rv-p87n.zt3q_5pwd",
+    "address_1": "2000 Block LEWIS AV",
+    "case_number": "170005066",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-02-04T12:30:24.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "6",
+    "incident_datetime": "2017-01-14T06:30:00.000",
+    "incident_description": "PETTY THEFT: FROM AUTO",
+    "incident_id": "791588660",
+    "incident_type_primary": "Theft",
+    "latitude": "33.7936414",
+    "location": {
+        "coordinates": [
+            -118.1793785,
+            33.7936414
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1793785",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-icbg__su97__vgtq",
+    "state": "CA",
+    "updated_at": "2017-02-04T12:30:33.000",
+    "zip": "90806"
+}

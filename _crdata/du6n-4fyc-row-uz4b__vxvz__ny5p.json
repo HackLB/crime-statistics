@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-29T12:30:30.367Z",
-    ":updated_at": "2017-02-03T13:02:38.941Z",
-    ":version": "rv-grz3_du5q_x459",
+    ":updated_at": "2017-02-04T12:31:14.431Z",
+    ":version": "rv-q54u.qypc-yfvb",
     "address_1": "1300 Block W 15TH ST",
     "case_number": "170005676",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-uz4b__vxvz__ny5p",
     "state": "CA",
-    "updated_at": "2017-02-03T13:02:33.000",
+    "updated_at": "2017-02-04T12:31:10.000",
     "zip": "90813"
 }

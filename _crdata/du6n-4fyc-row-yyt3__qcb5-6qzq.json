@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-28T12:30:20.696Z",
-    ":updated_at": "2017-02-03T12:47:16.378Z",
-    ":version": "rv-jspe-n72y_v2wq",
+    ":updated_at": "2017-02-04T12:31:14.431Z",
+    ":version": "rv-3d5y-k9yd~fiur",
     "address_1": "4400 Block CALIFORNIA AV",
     "case_number": "170005274",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-yyt3__qcb5-6qzq",
     "state": "CA",
-    "updated_at": "2017-02-03T12:47:11.000",
+    "updated_at": "2017-02-04T12:31:09.000",
     "zip": "90807"
 }
