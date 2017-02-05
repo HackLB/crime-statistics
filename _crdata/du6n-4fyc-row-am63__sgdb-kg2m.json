@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-27T12:30:24.617Z",
-    ":updated_at": "2017-02-04T12:30:46.127Z",
-    ":version": "rv-99hu~qkh7_j3hm",
+    ":updated_at": "2017-02-05T12:32:31.202Z",
+    ":version": "rv-3dup-mjj6-8kfq",
     "address_1": "W 32ND ST & CHESTNUT AV",
     "case_number": "170004476",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft of Vehicle",
     "primary_key": "du6n-4fyc-row-am63__sgdb-kg2m",
     "state": "CA",
-    "updated_at": "2017-02-04T12:30:43.000",
+    "updated_at": "2017-02-05T12:32:26.000",
     "zip": "90806"
 }

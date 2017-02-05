@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-02-03T12:36:34.213Z",
-    ":updated_at": "2017-02-04T12:31:14.431Z",
-    ":version": "rv-cj6j~642a-4q6g",
+    ":updated_at": "2017-02-05T12:32:55.542Z",
+    ":version": "rv-pbdg~389r-b3zb",
     "address_1": "2300 Block IROQUOIS AV",
     "case_number": "170005008",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-cfb3__yr3j_v7af",
     "state": "CA",
-    "updated_at": "2017-02-04T12:31:07.000",
+    "updated_at": "2017-02-05T12:32:50.000",
     "zip": "90815"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-26T12:30:20.817Z",
-    ":updated_at": "2017-02-04T12:30:56.821Z",
-    ":version": "rv-jy5k.dz8n-83md",
+    ":updated_at": "2017-02-05T12:32:35.678Z",
+    ":version": "rv-ufez~5saf-ykbr",
     "address_1": "1900 Block SANTA FE AV",
     "case_number": "170004551",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-asyj_sfws__e7xc",
     "state": "CA",
-    "updated_at": "2017-02-04T12:30:52.000",
+    "updated_at": "2017-02-05T12:32:31.000",
     "zip": "90810"
 }

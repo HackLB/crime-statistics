@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-25T12:30:20.986Z",
-    ":updated_at": "2017-02-04T12:31:02.548Z",
-    ":version": "rv-9mbg_6cqa-g4s5",
+    ":updated_at": "2017-02-05T12:32:40.841Z",
+    ":version": "rv-hnwm.vvmb.d23n",
     "address_1": "7200 Block CARSON BLVD",
     "case_number": "170004605",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-7u5v__nkm5__4tzm",
     "state": "CA",
-    "updated_at": "2017-02-04T12:31:00.000",
+    "updated_at": "2017-02-05T12:32:35.000",
     "zip": "90808"
 }
