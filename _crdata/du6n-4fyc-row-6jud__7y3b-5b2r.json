@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-28T12:31:02.484Z",
+    ":updated_at": "2017-02-08T12:32:11.502Z",
+    ":version": "rv-5i2z_darx_3wmi",
+    "address_1": "1600 Block WALNUT AV",
+    "case_number": "170005483",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Breaking & Entering",
+        "sub_category": "breaking-and-entering"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-28T10:34:36.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "20",
+    "incident_datetime": "2017-01-20T20:00:00.000",
+    "incident_description": "BURGLARY - RESIDENTIAL",
+    "incident_id": "790966523",
+    "incident_type_primary": "Burglary",
+    "latitude": "33.7870434",
+    "location": {
+        "coordinates": [
+            -118.171963,
+            33.7870434
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.171963",
+    "parent_incident_type": "Breaking & Entering",
+    "primary_key": "du6n-4fyc-row-6jud__7y3b-5b2r",
+    "state": "CA",
+    "updated_at": "2017-02-08T12:32:07.000",
+    "zip": "90813"
+}
