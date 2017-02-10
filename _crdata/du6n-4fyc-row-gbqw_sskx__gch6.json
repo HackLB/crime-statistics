@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-01-29T12:31:39.036Z",
+    ":updated_at": "2017-02-10T12:30:42.379Z",
+    ":version": "rv-3si6~jneq_ewui",
+    "address_1": "1500 Block STANTON PL",
+    "case_number": "170005675",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-01-29T10:34:36.000",
+    "day_of_week": "Friday",
+    "hour_of_day": "15",
+    "incident_datetime": "2017-01-13T15:40:00.000",
+    "incident_description": "BATTERY",
+    "incident_id": "791032525",
+    "incident_type_primary": "Assault",
+    "latitude": "33.7862521",
+    "location": {
+        "coordinates": [
+            -118.1647527,
+            33.7862521
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1647527",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-gbqw_sskx__gch6",
+    "state": "CA",
+    "updated_at": "2017-02-10T12:30:38.000",
+    "zip": "90804"
+}

@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-02-04T12:30:54.609Z",
+    ":updated_at": "2017-02-10T12:30:42.379Z",
+    ":version": "rv-yfmf_jj2u.jgvu",
+    "address_1": "3200 Block LONG BEACH BLVD",
+    "case_number": "170006955",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-02-04T12:30:10.000",
+    "day_of_week": "Monday",
+    "hour_of_day": "12",
+    "incident_datetime": "2017-01-23T12:00:00.000",
+    "incident_description": "PETTY THEFT",
+    "incident_id": "791588376",
+    "incident_type_primary": "Theft",
+    "latitude": "33.8156294",
+    "location": {
+        "coordinates": [
+            -118.1889897,
+            33.8156294
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.1889897",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-j9hi-22ru-kqj8",
+    "state": "CA",
+    "updated_at": "2017-02-10T12:30:38.000",
+    "zip": "90807"
+}
