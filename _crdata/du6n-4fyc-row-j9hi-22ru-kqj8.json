@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-02-04T12:30:54.609Z",
-    ":updated_at": "2017-02-14T12:32:23.542Z",
-    ":version": "rv-6yw9-bjet-nixp",
+    ":updated_at": "2017-02-15T12:30:42.320Z",
+    ":version": "rv-s68b_5f6r-3j5a",
     "address_1": "3200 Block LONG BEACH BLVD",
     "case_number": "170006955",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-j9hi-22ru-kqj8",
     "state": "CA",
-    "updated_at": "2017-02-14T12:32:20.000",
+    "updated_at": "2017-02-15T12:30:39.000",
     "zip": "90807"
 }
