@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-02-17T12:30:39.048Z",
+    ":updated_at": "2017-02-17T12:30:39.048Z",
+    ":version": "rv-pzj8_td6b_4z34",
+    "address_1": "1800 Block HACKETT AV",
+    "case_number": "171000112",
+    "categorization": {
+        "category": "property",
+        "incident_type": "Theft",
+        "sub_category": "theft"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-02-17T12:30:19.000",
+    "day_of_week": "Wednesday",
+    "hour_of_day": "3",
+    "incident_datetime": "2017-01-11T03:00:00.000",
+    "incident_description": "PETTY THEFT: FROM AUTO",
+    "incident_id": "793865391",
+    "incident_type_primary": "Theft",
+    "latitude": "33.78905",
+    "location": {
+        "coordinates": [
+            -118.10661,
+            33.78905
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.10661",
+    "parent_incident_type": "Theft",
+    "primary_key": "du6n-4fyc-row-dp7u__9kui__vbgp",
+    "state": "CA",
+    "updated_at": "2017-02-17T12:30:34.000",
+    "zip": "90815"
+}
