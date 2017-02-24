@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-02-17T12:30:39.048Z",
-    ":updated_at": "2017-02-23T12:33:23.971Z",
-    ":version": "rv-v67w~3fju_sky5",
+    ":updated_at": "2017-02-24T12:30:45.477Z",
+    ":version": "rv-9xzz.9fmz.jj8x",
     "address_1": "1800 Block HACKETT AV",
     "case_number": "171000112",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-dp7u__9kui__vbgp",
     "state": "CA",
-    "updated_at": "2017-02-23T12:33:18.000",
+    "updated_at": "2017-02-24T12:30:40.000",
     "zip": "90815"
 }
