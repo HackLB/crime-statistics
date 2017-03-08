@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-12T12:30:55.797Z",
-    ":updated_at": "2017-01-14T12:31:22.674Z",
-    ":version": "rv-wg2p_cf62~m4a3",
+    ":updated_at": "2017-03-08T01:36:45.776Z",
+    ":version": "rv-whkm-aaq3~ekhc",
     "address_1": "500 Block RHEA ST",
     "case_number": "170001979",
     "categorization": {
@@ -22,7 +22,7 @@
     "location": {
         "coordinates": [
             -118.1871996,
-            33.79256280000001
+            33.7925628
         ],
         "type": "Point"
     },

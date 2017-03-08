@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-11T12:31:10.926Z",
-    ":updated_at": "2017-01-23T12:30:40.784Z",
-    ":version": "rv-9g6y_geha~2wfb",
+    ":updated_at": "2017-03-08T01:36:45.776Z",
+    ":version": "rv-5zer-pxt7~k37t",
     "address_1": "2900 Block BELLFLOWER BLVD",
     "case_number": "170001961",
     "categorization": {
@@ -21,8 +21,8 @@
     "latitude": "33.8095094602533",
     "location": {
         "coordinates": [
-            -118.12438502238365,
-            33.80950946025328
+            -118.124385022384,
+            33.8095094602533
         ],
         "type": "Point"
     },

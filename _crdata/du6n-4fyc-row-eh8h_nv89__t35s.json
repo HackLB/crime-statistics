@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-19T15:35:10.173Z",
-    ":updated_at": "2017-01-23T12:30:35.023Z",
-    ":version": "rv-mvqe_7zc8.fdff",
+    ":updated_at": "2017-03-08T01:36:45.776Z",
+    ":version": "rv-i5ve.6bs9-ytwk",
     "address_1": "2900 Block FASHION AV",
     "case_number": "170001854",
     "categorization": {
@@ -22,7 +22,7 @@
     "location": {
         "coordinates": [
             -118.2086816,
-            33.80997800000001
+            33.809978
         ],
         "type": "Point"
     },

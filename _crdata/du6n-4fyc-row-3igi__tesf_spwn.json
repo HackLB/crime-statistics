@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:30:57.767Z",
-    ":updated_at": "2017-02-03T13:01:47.257Z",
-    ":version": "rv-sfgq~sm8f-cn97",
+    ":updated_at": "2017-03-08T01:36:45.776Z",
+    ":version": "rv-js34~2nat.zz8k",
     "address_1": "400 Block E 17TH ST",
     "case_number": "170004168",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Assault",
     "primary_key": "du6n-4fyc-row-3igi__tesf_spwn",
     "state": "CA",
-    "updated_at": "2017-02-03T13:01:37.000",
+    "updated_at": "2017-02-01T12:33:38.000",
     "zip": "90813"
 }

@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-16T12:30:22.353Z",
-    ":updated_at": "2017-01-28T12:30:56.452Z",
-    ":version": "rv-kwih~cpaa-9kr8",
+    ":updated_at": "2017-03-08T01:36:45.776Z",
+    ":version": "rv-h8dm~w5iv~sev6",
     "address_1": "2200 Block XIMENO AV",
     "case_number": "170003035",
     "categorization": {
@@ -22,7 +22,7 @@
     "location": {
         "coordinates": [
             -118.140734,
-            33.79620999999999
+            33.79621
         ],
         "type": "Point"
     },

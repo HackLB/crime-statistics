@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-22T12:30:57.767Z",
-    ":updated_at": "2017-02-03T13:01:47.257Z",
-    ":version": "rv-f66k-3q6z_w8m3",
+    ":updated_at": "2017-03-08T01:36:45.776Z",
+    ":version": "rv-akb2_avfu~r6gg",
     "address_1": "1400 Block E 17TH ST",
     "case_number": "170004178",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Property Crime",
     "primary_key": "du6n-4fyc-row-ijhu__npid_i7q3",
     "state": "CA",
-    "updated_at": "2017-02-03T13:01:39.000",
+    "updated_at": "2017-02-01T12:34:03.000",
     "zip": "90813"
 }

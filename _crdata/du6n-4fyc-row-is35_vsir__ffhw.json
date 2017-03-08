@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-01-30T12:30:28.326Z",
-    ":updated_at": "2017-02-03T13:02:03.732Z",
-    ":version": "rv-2iii~2x3d_5i76",
+    ":updated_at": "2017-03-08T01:36:45.776Z",
+    ":version": "rv-wie3.3rn6~5qme",
     "address_1": "3800 Block OSTROM AV",
     "case_number": "170004242",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Theft",
     "primary_key": "du6n-4fyc-row-is35_vsir__ffhw",
     "state": "CA",
-    "updated_at": "2017-02-03T13:01:56.000",
+    "updated_at": "2017-02-01T12:33:40.000",
     "zip": "90808"
 }
