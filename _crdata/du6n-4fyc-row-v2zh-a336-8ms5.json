@@ -1,7 +1,7 @@
 {
     ":created_at": "2017-04-05T15:22:11.856Z",
-    ":updated_at": "2017-04-05T15:22:11.856Z",
-    ":version": "rv-fix6_bhun~m32v",
+    ":updated_at": "2017-04-06T18:42:43.028Z",
+    ":version": "rv-yjy2.q46p_rnix",
     "address_1": "1100 Block E PACIFIC COAST HWY",
     "case_number": "170018138",
     "categorization": {
@@ -30,6 +30,6 @@
     "parent_incident_type": "Other Sexual Offense",
     "primary_key": "du6n-4fyc-row-v2zh-a336-8ms5",
     "state": "CA",
-    "updated_at": "2017-04-05T11:30:33.000",
+    "updated_at": "2017-04-06T11:30:34.000",
     "zip": "90806"
 }
