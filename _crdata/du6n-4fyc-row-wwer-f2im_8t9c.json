@@ -1,0 +1,35 @@
+{
+    ":created_at": "2017-04-15T11:30:20.266Z",
+    ":updated_at": "2017-04-26T11:30:51.837Z",
+    ":version": "rv-yvae~ieh9-tn68",
+    "address_1": "2500 Block PASADENA AV",
+    "case_number": "170021801",
+    "categorization": {
+        "category": "violent",
+        "incident_type": "Assault",
+        "sub_category": "assault"
+    },
+    "city": "LONG BEACH",
+    "clearance_type": "",
+    "created_at": "2017-04-15T11:30:11.000",
+    "day_of_week": "Saturday",
+    "hour_of_day": "20",
+    "incident_datetime": "2017-01-14T20:10:00.000",
+    "incident_description": "INFLICT CORP INJURY; SPOUSE/COHABITANT",
+    "incident_id": "801975066",
+    "incident_type_primary": "Assault",
+    "latitude": "33.802751",
+    "location": {
+        "coordinates": [
+            -118.187018,
+            33.802751
+        ],
+        "type": "Point"
+    },
+    "longitude": "-118.187018",
+    "parent_incident_type": "Assault",
+    "primary_key": "du6n-4fyc-row-wwer-f2im_8t9c",
+    "state": "CA",
+    "updated_at": "2017-04-26T11:30:50.000",
+    "zip": "90806"
+}
